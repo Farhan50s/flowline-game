@@ -1,0 +1,996 @@
+{
+  "recipe": "procedural-v2-feasibility-r2",
+  "note": "Exact segment-center contacts, ±6px axis jitter, and ±22px stress displacements; hypothetical intended-arrow errors, not real-device probabilities. Zoom probes use centered pan and clip. CPU timings are Node host calls, not phone input latency.",
+  "views": [
+    {
+      "family": "A",
+      "seed": 0,
+      "viewport": {
+        "width": 320,
+        "height": 568
+      },
+      "safe": {
+        "x": 16,
+        "y": 72,
+        "width": 288,
+        "height": 400
+      },
+      "zoom": 1,
+      "cell": 13.571428571428571,
+      "stroke": 1.8,
+      "head": 4.2,
+      "corner": 2,
+      "zoomFor24px": 1.768421052631579,
+      "zoomFor32px": 2.3578947368421055,
+      "maxFourTimesEnoughFor32": true,
+      "visibleSegmentCenters": 297,
+      "exact": {
+        "correct": 297,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "jitter6": {
+        "correct": 934,
+        "ambiguous": 254,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "stress22": {
+        "correct": 430,
+        "ambiguous": 346,
+        "miss": 0,
+        "wrong": 382,
+        "outside": 30
+      },
+      "centerlineBounds": {
+        "minX": 51.42857142857143,
+        "maxX": 268.57142857142856,
+        "minY": 82,
+        "maxY": 462
+      },
+      "hitProcessingMs": {
+        "mean": 0.13709110858872542,
+        "p95": 0.23870000000010805,
+        "max": 1.4447000000000116
+      }
+    },
+    {
+      "family": "A",
+      "seed": 0,
+      "viewport": {
+        "width": 320,
+        "height": 568
+      },
+      "safe": {
+        "x": 16,
+        "y": 72,
+        "width": 288,
+        "height": 400
+      },
+      "zoom": 2,
+      "cell": 27.142857142857142,
+      "stroke": 2.117142857142857,
+      "head": 4.614285714285715,
+      "corner": 3.5285714285714285,
+      "zoomFor24px": 1.768421052631579,
+      "zoomFor32px": 2.3578947368421055,
+      "maxFourTimesEnoughFor32": true,
+      "visibleSegmentCenters": 84,
+      "exact": {
+        "correct": 84,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "jitter6": {
+        "correct": 336,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "stress22": {
+        "correct": 244,
+        "ambiguous": 25,
+        "miss": 0,
+        "wrong": 49,
+        "outside": 18
+      },
+      "centerlineBounds": {
+        "minX": -57.14285714285714,
+        "maxX": 377.1428571428571,
+        "minY": -108,
+        "maxY": 652
+      },
+      "hitProcessingMs": {
+        "mean": 0.1229040650406446,
+        "p95": 0.2585999999998876,
+        "max": 0.8119000000000369
+      }
+    },
+    {
+      "family": "A",
+      "seed": 0,
+      "viewport": {
+        "width": 320,
+        "height": 568
+      },
+      "safe": {
+        "x": 16,
+        "y": 72,
+        "width": 288,
+        "height": 400
+      },
+      "zoom": 4,
+      "cell": 54.285714285714285,
+      "stroke": 3.1,
+      "head": 7,
+      "corner": 7,
+      "zoomFor24px": 1.768421052631579,
+      "zoomFor32px": 2.3578947368421055,
+      "maxFourTimesEnoughFor32": true,
+      "visibleSegmentCenters": 23,
+      "exact": {
+        "correct": 23,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "jitter6": {
+        "correct": 92,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "stress22": {
+        "correct": 86,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 6
+      },
+      "centerlineBounds": {
+        "minX": -274.2857142857143,
+        "maxX": 594.2857142857142,
+        "minY": -488,
+        "maxY": 1032
+      },
+      "hitProcessingMs": {
+        "mean": 0.09940398009950573,
+        "p95": 0.12229999999999563,
+        "max": 0.41450000000008913
+      }
+    },
+    {
+      "family": "A",
+      "seed": 0,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "safe": {
+        "x": 16,
+        "y": 72,
+        "width": 358,
+        "height": 676
+      },
+      "zoom": 1,
+      "cell": 21.125,
+      "stroke": 1.8,
+      "head": 4.2,
+      "corner": 2.7462500000000003,
+      "zoomFor24px": 1.136094674556213,
+      "zoomFor32px": 1.514792899408284,
+      "maxFourTimesEnoughFor32": true,
+      "visibleSegmentCenters": 297,
+      "exact": {
+        "correct": 297,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "jitter6": {
+        "correct": 1188,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "stress22": {
+        "correct": 661,
+        "ambiguous": 309,
+        "miss": 0,
+        "wrong": 174,
+        "outside": 44
+      },
+      "centerlineBounds": {
+        "minX": 26,
+        "maxX": 364,
+        "minY": 114.25,
+        "maxY": 705.75
+      },
+      "hitProcessingMs": {
+        "mean": 0.13099037656903692,
+        "p95": 0.19399999999995998,
+        "max": 0.6873000000000502
+      }
+    },
+    {
+      "family": "A",
+      "seed": 0,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "safe": {
+        "x": 16,
+        "y": 72,
+        "width": 358,
+        "height": 676
+      },
+      "zoom": 2,
+      "cell": 42.25,
+      "stroke": 3.1,
+      "head": 7,
+      "corner": 5.492500000000001,
+      "zoomFor24px": 1.136094674556213,
+      "zoomFor32px": 1.514792899408284,
+      "maxFourTimesEnoughFor32": true,
+      "visibleSegmentCenters": 74,
+      "exact": {
+        "correct": 74,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "jitter6": {
+        "correct": 296,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "stress22": {
+        "correct": 252,
+        "ambiguous": 26,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 18
+      },
+      "centerlineBounds": {
+        "minX": -143,
+        "maxX": 533,
+        "minY": -181.5,
+        "maxY": 1001.5
+      },
+      "hitProcessingMs": {
+        "mean": 0.10569969135802304,
+        "p95": 0.13850000000002183,
+        "max": 0.37370000000009895
+      }
+    },
+    {
+      "family": "A",
+      "seed": 0,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "safe": {
+        "x": 16,
+        "y": 72,
+        "width": 358,
+        "height": 676
+      },
+      "zoom": 4,
+      "cell": 84.5,
+      "stroke": 3.1,
+      "head": 7,
+      "corner": 7,
+      "zoomFor24px": 1.136094674556213,
+      "zoomFor32px": 1.514792899408284,
+      "maxFourTimesEnoughFor32": true,
+      "visibleSegmentCenters": 21,
+      "exact": {
+        "correct": 21,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "jitter6": {
+        "correct": 83,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 1
+      },
+      "stress22": {
+        "correct": 78,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 6
+      },
+      "centerlineBounds": {
+        "minX": -481,
+        "maxX": 871,
+        "minY": -773,
+        "maxY": 1593
+      },
+      "hitProcessingMs": {
+        "mean": 0.1004708791208761,
+        "p95": 0.14249999999992724,
+        "max": 0.45309999999994943
+      }
+    },
+    {
+      "family": "A",
+      "seed": 0,
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "safe": {
+        "x": 112,
+        "y": 16,
+        "width": 644,
+        "height": 358
+      },
+      "zoom": 1,
+      "cell": 12.071428571428571,
+      "stroke": 1.8,
+      "head": 4.2,
+      "corner": 2,
+      "zoomFor24px": 1.9881656804733727,
+      "zoomFor32px": 2.6508875739644973,
+      "maxFourTimesEnoughFor32": true,
+      "visibleSegmentCenters": 297,
+      "exact": {
+        "correct": 297,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "jitter6": {
+        "correct": 934,
+        "ambiguous": 254,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "stress22": {
+        "correct": 337,
+        "ambiguous": 370,
+        "miss": 0,
+        "wrong": 451,
+        "outside": 30
+      },
+      "centerlineBounds": {
+        "minX": 337.42857142857144,
+        "maxX": 530.5714285714286,
+        "minY": 26,
+        "maxY": 364
+      },
+      "hitProcessingMs": {
+        "mean": 0.13051502080968605,
+        "p95": 0.19529999999986103,
+        "max": 0.45450000000005275
+      }
+    },
+    {
+      "family": "A",
+      "seed": 0,
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "safe": {
+        "x": 112,
+        "y": 16,
+        "width": 644,
+        "height": 358
+      },
+      "zoom": 2,
+      "cell": 24.142857142857142,
+      "stroke": 1.883142857142857,
+      "head": 4.2,
+      "corner": 3.138571428571429,
+      "zoomFor24px": 1.9881656804733727,
+      "zoomFor32px": 2.6508875739644973,
+      "maxFourTimesEnoughFor32": true,
+      "visibleSegmentCenters": 151,
+      "exact": {
+        "correct": 151,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "jitter6": {
+        "correct": 604,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "stress22": {
+        "correct": 357,
+        "ambiguous": 149,
+        "miss": 1,
+        "wrong": 90,
+        "outside": 7
+      },
+      "centerlineBounds": {
+        "minX": 240.85714285714286,
+        "maxX": 627.1428571428571,
+        "minY": -143,
+        "maxY": 533
+      },
+      "hitProcessingMs": {
+        "mean": 0.11751582840236449,
+        "p95": 0.15949999999998,
+        "max": 0.5329000000001543
+      }
+    },
+    {
+      "family": "A",
+      "seed": 0,
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "safe": {
+        "x": 112,
+        "y": 16,
+        "width": 644,
+        "height": 358
+      },
+      "zoom": 4,
+      "cell": 48.285714285714285,
+      "stroke": 3.1,
+      "head": 7,
+      "corner": 6.277142857142858,
+      "zoomFor24px": 1.9881656804733727,
+      "zoomFor32px": 2.6508875739644973,
+      "maxFourTimesEnoughFor32": true,
+      "visibleSegmentCenters": 60,
+      "exact": {
+        "correct": 60,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "jitter6": {
+        "correct": 240,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "stress22": {
+        "correct": 225,
+        "ambiguous": 0,
+        "miss": 1,
+        "wrong": 0,
+        "outside": 14
+      },
+      "centerlineBounds": {
+        "minX": 47.71428571428572,
+        "maxX": 820.2857142857142,
+        "minY": -481,
+        "maxY": 871
+      },
+      "hitProcessingMs": {
+        "mean": 0.10873022813689723,
+        "p95": 0.15270000000009532,
+        "max": 0.39210000000002765
+      }
+    },
+    {
+      "family": "B",
+      "seed": 0,
+      "viewport": {
+        "width": 320,
+        "height": 568
+      },
+      "safe": {
+        "x": 16,
+        "y": 72,
+        "width": 288,
+        "height": 400
+      },
+      "zoom": 1,
+      "cell": 10.555555555555555,
+      "stroke": 1.8,
+      "head": 4.2,
+      "corner": 2,
+      "zoomFor24px": 2.2736842105263158,
+      "zoomFor32px": 3.031578947368421,
+      "maxFourTimesEnoughFor32": true,
+      "visibleSegmentCenters": 462,
+      "exact": {
+        "correct": 462,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "jitter6": {
+        "correct": 1519,
+        "ambiguous": 329,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "stress22": {
+        "correct": 429,
+        "ambiguous": 742,
+        "miss": 0,
+        "wrong": 623,
+        "outside": 54
+      },
+      "centerlineBounds": {
+        "minX": 43.888888888888886,
+        "maxX": 276.1111111111111,
+        "minY": 82,
+        "maxY": 462
+      },
+      "hitProcessingMs": {
+        "mean": 0.19657538986354803,
+        "p95": 0.26430000000027576,
+        "max": 2.5086999999998625
+      }
+    },
+    {
+      "family": "B",
+      "seed": 0,
+      "viewport": {
+        "width": 320,
+        "height": 568
+      },
+      "safe": {
+        "x": 16,
+        "y": 72,
+        "width": 288,
+        "height": 400
+      },
+      "zoom": 3,
+      "cell": 31.666666666666664,
+      "stroke": 2.4699999999999998,
+      "head": 5.383333333333334,
+      "corner": 4.116666666666666,
+      "zoomFor24px": 2.2736842105263158,
+      "zoomFor32px": 3.031578947368421,
+      "maxFourTimesEnoughFor32": true,
+      "visibleSegmentCenters": 55,
+      "exact": {
+        "correct": 55,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "jitter6": {
+        "correct": 216,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 4
+      },
+      "stress22": {
+        "correct": 164,
+        "ambiguous": 29,
+        "miss": 0,
+        "wrong": 18,
+        "outside": 9
+      },
+      "centerlineBounds": {
+        "minX": -188.33333333333331,
+        "maxX": 508.3333333333333,
+        "minY": -298,
+        "maxY": 842
+      },
+      "hitProcessingMs": {
+        "mean": 0.14649294605811253,
+        "p95": 0.17930000000023938,
+        "max": 0.6079999999997199
+      }
+    },
+    {
+      "family": "B",
+      "seed": 0,
+      "viewport": {
+        "width": 320,
+        "height": 568
+      },
+      "safe": {
+        "x": 16,
+        "y": 72,
+        "width": 288,
+        "height": 400
+      },
+      "zoom": 4,
+      "cell": 42.22222222222222,
+      "stroke": 3.1,
+      "head": 7,
+      "corner": 5.488888888888889,
+      "zoomFor24px": 2.2736842105263158,
+      "zoomFor32px": 3.031578947368421,
+      "maxFourTimesEnoughFor32": true,
+      "visibleSegmentCenters": 35,
+      "exact": {
+        "correct": 35,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "jitter6": {
+        "correct": 140,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "stress22": {
+        "correct": 119,
+        "ambiguous": 14,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 7
+      },
+      "centerlineBounds": {
+        "minX": -304.44444444444446,
+        "maxX": 624.4444444444445,
+        "minY": -488,
+        "maxY": 1032
+      },
+      "hitProcessingMs": {
+        "mean": 0.14085844155846933,
+        "p95": 0.1696999999999207,
+        "max": 0.45790000000033615
+      }
+    },
+    {
+      "family": "B",
+      "seed": 0,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "safe": {
+        "x": 16,
+        "y": 72,
+        "width": 358,
+        "height": 676
+      },
+      "zoom": 1,
+      "cell": 15.363636363636363,
+      "stroke": 1.8,
+      "head": 4.2,
+      "corner": 2,
+      "zoomFor24px": 1.5621301775147929,
+      "zoomFor32px": 2.0828402366863905,
+      "maxFourTimesEnoughFor32": true,
+      "visibleSegmentCenters": 462,
+      "exact": {
+        "correct": 462,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "jitter6": {
+        "correct": 1519,
+        "ambiguous": 329,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "stress22": {
+        "correct": 813,
+        "ambiguous": 445,
+        "miss": 1,
+        "wrong": 520,
+        "outside": 69
+      },
+      "centerlineBounds": {
+        "minX": 26,
+        "maxX": 364,
+        "minY": 133.45454545454544,
+        "maxY": 686.5454545454545
+      },
+      "hitProcessingMs": {
+        "mean": 0.19155350941549776,
+        "p95": 0.2561000000000604,
+        "max": 0.6113999999997759
+      }
+    },
+    {
+      "family": "B",
+      "seed": 0,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "safe": {
+        "x": 16,
+        "y": 72,
+        "width": 358,
+        "height": 676
+      },
+      "zoom": 3,
+      "cell": 46.09090909090909,
+      "stroke": 3.1,
+      "head": 7,
+      "corner": 5.991818181818182,
+      "zoomFor24px": 1.5621301775147927,
+      "zoomFor32px": 2.0828402366863905,
+      "maxFourTimesEnoughFor32": true,
+      "visibleSegmentCenters": 55,
+      "exact": {
+        "correct": 55,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "jitter6": {
+        "correct": 220,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "stress22": {
+        "correct": 211,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 9
+      },
+      "centerlineBounds": {
+        "minX": -312,
+        "maxX": 702,
+        "minY": -419.63636363636374,
+        "maxY": 1239.6363636363637
+      },
+      "hitProcessingMs": {
+        "mean": 0.13985349794240015,
+        "p95": 0.16499999999996362,
+        "max": 0.42219999999997526
+      }
+    },
+    {
+      "family": "B",
+      "seed": 0,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "safe": {
+        "x": 16,
+        "y": 72,
+        "width": 358,
+        "height": 676
+      },
+      "zoom": 4,
+      "cell": 61.45454545454545,
+      "stroke": 3.1,
+      "head": 7,
+      "corner": 7,
+      "zoomFor24px": 1.5621301775147929,
+      "zoomFor32px": 2.0828402366863905,
+      "maxFourTimesEnoughFor32": true,
+      "visibleSegmentCenters": 37,
+      "exact": {
+        "correct": 37,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "jitter6": {
+        "correct": 147,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 1
+      },
+      "stress22": {
+        "correct": 147,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 1
+      },
+      "centerlineBounds": {
+        "minX": -481,
+        "maxX": 871,
+        "minY": -696.1818181818182,
+        "maxY": 1516.1818181818182
+      },
+      "hitProcessingMs": {
+        "mean": 0.1383531722054459,
+        "p95": 0.1546000000003005,
+        "max": 0.5797000000002299
+      }
+    },
+    {
+      "family": "B",
+      "seed": 0,
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "safe": {
+        "x": 112,
+        "y": 16,
+        "width": 644,
+        "height": 358
+      },
+      "zoom": 1,
+      "cell": 9.38888888888889,
+      "stroke": 1.8,
+      "head": 4.2,
+      "corner": 2,
+      "zoomFor24px": 2.556213017751479,
+      "zoomFor32px": 3.4082840236686387,
+      "maxFourTimesEnoughFor32": true,
+      "visibleSegmentCenters": 462,
+      "exact": {
+        "correct": 462,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "jitter6": {
+        "correct": 1212,
+        "ambiguous": 636,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "stress22": {
+        "correct": 369,
+        "ambiguous": 802,
+        "miss": 0,
+        "wrong": 623,
+        "outside": 54
+      },
+      "centerlineBounds": {
+        "minX": 330.72222222222223,
+        "maxX": 537.2777777777778,
+        "minY": 26,
+        "maxY": 364
+      },
+      "hitProcessingMs": {
+        "mean": 0.19434500487330197,
+        "p95": 0.2628000000004249,
+        "max": 0.9023000000006505
+      }
+    },
+    {
+      "family": "B",
+      "seed": 0,
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "safe": {
+        "x": 112,
+        "y": 16,
+        "width": 644,
+        "height": 358
+      },
+      "zoom": 3,
+      "cell": 28.166666666666668,
+      "stroke": 2.197,
+      "head": 4.788333333333334,
+      "corner": 3.661666666666667,
+      "zoomFor24px": 2.556213017751479,
+      "zoomFor32px": 3.4082840236686387,
+      "maxFourTimesEnoughFor32": true,
+      "visibleSegmentCenters": 149,
+      "exact": {
+        "correct": 149,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "jitter6": {
+        "correct": 596,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "stress22": {
+        "correct": 472,
+        "ambiguous": 68,
+        "miss": 0,
+        "wrong": 36,
+        "outside": 20
+      },
+      "centerlineBounds": {
+        "minX": 124.16666666666663,
+        "maxX": 743.8333333333334,
+        "minY": -312,
+        "maxY": 702
+      },
+      "hitProcessingMs": {
+        "mean": 0.1644830431491428,
+        "p95": 0.20060000000012224,
+        "max": 0.5423000000000684
+      }
+    },
+    {
+      "family": "B",
+      "seed": 0,
+      "viewport": {
+        "width": 844,
+        "height": 390
+      },
+      "safe": {
+        "x": 112,
+        "y": 16,
+        "width": 644,
+        "height": 358
+      },
+      "zoom": 4,
+      "cell": 37.55555555555556,
+      "stroke": 2.9293333333333336,
+      "head": 6.384444444444445,
+      "corner": 4.8822222222222225,
+      "zoomFor24px": 2.556213017751479,
+      "zoomFor32px": 3.4082840236686387,
+      "maxFourTimesEnoughFor32": true,
+      "visibleSegmentCenters": 86,
+      "exact": {
+        "correct": 86,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 0
+      },
+      "jitter6": {
+        "correct": 336,
+        "ambiguous": 0,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 8
+      },
+      "stress22": {
+        "correct": 304,
+        "ambiguous": 16,
+        "miss": 0,
+        "wrong": 0,
+        "outside": 24
+      },
+      "centerlineBounds": {
+        "minX": 20.888888888888857,
+        "maxX": 847.1111111111111,
+        "minY": -481,
+        "maxY": 871
+      },
+      "hitProcessingMs": {
+        "mean": 0.15520619946090972,
+        "p95": 0.19770000000062282,
+        "max": 0.583400000000438
+      }
+    }
+  ]
+}

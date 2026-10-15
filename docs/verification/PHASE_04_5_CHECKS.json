@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-15",
+  "timezone": "Asia/Karachi",
+  "baseline": { "exitCode": 0, "files": 15, "tests": 1315, "durationSeconds": 18.29 },
+  "typecheck": { "command": "npm run typecheck", "exitCode": 0 },
+  "tests": { "command": "npm run test", "exitCode": 0, "files": 17, "tests": 1360, "durationSeconds": 20.70, "seedCases": 1000, "generated": 1000, "verified": 1000 },
+  "build": { "command": "npm run build", "exitCode": 0, "modules": 27, "viteMilliseconds": 100, "htmlKB": 0.67, "cssKB": 18.92, "jsKB": 62.87, "css": "index-Cvc58Zmr.css", "js": "index-yKL7_gK7.js" },
+  "androidSync": { "command": "npm run android:sync", "exitCode": 0, "rebuildMilliseconds": 105, "syncSeconds": 0.086, "matchingWebAssets": 4 },
+  "preservation": { "originalFiles": 84, "unchangedCheckpoint": 84, "unchangedFiles": 82, "automaticallyRefreshedHistoricalTimingReports": 2, "previousSeedReportsRestored": false, "nonTimingSeedMetricsMatchPhase4": true },
+  "nativeBuild": { "performed": false, "installedJava": "1.8.0_51", "javaHome": null, "androidHome": null, "androidSdkRoot": null, "defaultAndroidSdkPresent": false, "adbAvailable": false, "apkPresent": false },
+  "browser": { "viewports": [[320,568],[360,800],[390,844],[430,932],[844,390]], "gameplayDocumentScroll": false, "consoleErrorsOrWarningsObserved": 0, "productionEffectiveReducedMotion": true, "normalMotionLabRealSolutionsCompleted": 4, "lastLabExtractionFrames": 17, "lastLabMaxGapMilliseconds": 17, "lastLabMaxDrawMilliseconds": 0.2, "physicalMultitouchTested": false, "physicalAndroidTested": false },
+  "scope": { "generatorV1Changed": false, "saveSchemaChanged": false, "dependenciesChanged": false, "phase5Started": false, "denseV2Implemented": false, "committed": false, "pushed": false, "deployed": false }
+}

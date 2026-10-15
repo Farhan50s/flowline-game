@@ -1,0 +1,24 @@
+
+> flowline@0.1.0 android:sync
+> npm run build && cap sync android
+
+
+> flowline@0.1.0 build
+> tsc --noEmit && vite build
+
+vite v8.3.4 building client environment for production...
+transforming...
+✓ 29 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                  0.67 kB │ gzip:  0.39 kB
+dist/assets/index-CJogRmSs.css  19.00 kB │ gzip:  4.56 kB
+dist/assets/index-DxlKE-ft.js   74.06 kB │ gzip: 25.54 kB
+
+✓ built in 119ms
+√ Copying web assets from dist to android\app\src\main\assets\public in 13.23ms
+√ Creating capacitor.config.json in android\app\src\main\assets in 762.40μs
+√ copy android in 34.40ms
+√ Updating Android plugins in 3.53ms
+√ update android in 49.36ms
+[info] Sync finished in 0.101s

@@ -1,0 +1,1088 @@
+[
+  {
+    "case": "production-320",
+    "layout": {
+      "canvas": {
+        "height": 568,
+        "width": 320,
+        "x": 0,
+        "y": 0
+      },
+      "controls": [
+        {
+          "height": 56,
+          "label": "Magnify puzzle",
+          "width": 56,
+          "x": 94,
+          "y": 496
+        },
+        {
+          "height": 56,
+          "label": "Reset view",
+          "width": 56,
+          "x": 170,
+          "y": 496
+        }
+      ],
+      "data": {
+        "arrowCount": "7",
+        "attempts": "2",
+        "audioEvent": "complete",
+        "audioState": "suspended",
+        "audioVoices": "0",
+        "boardSize": "7x7",
+        "cellSize": "44.667",
+        "density": "0.5714285714285714",
+        "extractionDurationMs": "468.048",
+        "extractionElapsedMs": "0.000",
+        "extractionFraction": "1.00000",
+        "extractionFrames": "1",
+        "extractionMaxGapMs": "0.000",
+        "extractionTravelPx": "424.600",
+        "hearts": "2",
+        "lastPaintMs": "0.100",
+        "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+        "maxPaintMs": "0.300",
+        "motionMode": "reduced",
+        "movingHead": "{\"x\":70.66666666666666,\"y\":830.6}",
+        "movingTail": "{\"x\":70.66666666666666,\"y\":607.2666666666667}",
+        "paintCount": "17",
+        "phase": "ready",
+        "preview": "",
+        "previewBlocker": "",
+        "previewContact": "",
+        "remaining": "6",
+        "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+        "sourceLengthPx": "223.333",
+        "tailDistance": "9.50597",
+        "trailDots": "0",
+        "zoom": "1.000"
+      },
+      "document": {
+        "height": 568,
+        "scrollHeight": 568,
+        "scrollWidth": 320,
+        "width": 320
+      },
+      "hud": {
+        "height": 56,
+        "width": 296,
+        "x": 12,
+        "y": 8
+      },
+      "preferences": {
+        "reducedMotion": "true",
+        "storedReducedMotion": "true",
+        "systemReducedMotion": "true"
+      }
+    }
+  },
+  {
+    "case": "v1-320-overview",
+    "layout": {
+      "canvas": {
+        "height": 568,
+        "width": 320,
+        "x": 0,
+        "y": 0
+      },
+      "controls": [
+        {
+          "height": 56,
+          "label": "Magnify puzzle",
+          "width": 56,
+          "x": 94,
+          "y": 496
+        },
+        {
+          "height": 56,
+          "label": "Reset view",
+          "width": 56,
+          "x": 170,
+          "y": 496
+        }
+      ],
+      "data": {
+        "arrows": "7",
+        "attempts": "0",
+        "audioEvent": "",
+        "audioState": "uninitialized",
+        "audioVoices": "0",
+        "cellSize": "44.667",
+        "family": "v1-11",
+        "generationMs": "35.80000000074506",
+        "lastPaintMs": "0.200",
+        "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+        "maxPaintMs": "0.200",
+        "paintCount": "2",
+        "phase": "ready",
+        "remaining": "7",
+        "requestedArrows": "auto",
+        "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+        "sampledPaintCount": "2",
+        "sampledPaintMeanMs": "0.35",
+        "sampledPaintP95Ms": "0.5",
+        "seed": "0",
+        "trailDots": "0",
+        "zoom": "1.000"
+      },
+      "document": {
+        "height": 568,
+        "scrollHeight": 568,
+        "scrollWidth": 320,
+        "width": 320
+      },
+      "hud": {
+        "height": 56,
+        "width": 296,
+        "x": 12,
+        "y": 8
+      },
+      "preferences": {
+        "reducedMotion": "false",
+        "storedReducedMotion": "true",
+        "systemReducedMotion": "true"
+      }
+    }
+  },
+  {
+    "case": "A-320-overview",
+    "layout": {
+      "canvas": {
+        "height": 568,
+        "width": 320,
+        "x": 0,
+        "y": 0
+      },
+      "controls": [
+        {
+          "height": 56,
+          "label": "Magnify puzzle",
+          "width": 56,
+          "x": 94,
+          "y": 496
+        },
+        {
+          "height": 56,
+          "label": "Reset view",
+          "width": 56,
+          "x": 170,
+          "y": 496
+        }
+      ],
+      "data": {
+        "arrows": "44",
+        "attempts": "0",
+        "audioEvent": "complete",
+        "audioState": "suspended",
+        "audioVoices": "0",
+        "cellSize": "13.571",
+        "extractionDurationMs": "468.048",
+        "extractionElapsedMs": "473.400",
+        "extractionFraction": "1.00000",
+        "extractionFrames": "30",
+        "extractionMaxGapMs": "17.300",
+        "extractionTravelPx": "424.600",
+        "family": "A",
+        "generationMs": "77.90000000037253",
+        "lastPaintMs": "0.200",
+        "levelId": "procedural-v2-feasibility-r2-00000000-17-29-40-55-auto-3-18-6-0.56-0.8-4-96-26000-0-A",
+        "maxPaintMs": "0.300",
+        "motionMode": "full",
+        "movingHead": "{\"x\":70.66666666666666,\"y\":830.6}",
+        "movingTail": "{\"x\":70.66666666666666,\"y\":607.2666666666667}",
+        "paintCount": "2",
+        "phase": "ready",
+        "remaining": "44",
+        "requestedArrows": "auto",
+        "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+        "sampledPaintCount": "2",
+        "sampledPaintMeanMs": "0.15000000000000002",
+        "sampledPaintP95Ms": "0.2",
+        "seed": "0",
+        "sourceLengthPx": "223.333",
+        "tailDistance": "9.50597",
+        "trailDots": "0",
+        "zoom": "1.000"
+      },
+      "document": {
+        "height": 568,
+        "scrollHeight": 568,
+        "scrollWidth": 320,
+        "width": 320
+      },
+      "hud": {
+        "height": 56,
+        "width": 296,
+        "x": 12,
+        "y": 8
+      },
+      "preferences": {
+        "reducedMotion": "false",
+        "storedReducedMotion": "true",
+        "systemReducedMotion": "true"
+      }
+    }
+  },
+  {
+    "case": "A-320-working",
+    "layout": {
+      "canvas": {
+        "height": 568,
+        "width": 320,
+        "x": 0,
+        "y": 0
+      },
+      "controls": [
+        {
+          "height": 56,
+          "label": "Magnify puzzle",
+          "width": 56,
+          "x": 94,
+          "y": 496
+        },
+        {
+          "height": 56,
+          "label": "Reset view",
+          "width": 56,
+          "x": 170,
+          "y": 496
+        }
+      ],
+      "data": {
+        "arrows": "44",
+        "attempts": "0",
+        "audioEvent": "complete",
+        "audioState": "suspended",
+        "audioVoices": "0",
+        "cellSize": "30.536",
+        "extractionDurationMs": "468.048",
+        "extractionElapsedMs": "473.400",
+        "extractionFraction": "1.00000",
+        "extractionFrames": "30",
+        "extractionMaxGapMs": "17.300",
+        "extractionTravelPx": "424.600",
+        "family": "A",
+        "generationMs": "77.90000000037253",
+        "lastPaintMs": "0.200",
+        "levelId": "procedural-v2-feasibility-r2-00000000-17-29-40-55-auto-3-18-6-0.56-0.8-4-96-26000-0-A",
+        "maxPaintMs": "0.600",
+        "motionMode": "full",
+        "movingHead": "{\"x\":70.66666666666666,\"y\":830.6}",
+        "movingTail": "{\"x\":70.66666666666666,\"y\":607.2666666666667}",
+        "paintCount": "18",
+        "phase": "ready",
+        "preview": "",
+        "previewBlocker": "",
+        "previewContact": "",
+        "remaining": "44",
+        "requestedArrows": "auto",
+        "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+        "sampledPaintCount": "17",
+        "sampledPaintMeanMs": "0.24705882352941172",
+        "sampledPaintP95Ms": "0.6",
+        "seed": "0",
+        "sourceLengthPx": "223.333",
+        "tailDistance": "9.50597",
+        "trailDots": "0",
+        "zoom": "2.250"
+      },
+      "document": {
+        "height": 568,
+        "scrollHeight": 568,
+        "scrollWidth": 320,
+        "width": 320
+      },
+      "hud": {
+        "height": 56,
+        "width": 296,
+        "x": 12,
+        "y": 8
+      },
+      "preferences": {
+        "reducedMotion": "false",
+        "storedReducedMotion": "true",
+        "systemReducedMotion": "true"
+      }
+    }
+  },
+  {
+    "case": "B-320-overview",
+    "layout": {
+      "canvas": {
+        "height": 568,
+        "width": 320,
+        "x": 0,
+        "y": 0
+      },
+      "controls": [
+        {
+          "height": 56,
+          "label": "Magnify puzzle",
+          "width": 56,
+          "x": 94,
+          "y": 496
+        },
+        {
+          "height": 56,
+          "label": "Reset view",
+          "width": 56,
+          "x": 170,
+          "y": 496
+        }
+      ],
+      "data": {
+        "arrows": "66",
+        "attempts": "0",
+        "audioEvent": "complete",
+        "audioState": "suspended",
+        "audioVoices": "0",
+        "cellSize": "10.556",
+        "extractionDurationMs": "524.772",
+        "extractionElapsedMs": "530.400",
+        "extractionFraction": "1.00000",
+        "extractionFrames": "33",
+        "extractionMaxGapMs": "17.300",
+        "extractionTravelPx": "338.839",
+        "family": "B",
+        "generationMs": "174.90000000037253",
+        "lastPaintMs": "0.200",
+        "levelId": "procedural-v2-feasibility-r2-00000000-23-37-60-85-auto-3-18-6-0.56-0.8-4-96-26000-0-B",
+        "maxPaintMs": "0.200",
+        "motionMode": "full",
+        "movingHead": "{\"x\":563.125,\"y\":125.03571428571428}",
+        "movingTail": "{\"x\":349.37499999999994,\"y\":125.03571428571428}",
+        "paintCount": "2",
+        "phase": "ready",
+        "preview": "",
+        "previewBlocker": "",
+        "previewContact": "",
+        "remaining": "66",
+        "requestedArrows": "auto",
+        "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+        "sampledPaintCount": "2",
+        "sampledPaintMeanMs": "0.25",
+        "sampledPaintP95Ms": "0.3",
+        "seed": "0",
+        "sourceLengthPx": "213.750",
+        "tailDistance": "11.09649",
+        "trailDots": "0",
+        "zoom": "1.000"
+      },
+      "document": {
+        "height": 568,
+        "scrollHeight": 568,
+        "scrollWidth": 320,
+        "width": 320
+      },
+      "hud": {
+        "height": 56,
+        "width": 296,
+        "x": 12,
+        "y": 8
+      },
+      "preferences": {
+        "reducedMotion": "false",
+        "storedReducedMotion": "true",
+        "systemReducedMotion": "true"
+      }
+    }
+  },
+  {
+    "case": "B-320-working",
+    "layout": {
+      "canvas": {
+        "height": 568,
+        "width": 320,
+        "x": 0,
+        "y": 0
+      },
+      "controls": [
+        {
+          "height": 56,
+          "label": "Magnify puzzle",
+          "width": 56,
+          "x": 94,
+          "y": 496
+        },
+        {
+          "height": 56,
+          "label": "Reset view",
+          "width": 56,
+          "x": 170,
+          "y": 496
+        }
+      ],
+      "data": {
+        "arrows": "66",
+        "attempts": "0",
+        "audioEvent": "complete",
+        "audioState": "suspended",
+        "audioVoices": "0",
+        "cellSize": "35.625",
+        "extractionDurationMs": "524.772",
+        "extractionElapsedMs": "530.400",
+        "extractionFraction": "1.00000",
+        "extractionFrames": "33",
+        "extractionMaxGapMs": "17.300",
+        "extractionTravelPx": "338.839",
+        "family": "B",
+        "generationMs": "174.90000000037253",
+        "lastPaintMs": "0.200",
+        "levelId": "procedural-v2-feasibility-r2-00000000-23-37-60-85-auto-3-18-6-0.56-0.8-4-96-26000-0-B",
+        "maxPaintMs": "0.900",
+        "motionMode": "full",
+        "movingHead": "{\"x\":563.125,\"y\":125.03571428571428}",
+        "movingTail": "{\"x\":349.37499999999994,\"y\":125.03571428571428}",
+        "paintCount": "39",
+        "phase": "ready",
+        "preview": "",
+        "previewBlocker": "",
+        "previewContact": "",
+        "remaining": "66",
+        "requestedArrows": "auto",
+        "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+        "sampledPaintCount": "38",
+        "sampledPaintMeanMs": "0.29736842105263167",
+        "sampledPaintP95Ms": "0.4",
+        "seed": "0",
+        "sourceLengthPx": "213.750",
+        "tailDistance": "11.09649",
+        "trailDots": "0",
+        "zoom": "3.375"
+      },
+      "document": {
+        "height": 568,
+        "scrollHeight": 568,
+        "scrollWidth": 320,
+        "width": 320
+      },
+      "hud": {
+        "height": 56,
+        "width": 296,
+        "x": 12,
+        "y": 8
+      },
+      "preferences": {
+        "reducedMotion": "false",
+        "storedReducedMotion": "true",
+        "systemReducedMotion": "true"
+      }
+    }
+  },
+  {
+    "case": "A-landscape-overview",
+    "layout": {
+      "canvas": {
+        "height": 390,
+        "width": 844,
+        "x": 0,
+        "y": 0
+      },
+      "controls": [
+        {
+          "height": 56,
+          "label": "Magnify puzzle",
+          "width": 56,
+          "x": 772,
+          "y": 129
+        },
+        {
+          "height": 56,
+          "label": "Reset view",
+          "width": 56,
+          "x": 772,
+          "y": 205
+        }
+      ],
+      "data": {
+        "arrows": "44",
+        "attempts": "0",
+        "audioEvent": "complete",
+        "audioState": "suspended",
+        "audioVoices": "0",
+        "cellSize": "12.071",
+        "extractionDurationMs": "493.677",
+        "extractionElapsedMs": "500.200",
+        "extractionFraction": "1.00000",
+        "extractionFrames": "31",
+        "extractionMaxGapMs": "17.200",
+        "extractionTravelPx": "354.813",
+        "family": "A",
+        "generationMs": "91.90000000037253",
+        "lastPaintMs": "0.200",
+        "levelId": "procedural-v2-feasibility-r2-00000000-17-29-40-55-auto-3-18-6-0.56-0.8-4-96-26000-0-A",
+        "maxPaintMs": "0.300",
+        "motionMode": "full",
+        "movingHead": "{\"x\":-246.6875,\"y\":182.625}",
+        "movingTail": "{\"x\":-32.9375,\"y\":182.625}",
+        "paintCount": "2",
+        "phase": "ready",
+        "preview": "",
+        "previewBlocker": "",
+        "previewContact": "",
+        "remaining": "44",
+        "requestedArrows": "auto",
+        "safeRect": "{\"x\":112,\"y\":16,\"width\":644,\"height\":358}",
+        "sampledPaintCount": "2",
+        "sampledPaintMeanMs": "0.55",
+        "sampledPaintP95Ms": "0.9",
+        "seed": "0",
+        "sourceLengthPx": "213.750",
+        "tailDistance": "9.95965",
+        "trailDots": "0",
+        "zoom": "1.000"
+      },
+      "document": {
+        "height": 390,
+        "scrollHeight": 390,
+        "scrollWidth": 844,
+        "width": 844
+      },
+      "hud": {
+        "height": 192,
+        "width": 92,
+        "x": 12,
+        "y": 12
+      },
+      "preferences": {
+        "reducedMotion": "false",
+        "storedReducedMotion": "true",
+        "systemReducedMotion": "true"
+      }
+    }
+  },
+  {
+    "case": "A-landscape-working",
+    "layout": {
+      "canvas": {
+        "height": 390,
+        "width": 844,
+        "x": 0,
+        "y": 0
+      },
+      "controls": [
+        {
+          "height": 56,
+          "label": "Magnify puzzle",
+          "width": 56,
+          "x": 772,
+          "y": 129
+        },
+        {
+          "height": 56,
+          "label": "Reset view",
+          "width": 56,
+          "x": 772,
+          "y": 205
+        }
+      ],
+      "data": {
+        "arrows": "44",
+        "attempts": "0",
+        "audioEvent": "complete",
+        "audioState": "suspended",
+        "audioVoices": "0",
+        "cellSize": "27.161",
+        "extractionDurationMs": "493.677",
+        "extractionElapsedMs": "500.200",
+        "extractionFraction": "1.00000",
+        "extractionFrames": "31",
+        "extractionMaxGapMs": "17.200",
+        "extractionTravelPx": "354.813",
+        "family": "A",
+        "generationMs": "91.90000000037253",
+        "lastPaintMs": "0.200",
+        "levelId": "procedural-v2-feasibility-r2-00000000-17-29-40-55-auto-3-18-6-0.56-0.8-4-96-26000-0-A",
+        "maxPaintMs": "0.600",
+        "motionMode": "full",
+        "movingHead": "{\"x\":-246.6875,\"y\":182.625}",
+        "movingTail": "{\"x\":-32.9375,\"y\":182.625}",
+        "paintCount": "18",
+        "phase": "ready",
+        "preview": "",
+        "previewBlocker": "",
+        "previewContact": "",
+        "remaining": "44",
+        "requestedArrows": "auto",
+        "safeRect": "{\"x\":112,\"y\":16,\"width\":644,\"height\":358}",
+        "sampledPaintCount": "17",
+        "sampledPaintMeanMs": "0.3058823529411765",
+        "sampledPaintP95Ms": "0.9",
+        "seed": "0",
+        "sourceLengthPx": "213.750",
+        "tailDistance": "9.95965",
+        "trailDots": "0",
+        "zoom": "2.250"
+      },
+      "document": {
+        "height": 390,
+        "scrollHeight": 390,
+        "scrollWidth": 844,
+        "width": 844
+      },
+      "hud": {
+        "height": 192,
+        "width": 92,
+        "x": 12,
+        "y": 12
+      },
+      "preferences": {
+        "reducedMotion": "false",
+        "storedReducedMotion": "true",
+        "systemReducedMotion": "true"
+      }
+    }
+  },
+  {
+    "case": "B-landscape-overview",
+    "layout": {
+      "canvas": {
+        "height": 390,
+        "width": 844,
+        "x": 0,
+        "y": 0
+      },
+      "controls": [
+        {
+          "height": 56,
+          "label": "Magnify puzzle",
+          "width": 56,
+          "x": 772,
+          "y": 129
+        },
+        {
+          "height": 56,
+          "label": "Reset view",
+          "width": 56,
+          "x": 772,
+          "y": 205
+        }
+      ],
+      "data": {
+        "arrows": "66",
+        "attempts": "0",
+        "audioEvent": "complete",
+        "audioState": "suspended",
+        "audioVoices": "0",
+        "cellSize": "9.389",
+        "extractionDurationMs": "556.719",
+        "extractionElapsedMs": "562.900",
+        "extractionFraction": "1.00000",
+        "extractionFrames": "35",
+        "extractionMaxGapMs": "17.200",
+        "extractionTravelPx": "409.852",
+        "family": "B",
+        "generationMs": "160.59999999962747",
+        "lastPaintMs": "0.300",
+        "levelId": "procedural-v2-feasibility-r2-00000000-23-37-60-85-auto-3-18-6-0.56-0.8-4-96-26000-0-B",
+        "maxPaintMs": "0.300",
+        "motionMode": "full",
+        "movingHead": "{\"x\":1061.1374999999998,\"y\":51.910714285714285}",
+        "movingTail": "{\"x\":871.0125,\"y\":51.910714285714285}",
+        "paintCount": "2",
+        "phase": "ready",
+        "preview": "",
+        "previewBlocker": "",
+        "previewContact": "",
+        "remaining": "66",
+        "requestedArrows": "auto",
+        "safeRect": "{\"x\":112,\"y\":16,\"width\":644,\"height\":358}",
+        "sampledPaintCount": "2",
+        "sampledPaintMeanMs": "0.25",
+        "sampledPaintP95Ms": "0.3",
+        "seed": "0",
+        "sourceLengthPx": "190.125",
+        "tailDistance": "15.08988",
+        "trailDots": "0",
+        "zoom": "1.000"
+      },
+      "document": {
+        "height": 390,
+        "scrollHeight": 390,
+        "scrollWidth": 844,
+        "width": 844
+      },
+      "hud": {
+        "height": 192,
+        "width": 92,
+        "x": 12,
+        "y": 12
+      },
+      "preferences": {
+        "reducedMotion": "false",
+        "storedReducedMotion": "true",
+        "systemReducedMotion": "true"
+      }
+    }
+  },
+  {
+    "case": "B-landscape-working",
+    "layout": {
+      "canvas": {
+        "height": 390,
+        "width": 844,
+        "x": 0,
+        "y": 0
+      },
+      "controls": [
+        {
+          "height": 56,
+          "label": "Magnify puzzle",
+          "width": 56,
+          "x": 772,
+          "y": 129
+        },
+        {
+          "height": 56,
+          "label": "Reset view",
+          "width": 56,
+          "x": 772,
+          "y": 205
+        }
+      ],
+      "data": {
+        "arrows": "66",
+        "attempts": "0",
+        "audioEvent": "complete",
+        "audioState": "suspended",
+        "audioVoices": "0",
+        "cellSize": "31.688",
+        "extractionDurationMs": "556.719",
+        "extractionElapsedMs": "562.900",
+        "extractionFraction": "1.00000",
+        "extractionFrames": "35",
+        "extractionMaxGapMs": "17.200",
+        "extractionTravelPx": "409.852",
+        "family": "B",
+        "generationMs": "160.59999999962747",
+        "lastPaintMs": "0.300",
+        "levelId": "procedural-v2-feasibility-r2-00000000-23-37-60-85-auto-3-18-6-0.56-0.8-4-96-26000-0-B",
+        "maxPaintMs": "0.400",
+        "motionMode": "full",
+        "movingHead": "{\"x\":1061.1374999999998,\"y\":51.910714285714285}",
+        "movingTail": "{\"x\":871.0125,\"y\":51.910714285714285}",
+        "paintCount": "19",
+        "phase": "ready",
+        "preview": "",
+        "previewBlocker": "",
+        "previewContact": "",
+        "remaining": "66",
+        "requestedArrows": "auto",
+        "safeRect": "{\"x\":112,\"y\":16,\"width\":644,\"height\":358}",
+        "sampledPaintCount": "18",
+        "sampledPaintMeanMs": "0.24999999999999994",
+        "sampledPaintP95Ms": "0.4",
+        "seed": "0",
+        "sourceLengthPx": "190.125",
+        "tailDistance": "15.08988",
+        "trailDots": "0",
+        "zoom": "3.375"
+      },
+      "document": {
+        "height": 390,
+        "scrollHeight": 390,
+        "scrollWidth": 844,
+        "width": 844
+      },
+      "hud": {
+        "height": 192,
+        "width": 92,
+        "x": 12,
+        "y": 12
+      },
+      "preferences": {
+        "reducedMotion": "false",
+        "storedReducedMotion": "true",
+        "systemReducedMotion": "true"
+      }
+    }
+  },
+  {
+    "case": "A-390-overview",
+    "layout": {
+      "canvas": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "controls": [
+        {
+          "height": 56,
+          "label": "Magnify puzzle",
+          "width": 56,
+          "x": 129,
+          "y": 772
+        },
+        {
+          "height": 56,
+          "label": "Reset view",
+          "width": 56,
+          "x": 205,
+          "y": 772
+        }
+      ],
+      "data": {
+        "arrows": "44",
+        "attempts": "0",
+        "audioEvent": "complete",
+        "audioState": "suspended",
+        "audioVoices": "0",
+        "cellSize": "21.125",
+        "extractionDurationMs": "516.436",
+        "extractionElapsedMs": "531.000",
+        "extractionFraction": "1.00000",
+        "extractionFrames": "33",
+        "extractionMaxGapMs": "17.200",
+        "extractionTravelPx": "405.744",
+        "family": "A",
+        "generationMs": "102.09999999962747",
+        "lastPaintMs": "0.100",
+        "levelId": "procedural-v2-feasibility-r2-00000000-17-29-40-55-auto-3-18-6-0.56-0.8-4-96-26000-0-A",
+        "maxPaintMs": "0.200",
+        "motionMode": "full",
+        "movingHead": "{\"x\":-220.30624999999998,\"y\":133.1875}",
+        "movingTail": "{\"x\":-30.181249999999977,\"y\":133.1875}",
+        "paintCount": "2",
+        "phase": "ready",
+        "preview": "",
+        "previewBlocker": "",
+        "previewContact": "",
+        "remaining": "44",
+        "requestedArrows": "auto",
+        "safeRect": "{\"x\":16,\"y\":72,\"width\":358,\"height\":676}",
+        "sampledPaintCount": "2",
+        "sampledPaintMeanMs": "0.2",
+        "sampledPaintP95Ms": "0.3",
+        "seed": "0",
+        "sourceLengthPx": "190.125",
+        "tailDistance": "12.80454",
+        "trailDots": "0",
+        "zoom": "1.000"
+      },
+      "document": {
+        "height": 844,
+        "scrollHeight": 844,
+        "scrollWidth": 390,
+        "width": 390
+      },
+      "hud": {
+        "height": 56,
+        "width": 366,
+        "x": 12,
+        "y": 8
+      },
+      "preferences": {
+        "reducedMotion": "false",
+        "storedReducedMotion": "true",
+        "systemReducedMotion": "true"
+      }
+    }
+  },
+  {
+    "case": "A-390-working",
+    "layout": {
+      "canvas": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "controls": [
+        {
+          "height": 56,
+          "label": "Magnify puzzle",
+          "width": 56,
+          "x": 129,
+          "y": 772
+        },
+        {
+          "height": 56,
+          "label": "Reset view",
+          "width": 56,
+          "x": 205,
+          "y": 772
+        }
+      ],
+      "data": {
+        "arrows": "44",
+        "attempts": "0",
+        "audioEvent": "",
+        "audioState": "uninitialized",
+        "audioVoices": "0",
+        "cellSize": "47.531",
+        "family": "A",
+        "generationMs": "124.59999999962747",
+        "lastPaintMs": "0.200",
+        "levelId": "procedural-v2-feasibility-r2-00000000-17-29-40-55-auto-3-18-6-0.56-0.8-4-96-26000-0-A",
+        "maxPaintMs": "0.900",
+        "paintCount": "15",
+        "phase": "ready",
+        "preview": "",
+        "previewBlocker": "",
+        "previewContact": "",
+        "remaining": "44",
+        "requestedArrows": "auto",
+        "safeRect": "{\"x\":16,\"y\":72,\"width\":358,\"height\":676}",
+        "sampledPaintCount": "20",
+        "sampledPaintMeanMs": "0.32999999999999996",
+        "sampledPaintP95Ms": "0.5",
+        "seed": "0",
+        "trailDots": "0",
+        "zoom": "2.250"
+      },
+      "document": {
+        "height": 844,
+        "scrollHeight": 844,
+        "scrollWidth": 390,
+        "width": 390
+      },
+      "hud": {
+        "height": 56,
+        "width": 366,
+        "x": 12,
+        "y": 8
+      },
+      "preferences": {
+        "reducedMotion": "false",
+        "storedReducedMotion": "true",
+        "systemReducedMotion": "true"
+      }
+    }
+  },
+  {
+    "case": "production-390",
+    "layout": {
+      "canvas": {
+        "height": 844,
+        "width": 390,
+        "x": 0,
+        "y": 0
+      },
+      "controls": [
+        {
+          "height": 56,
+          "label": "Magnify puzzle",
+          "width": 56,
+          "x": 129,
+          "y": 772
+        },
+        {
+          "height": 56,
+          "label": "Reset view",
+          "width": 56,
+          "x": 205,
+          "y": 772
+        }
+      ],
+      "data": {
+        "arrowCount": "7",
+        "attempts": "0",
+        "audioEvent": "",
+        "audioState": "uninitialized",
+        "audioVoices": "0",
+        "boardSize": "7x7",
+        "cellSize": "56.333",
+        "density": "0.5714285714285714",
+        "hearts": "3",
+        "lastPaintMs": "0.200",
+        "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+        "maxPaintMs": "0.300",
+        "paintCount": "7",
+        "phase": "ready",
+        "preview": "",
+        "previewBlocker": "",
+        "previewContact": "",
+        "remaining": "7",
+        "safeRect": "{\"x\":16,\"y\":72,\"width\":358,\"height\":676}",
+        "trailDots": "0",
+        "zoom": "1.000"
+      },
+      "document": {
+        "height": 844,
+        "scrollHeight": 844,
+        "scrollWidth": 390,
+        "width": 390
+      },
+      "hud": {
+        "height": 56,
+        "width": 366,
+        "x": 12,
+        "y": 8
+      },
+      "preferences": {
+        "reducedMotion": "true",
+        "storedReducedMotion": "true",
+        "systemReducedMotion": "true"
+      }
+    }
+  },
+  {
+    "case": "production-landscape",
+    "layout": {
+      "canvas": {
+        "height": 390,
+        "width": 844,
+        "x": 0,
+        "y": 0
+      },
+      "controls": [
+        {
+          "height": 56,
+          "label": "Magnify puzzle",
+          "width": 56,
+          "x": 772,
+          "y": 129
+        },
+        {
+          "height": 56,
+          "label": "Reset view",
+          "width": 56,
+          "x": 772,
+          "y": 205
+        }
+      ],
+      "data": {
+        "arrowCount": "7",
+        "attempts": "0",
+        "audioEvent": "",
+        "audioState": "uninitialized",
+        "audioVoices": "0",
+        "boardSize": "7x7",
+        "cellSize": "56.333",
+        "density": "0.5714285714285714",
+        "hearts": "3",
+        "lastPaintMs": "0.100",
+        "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+        "maxPaintMs": "0.300",
+        "paintCount": "15",
+        "phase": "ready",
+        "preview": "",
+        "previewBlocker": "",
+        "previewContact": "",
+        "remaining": "7",
+        "safeRect": "{\"x\":112,\"y\":16,\"width\":644,\"height\":358}",
+        "trailDots": "0",
+        "zoom": "1.000"
+      },
+      "document": {
+        "height": 390,
+        "scrollHeight": 390,
+        "scrollWidth": 844,
+        "width": 844
+      },
+      "hud": {
+        "height": 192,
+        "width": 92,
+        "x": 12,
+        "y": 12
+      },
+      "preferences": {
+        "reducedMotion": "true",
+        "storedReducedMotion": "true",
+        "systemReducedMotion": "true"
+      }
+    }
+  }
+]

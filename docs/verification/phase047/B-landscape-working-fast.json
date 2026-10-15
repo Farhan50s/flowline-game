@@ -1,0 +1,202 @@
+{
+  "frames": [
+    {
+      "file": "B-landscape-working-fast-00.jpg",
+      "beginMs": 49,
+      "endMs": 87
+    },
+    {
+      "file": "B-landscape-working-fast-01.jpg",
+      "beginMs": 96,
+      "endMs": 148
+    },
+    {
+      "file": "B-landscape-working-fast-02.jpg",
+      "beginMs": 151,
+      "endMs": 198
+    },
+    {
+      "file": "B-landscape-working-fast-03.jpg",
+      "beginMs": 202,
+      "endMs": 247
+    },
+    {
+      "file": "B-landscape-working-fast-04.jpg",
+      "beginMs": 251,
+      "endMs": 297
+    },
+    {
+      "file": "B-landscape-working-fast-05.jpg",
+      "beginMs": 299,
+      "endMs": 344
+    },
+    {
+      "file": "B-landscape-working-fast-06.jpg",
+      "beginMs": 346,
+      "endMs": 374
+    },
+    {
+      "file": "B-landscape-working-fast-07.jpg",
+      "beginMs": 376,
+      "endMs": 415
+    },
+    {
+      "file": "B-landscape-working-fast-08.jpg",
+      "beginMs": 417,
+      "endMs": 467
+    },
+    {
+      "file": "B-landscape-working-fast-09.jpg",
+      "beginMs": 476,
+      "endMs": 517
+    },
+    {
+      "file": "B-landscape-working-fast-10.jpg",
+      "beginMs": 520,
+      "endMs": 566
+    },
+    {
+      "file": "B-landscape-working-fast-11.jpg",
+      "beginMs": 571,
+      "endMs": 612
+    },
+    {
+      "file": "B-landscape-working-fast-12.jpg",
+      "beginMs": 614,
+      "endMs": 663
+    },
+    {
+      "file": "B-landscape-working-fast-13.jpg",
+      "beginMs": 678,
+      "endMs": 718
+    },
+    {
+      "file": "B-landscape-working-fast-14.jpg",
+      "beginMs": 722,
+      "endMs": 780
+    },
+    {
+      "file": "B-landscape-working-fast-15.jpg",
+      "beginMs": 788,
+      "endMs": 878
+    },
+    {
+      "file": "B-landscape-working-fast-16.jpg",
+      "beginMs": 882,
+      "endMs": 947
+    },
+    {
+      "file": "B-landscape-working-fast-17.jpg",
+      "beginMs": 961,
+      "endMs": 1050
+    },
+    {
+      "file": "B-landscape-working-fast-18.jpg",
+      "beginMs": 1077,
+      "endMs": 1118
+    },
+    {
+      "file": "B-landscape-working-fast-19.jpg",
+      "beginMs": 1144,
+      "endMs": 1164
+    },
+    {
+      "file": "B-landscape-working-fast-20.jpg",
+      "beginMs": 1169,
+      "endMs": 1198
+    },
+    {
+      "file": "B-landscape-working-fast-21.jpg",
+      "beginMs": 1200,
+      "endMs": 1240
+    },
+    {
+      "file": "B-landscape-working-fast-22.jpg",
+      "beginMs": 1247,
+      "endMs": 1281
+    },
+    {
+      "file": "B-landscape-working-fast-23.jpg",
+      "beginMs": 1284,
+      "endMs": 1318
+    },
+    {
+      "file": "B-landscape-working-fast-24.jpg",
+      "beginMs": 1324,
+      "endMs": 1357
+    },
+    {
+      "file": "B-landscape-working-fast-25.jpg",
+      "beginMs": 1359,
+      "endMs": 1380
+    },
+    {
+      "file": "B-landscape-working-fast-26.jpg",
+      "beginMs": 1382,
+      "endMs": 1412
+    },
+    {
+      "file": "B-landscape-working-fast-27.jpg",
+      "beginMs": 1415,
+      "endMs": 1447
+    },
+    {
+      "file": "B-landscape-working-fast-28.jpg",
+      "beginMs": 1450,
+      "endMs": 1483
+    },
+    {
+      "file": "B-landscape-working-fast-29.jpg",
+      "beginMs": 1485,
+      "endMs": 1515
+    },
+    {
+      "file": "B-landscape-working-fast-30.jpg",
+      "beginMs": 1517,
+      "endMs": 1545
+    },
+    {
+      "file": "B-landscape-working-fast-31.jpg",
+      "beginMs": 1547,
+      "endMs": 1580
+    }
+  ],
+  "final": {
+    "arrows": "66",
+    "attempts": "1",
+    "audioEvent": "complete",
+    "audioState": "suspended",
+    "audioVoices": "0",
+    "cellSize": "31.688",
+    "extractionDurationMs": "516.436",
+    "extractionElapsedMs": "531.000",
+    "extractionFraction": "1.00000",
+    "extractionFrames": "33",
+    "extractionMaxGapMs": "17.200",
+    "extractionTravelPx": "405.744",
+    "family": "B",
+    "generationMs": "160.59999999962747",
+    "lastPaintMs": "0.100",
+    "levelId": "procedural-v2-feasibility-r2-00000000-23-37-60-85-auto-3-18-6-0.56-0.8-4-96-26000-0-B",
+    "maxPaintMs": "2.400",
+    "motionMode": "full",
+    "movingHead": "{\"x\":-220.30624999999998,\"y\":133.1875}",
+    "movingTail": "{\"x\":-30.181249999999977,\"y\":133.1875}",
+    "paintCount": "88",
+    "phase": "ready",
+    "preview": "",
+    "previewBlocker": "",
+    "previewContact": "",
+    "remaining": "65",
+    "requestedArrows": "auto",
+    "safeRect": "{\"x\":112,\"y\":16,\"width\":644,\"height\":358}",
+    "sampledPaintCount": "84",
+    "sampledPaintMeanMs": "0.3440476190476191",
+    "sampledPaintP95Ms": "0.5",
+    "seed": "0",
+    "sourceLengthPx": "190.125",
+    "tailDistance": "12.80454",
+    "trailDots": "0",
+    "zoom": "3.375"
+  }
+}

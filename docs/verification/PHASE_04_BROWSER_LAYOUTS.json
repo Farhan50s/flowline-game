@@ -1,0 +1,197 @@
+[
+  {
+    "board": {
+      "bottom": 423.828125,
+      "height": 248,
+      "left": 19,
+      "right": 286,
+      "top": 175.828125,
+      "width": 267,
+      "x": 19,
+      "y": 175.828125
+    },
+    "controls": {
+      "bottom": 516.828125,
+      "height": 44,
+      "left": 18,
+      "right": 287,
+      "top": 472.828125,
+      "width": 269,
+      "x": 18,
+      "y": 472.828125
+    },
+    "diagnostics": {
+      "extractionFrames": "1",
+      "extractionMaxGapMs": "0.000",
+      "lastPaintMs": "0.200",
+      "maxPaintMs": "0.200",
+      "paintCount": "4"
+    },
+    "level": "Level 11",
+    "reducedMotion": "true",
+    "scroll": [
+      305,
+      577
+    ],
+    "viewport": [
+      320,
+      568
+    ]
+  },
+  {
+    "board": {
+      "bottom": 690.828125,
+      "height": 524,
+      "left": 25,
+      "right": 365,
+      "top": 166.828125,
+      "width": 340,
+      "x": 25,
+      "y": 166.828125
+    },
+    "controls": {
+      "bottom": 783.828125,
+      "height": 44,
+      "left": 24,
+      "right": 366,
+      "top": 739.828125,
+      "width": 342,
+      "x": 24,
+      "y": 739.828125
+    },
+    "diagnostics": {
+      "extractionFrames": "1",
+      "extractionMaxGapMs": "0.000",
+      "lastPaintMs": "0.100",
+      "maxPaintMs": "0.100",
+      "paintCount": "4"
+    },
+    "level": "Level 11",
+    "reducedMotion": "true",
+    "scroll": [
+      390,
+      844
+    ],
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "board": {
+      "bottom": 726.828125,
+      "height": 560,
+      "left": 25,
+      "right": 405,
+      "top": 166.828125,
+      "width": 380,
+      "x": 25,
+      "y": 166.828125
+    },
+    "controls": {
+      "bottom": 819.828125,
+      "height": 44,
+      "left": 24,
+      "right": 406,
+      "top": 775.828125,
+      "width": 382,
+      "x": 24,
+      "y": 775.828125
+    },
+    "diagnostics": {
+      "extractionFrames": "1",
+      "extractionMaxGapMs": "0.000",
+      "lastPaintMs": "0.100",
+      "maxPaintMs": "0.200",
+      "paintCount": "4"
+    },
+    "level": "Level 11",
+    "reducedMotion": "true",
+    "scroll": [
+      430,
+      932
+    ],
+    "viewport": [
+      430,
+      932
+    ]
+  },
+  {
+    "board": {
+      "bottom": 366,
+      "height": 342,
+      "left": 359,
+      "right": 759,
+      "top": 24,
+      "width": 400,
+      "x": 359,
+      "y": 24
+    },
+    "controls": {
+      "bottom": 324.21875,
+      "height": 57.78125,
+      "left": 30,
+      "right": 334,
+      "top": 266.4375,
+      "width": 304,
+      "x": 30,
+      "y": 266.4375
+    },
+    "diagnostics": {
+      "extractionFrames": "1",
+      "extractionMaxGapMs": "0.000",
+      "lastPaintMs": "0.100",
+      "maxPaintMs": "0.100",
+      "paintCount": "4"
+    },
+    "level": "Level 11",
+    "reducedMotion": "true",
+    "scroll": [
+      844,
+      390
+    ],
+    "viewport": [
+      844,
+      390
+    ]
+  },
+  {
+    "board": {
+      "bottom": 598.421875,
+      "height": 443,
+      "left": 185.5,
+      "right": 823.5,
+      "top": 155.421875,
+      "width": 638,
+      "x": 185.5,
+      "y": 155.421875
+    },
+    "controls": {
+      "bottom": 691.421875,
+      "height": 44,
+      "left": 184.5,
+      "right": 824.5,
+      "top": 647.421875,
+      "width": 640,
+      "x": 184.5,
+      "y": 647.421875
+    },
+    "diagnostics": {
+      "extractionFrames": "1",
+      "extractionMaxGapMs": "0.000",
+      "lastPaintMs": "0.100",
+      "maxPaintMs": "0.200",
+      "paintCount": "4"
+    },
+    "level": "Level 11",
+    "reducedMotion": "true",
+    "scroll": [
+      1009,
+      875
+    ],
+    "viewport": [
+      1024,
+      768
+    ]
+  }
+]

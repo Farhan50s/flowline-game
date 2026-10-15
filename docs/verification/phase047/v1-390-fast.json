@@ -1,0 +1,229 @@
+{
+  "frames": [
+    {
+      "file": "v1-390-fast-00.jpg",
+      "beginMs": 24,
+      "endMs": 63
+    },
+    {
+      "file": "v1-390-fast-01.jpg",
+      "beginMs": 69,
+      "endMs": 112
+    },
+    {
+      "file": "v1-390-fast-02.jpg",
+      "beginMs": 116,
+      "endMs": 160
+    },
+    {
+      "file": "v1-390-fast-03.jpg",
+      "beginMs": 162,
+      "endMs": 208
+    },
+    {
+      "file": "v1-390-fast-04.jpg",
+      "beginMs": 220,
+      "endMs": 254
+    },
+    {
+      "file": "v1-390-fast-05.jpg",
+      "beginMs": 260,
+      "endMs": 301
+    },
+    {
+      "file": "v1-390-fast-06.jpg",
+      "beginMs": 302,
+      "endMs": 362
+    },
+    {
+      "file": "v1-390-fast-07.jpg",
+      "beginMs": 363,
+      "endMs": 413
+    },
+    {
+      "file": "v1-390-fast-08.jpg",
+      "beginMs": 414,
+      "endMs": 460
+    },
+    {
+      "file": "v1-390-fast-09.jpg",
+      "beginMs": 462,
+      "endMs": 509
+    },
+    {
+      "file": "v1-390-fast-10.jpg",
+      "beginMs": 517,
+      "endMs": 555
+    },
+    {
+      "file": "v1-390-fast-11.jpg",
+      "beginMs": 576,
+      "endMs": 602
+    },
+    {
+      "file": "v1-390-fast-12.jpg",
+      "beginMs": 603,
+      "endMs": 663
+    },
+    {
+      "file": "v1-390-fast-13.jpg",
+      "beginMs": 664,
+      "endMs": 712
+    },
+    {
+      "file": "v1-390-fast-14.jpg",
+      "beginMs": 714,
+      "endMs": 760
+    },
+    {
+      "file": "v1-390-fast-15.jpg",
+      "beginMs": 763,
+      "endMs": 804
+    },
+    {
+      "file": "v1-390-fast-16.jpg",
+      "beginMs": 807,
+      "endMs": 852
+    },
+    {
+      "file": "v1-390-fast-17.jpg",
+      "beginMs": 854,
+      "endMs": 883
+    },
+    {
+      "file": "v1-390-fast-18.jpg",
+      "beginMs": 884,
+      "endMs": 929
+    },
+    {
+      "file": "v1-390-fast-19.jpg",
+      "beginMs": 930,
+      "endMs": 979
+    },
+    {
+      "file": "v1-390-fast-20.jpg",
+      "beginMs": 981,
+      "endMs": 1027
+    },
+    {
+      "file": "v1-390-fast-21.jpg",
+      "beginMs": 1033,
+      "endMs": 1074
+    },
+    {
+      "file": "v1-390-fast-22.jpg",
+      "beginMs": 1083,
+      "endMs": 1111
+    },
+    {
+      "file": "v1-390-fast-23.jpg",
+      "beginMs": 1118,
+      "endMs": 1146
+    },
+    {
+      "file": "v1-390-fast-24.jpg",
+      "beginMs": 1156,
+      "endMs": 1228
+    },
+    {
+      "file": "v1-390-fast-25.jpg",
+      "beginMs": 1240,
+      "endMs": 1279
+    },
+    {
+      "file": "v1-390-fast-26.jpg",
+      "beginMs": 1288,
+      "endMs": 1328
+    },
+    {
+      "file": "v1-390-fast-27.jpg",
+      "beginMs": 1339,
+      "endMs": 1386
+    },
+    {
+      "file": "v1-390-fast-28.jpg",
+      "beginMs": 1396,
+      "endMs": 1435
+    },
+    {
+      "file": "v1-390-fast-29.jpg",
+      "beginMs": 1442,
+      "endMs": 1467
+    },
+    {
+      "file": "v1-390-fast-30.jpg",
+      "beginMs": 1473,
+      "endMs": 1512
+    },
+    {
+      "file": "v1-390-fast-31.jpg",
+      "beginMs": 1513,
+      "endMs": 1547
+    },
+    {
+      "file": "v1-390-fast-32.jpg",
+      "beginMs": 1555,
+      "endMs": 1599
+    },
+    {
+      "file": "v1-390-fast-33.jpg",
+      "beginMs": 1605,
+      "endMs": 1639
+    },
+    {
+      "file": "v1-390-fast-34.jpg",
+      "beginMs": 1642,
+      "endMs": 1670
+    },
+    {
+      "file": "v1-390-fast-35.jpg",
+      "beginMs": 1672,
+      "endMs": 1701
+    },
+    {
+      "file": "v1-390-fast-36.jpg",
+      "beginMs": 1702,
+      "endMs": 1727
+    },
+    {
+      "file": "v1-390-fast-37.jpg",
+      "beginMs": 1728,
+      "endMs": 1761
+    }
+  ],
+  "final": {
+    "arrows": "7",
+    "attempts": "1",
+    "audioEvent": "complete",
+    "audioState": "suspended",
+    "audioVoices": "0",
+    "cellSize": "56.333",
+    "extractionDurationMs": "476.369",
+    "extractionElapsedMs": "483.300",
+    "extractionFraction": "1.00000",
+    "extractionFrames": "30",
+    "extractionMaxGapMs": "16.900",
+    "extractionTravelPx": "594.100",
+    "family": "v1-11",
+    "generationMs": "46.600000001490116",
+    "lastPaintMs": "0.100",
+    "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+    "maxPaintMs": "0.300",
+    "motionMode": "full",
+    "movingHead": "{\"x\":82.33333333333334,\"y\":1173.1}",
+    "movingTail": "{\"x\":82.33333333333334,\"y\":891.4333333333334}",
+    "paintCount": "70",
+    "phase": "ready",
+    "remaining": "6",
+    "requestedArrows": "auto",
+    "safeRect": "{\"x\":16,\"y\":72,\"width\":358,\"height\":676}",
+    "sampledPaintCount": "132",
+    "sampledPaintMeanMs": "0.12575757575757557",
+    "sampledPaintP95Ms": "0.3",
+    "seed": "0",
+    "sourceLengthPx": "281.667",
+    "tailDistance": "10.54615",
+    "trailDots": "0",
+    "zoom": "1.000"
+  }
+}

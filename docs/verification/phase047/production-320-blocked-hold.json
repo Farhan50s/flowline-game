@@ -1,0 +1,404 @@
+{
+  "before": {
+    "data": {
+      "arrowCount": "7",
+      "attempts": "0",
+      "audioEvent": "",
+      "audioState": "uninitialized",
+      "audioVoices": "0",
+      "boardSize": "7x7",
+      "cellSize": "44.667",
+      "density": "0.5714285714285714",
+      "hearts": "3",
+      "lastPaintMs": "0.200",
+      "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+      "maxPaintMs": "0.200",
+      "paintCount": "3",
+      "phase": "ready",
+      "remaining": "7",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+      "trailDots": "0",
+      "zoom": "1.000"
+    },
+    "label": "Level 11 arrow puzzle. 7 paths remaining."
+  },
+  "frames": [
+    {
+      "file": "production-320-blocked-hold-held-00.jpg",
+      "elapsedMs": 71,
+      "snapshot": {
+        "data": {
+          "arrowCount": "7",
+          "attempts": "0",
+          "audioEvent": "",
+          "audioState": "uninitialized",
+          "audioVoices": "0",
+          "boardSize": "7x7",
+          "cellSize": "44.667",
+          "density": "0.5714285714285714",
+          "hearts": "3",
+          "lastPaintMs": "0.100",
+          "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+          "maxPaintMs": "0.200",
+          "paintCount": "4",
+          "phase": "ready",
+          "remaining": "7",
+          "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+          "trailDots": "0",
+          "zoom": "1.000"
+        },
+        "label": "Level 11 arrow puzzle. 7 paths remaining."
+      }
+    },
+    {
+      "file": "production-320-blocked-hold-held-01.jpg",
+      "elapsedMs": 163,
+      "snapshot": {
+        "data": {
+          "arrowCount": "7",
+          "attempts": "0",
+          "audioEvent": "",
+          "audioState": "uninitialized",
+          "audioVoices": "0",
+          "boardSize": "7x7",
+          "cellSize": "44.667",
+          "density": "0.5714285714285714",
+          "hearts": "3",
+          "lastPaintMs": "0.100",
+          "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+          "maxPaintMs": "0.200",
+          "paintCount": "4",
+          "phase": "ready",
+          "remaining": "7",
+          "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+          "trailDots": "0",
+          "zoom": "1.000"
+        },
+        "label": "Level 11 arrow puzzle. 7 paths remaining."
+      }
+    },
+    {
+      "file": "production-320-blocked-hold-held-02.jpg",
+      "elapsedMs": 249,
+      "snapshot": {
+        "data": {
+          "arrowCount": "7",
+          "attempts": "0",
+          "audioEvent": "",
+          "audioState": "uninitialized",
+          "audioVoices": "0",
+          "boardSize": "7x7",
+          "cellSize": "44.667",
+          "density": "0.5714285714285714",
+          "hearts": "3",
+          "lastPaintMs": "0.100",
+          "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+          "maxPaintMs": "0.200",
+          "paintCount": "4",
+          "phase": "ready",
+          "remaining": "7",
+          "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+          "trailDots": "0",
+          "zoom": "1.000"
+        },
+        "label": "Level 11 arrow puzzle. 7 paths remaining."
+      }
+    },
+    {
+      "file": "production-320-blocked-hold-held-03.jpg",
+      "elapsedMs": 364,
+      "snapshot": {
+        "data": {
+          "arrowCount": "7",
+          "attempts": "0",
+          "audioEvent": "",
+          "audioState": "uninitialized",
+          "audioVoices": "0",
+          "boardSize": "7x7",
+          "cellSize": "44.667",
+          "density": "0.5714285714285714",
+          "hearts": "3",
+          "lastPaintMs": "0.200",
+          "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+          "maxPaintMs": "0.200",
+          "paintCount": "5",
+          "phase": "ready",
+          "preview": "arrow-003",
+          "previewBlocker": "arrow-004",
+          "previewContact": "{\"x\":5,\"y\":4}",
+          "remaining": "7",
+          "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+          "trailDots": "0",
+          "zoom": "1.000"
+        },
+        "label": "Level 11 arrow puzzle. 7 paths remaining."
+      }
+    },
+    {
+      "file": "production-320-blocked-hold-held-04.jpg",
+      "elapsedMs": 439,
+      "snapshot": {
+        "data": {
+          "arrowCount": "7",
+          "attempts": "0",
+          "audioEvent": "",
+          "audioState": "uninitialized",
+          "audioVoices": "0",
+          "boardSize": "7x7",
+          "cellSize": "44.667",
+          "density": "0.5714285714285714",
+          "hearts": "3",
+          "lastPaintMs": "0.200",
+          "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+          "maxPaintMs": "0.200",
+          "paintCount": "5",
+          "phase": "ready",
+          "preview": "arrow-003",
+          "previewBlocker": "arrow-004",
+          "previewContact": "{\"x\":5,\"y\":4}",
+          "remaining": "7",
+          "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+          "trailDots": "0",
+          "zoom": "1.000"
+        },
+        "label": "Level 11 arrow puzzle. 7 paths remaining."
+      }
+    },
+    {
+      "file": "production-320-blocked-hold-held-05.jpg",
+      "elapsedMs": 565,
+      "snapshot": {
+        "data": {
+          "arrowCount": "7",
+          "attempts": "0",
+          "audioEvent": "",
+          "audioState": "uninitialized",
+          "audioVoices": "0",
+          "boardSize": "7x7",
+          "cellSize": "44.667",
+          "density": "0.5714285714285714",
+          "hearts": "3",
+          "lastPaintMs": "0.200",
+          "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+          "maxPaintMs": "0.200",
+          "paintCount": "5",
+          "phase": "ready",
+          "preview": "arrow-003",
+          "previewBlocker": "arrow-004",
+          "previewContact": "{\"x\":5,\"y\":4}",
+          "remaining": "7",
+          "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+          "trailDots": "0",
+          "zoom": "1.000"
+        },
+        "label": "Level 11 arrow puzzle. 7 paths remaining."
+      }
+    },
+    {
+      "file": "production-320-blocked-hold-held-06.jpg",
+      "elapsedMs": 1162,
+      "snapshot": {
+        "data": {
+          "arrowCount": "7",
+          "attempts": "0",
+          "audioEvent": "",
+          "audioState": "uninitialized",
+          "audioVoices": "0",
+          "boardSize": "7x7",
+          "cellSize": "44.667",
+          "density": "0.5714285714285714",
+          "hearts": "3",
+          "lastPaintMs": "0.000",
+          "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+          "maxPaintMs": "0.200",
+          "paintCount": "7",
+          "phase": "ready",
+          "preview": "",
+          "previewBlocker": "",
+          "previewContact": "",
+          "remaining": "7",
+          "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+          "trailDots": "0",
+          "zoom": "1.000"
+        },
+        "label": "Level 11 arrow puzzle. 7 paths remaining."
+      }
+    },
+    {
+      "file": "production-320-blocked-hold-held-07.jpg",
+      "elapsedMs": 1385,
+      "snapshot": {
+        "data": {
+          "arrowCount": "7",
+          "attempts": "0",
+          "audioEvent": "",
+          "audioState": "uninitialized",
+          "audioVoices": "0",
+          "boardSize": "7x7",
+          "cellSize": "44.667",
+          "density": "0.5714285714285714",
+          "hearts": "3",
+          "lastPaintMs": "0.000",
+          "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+          "maxPaintMs": "0.200",
+          "paintCount": "7",
+          "phase": "ready",
+          "preview": "",
+          "previewBlocker": "",
+          "previewContact": "",
+          "remaining": "7",
+          "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+          "trailDots": "0",
+          "zoom": "1.000"
+        },
+        "label": "Level 11 arrow puzzle. 7 paths remaining."
+      }
+    },
+    {
+      "file": "production-320-blocked-hold-held-08.jpg",
+      "elapsedMs": 1477,
+      "snapshot": {
+        "data": {
+          "arrowCount": "7",
+          "attempts": "0",
+          "audioEvent": "",
+          "audioState": "uninitialized",
+          "audioVoices": "0",
+          "boardSize": "7x7",
+          "cellSize": "44.667",
+          "density": "0.5714285714285714",
+          "hearts": "3",
+          "lastPaintMs": "0.000",
+          "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+          "maxPaintMs": "0.200",
+          "paintCount": "7",
+          "phase": "ready",
+          "preview": "",
+          "previewBlocker": "",
+          "previewContact": "",
+          "remaining": "7",
+          "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+          "trailDots": "0",
+          "zoom": "1.000"
+        },
+        "label": "Level 11 arrow puzzle. 7 paths remaining."
+      }
+    },
+    {
+      "file": "production-320-blocked-hold-held-09.jpg",
+      "elapsedMs": 1537,
+      "snapshot": {
+        "data": {
+          "arrowCount": "7",
+          "attempts": "0",
+          "audioEvent": "",
+          "audioState": "uninitialized",
+          "audioVoices": "0",
+          "boardSize": "7x7",
+          "cellSize": "44.667",
+          "density": "0.5714285714285714",
+          "hearts": "3",
+          "lastPaintMs": "0.000",
+          "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+          "maxPaintMs": "0.200",
+          "paintCount": "7",
+          "phase": "ready",
+          "preview": "",
+          "previewBlocker": "",
+          "previewContact": "",
+          "remaining": "7",
+          "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+          "trailDots": "0",
+          "zoom": "1.000"
+        },
+        "label": "Level 11 arrow puzzle. 7 paths remaining."
+      }
+    },
+    {
+      "file": "production-320-blocked-hold-held-10.jpg",
+      "elapsedMs": 1748,
+      "snapshot": {
+        "data": {
+          "arrowCount": "7",
+          "attempts": "0",
+          "audioEvent": "",
+          "audioState": "uninitialized",
+          "audioVoices": "0",
+          "boardSize": "7x7",
+          "cellSize": "44.667",
+          "density": "0.5714285714285714",
+          "hearts": "3",
+          "lastPaintMs": "0.000",
+          "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+          "maxPaintMs": "0.200",
+          "paintCount": "7",
+          "phase": "ready",
+          "preview": "",
+          "previewBlocker": "",
+          "previewContact": "",
+          "remaining": "7",
+          "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+          "trailDots": "0",
+          "zoom": "1.000"
+        },
+        "label": "Level 11 arrow puzzle. 7 paths remaining."
+      }
+    },
+    {
+      "file": "production-320-blocked-hold-held-11.jpg",
+      "elapsedMs": 1914,
+      "snapshot": {
+        "data": {
+          "arrowCount": "7",
+          "attempts": "0",
+          "audioEvent": "",
+          "audioState": "uninitialized",
+          "audioVoices": "0",
+          "boardSize": "7x7",
+          "cellSize": "44.667",
+          "density": "0.5714285714285714",
+          "hearts": "3",
+          "lastPaintMs": "0.000",
+          "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+          "maxPaintMs": "0.200",
+          "paintCount": "7",
+          "phase": "ready",
+          "preview": "",
+          "previewBlocker": "",
+          "previewContact": "",
+          "remaining": "7",
+          "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+          "trailDots": "0",
+          "zoom": "1.000"
+        },
+        "label": "Level 11 arrow puzzle. 7 paths remaining."
+      }
+    }
+  ],
+  "after": {
+    "data": {
+      "arrowCount": "7",
+      "attempts": "0",
+      "audioEvent": "",
+      "audioState": "uninitialized",
+      "audioVoices": "0",
+      "boardSize": "7x7",
+      "cellSize": "44.667",
+      "density": "0.5714285714285714",
+      "hearts": "3",
+      "lastPaintMs": "0.000",
+      "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+      "maxPaintMs": "0.200",
+      "paintCount": "7",
+      "phase": "ready",
+      "preview": "",
+      "previewBlocker": "",
+      "previewContact": "",
+      "remaining": "7",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+      "trailDots": "0",
+      "zoom": "1.000"
+    },
+    "label": "Level 11 arrow puzzle. 7 paths remaining."
+  }
+}

@@ -1,0 +1,439 @@
+{
+  "checked": 84,
+  "unchanged": 82,
+  "changed": [
+    {
+      "path": "docs\\PHASE_03_SEED_SAMPLE.md",
+      "unchanged": false,
+      "finalSha256": "277DECA09B9B59447832820BF1BAFFA3EC73BA163AAC050B8D216EC24E670815"
+    },
+    {
+      "path": "docs\\verification\\PHASE_03_SEED_SAMPLE.json",
+      "unchanged": false,
+      "finalSha256": "AA159FF105C83312B722064CADA1615291D1A37FC07119ABA0441BB34E18FBD0"
+    }
+  ],
+  "files": [
+    {
+      "path": "docs\\verification\\PHASE_04_BROWSER_LAYOUTS.json",
+      "unchanged": true,
+      "finalSha256": "DA7D7B557C4FAB344A7C4C8D96749621D1055EBA2F01FB6C2F82D01C6DB881B7"
+    },
+    {
+      "path": "android\\app\\src\\main\\res\\values\\strings.xml",
+      "unchanged": true,
+      "finalSha256": "1605B569B0C7D7D931D92B9F439701E7586ABEE371C1B6356D80839E12C38AD4"
+    },
+    {
+      "path": "src/tests\\rng.test.ts",
+      "unchanged": true,
+      "finalSha256": "F14A0885921F5C6013FF7C9133F598CA5581F58DD6702D731F6EDD1F1BC5656F"
+    },
+    {
+      "path": "android\\build.gradle",
+      "unchanged": true,
+      "finalSha256": "722DB4CAEA489F17373BCB6838946D5D8E02D1B24A6D1A90AFA8E3F523FCC6EA"
+    },
+    {
+      "path": "package.json",
+      "unchanged": true,
+      "finalSha256": "7CD45AD7E86EE1C2BC88882FAFC216F6FC7AB0E790818D12E819B73F9E8ACAD1"
+    },
+    {
+      "path": "src/game\\generator.ts",
+      "unchanged": true,
+      "finalSha256": "04A7EB9F6B485AC5FE6F298573E28D31AA37113A0FE2E4D175ACF2048F69F7EB"
+    },
+    {
+      "path": "src/game\\difficulty.ts",
+      "unchanged": true,
+      "finalSha256": "B99BE23BCF51372F5C3807C63DF6C7CAB67F91A45632396D986358D92626C5AD"
+    },
+    {
+      "path": "src/tests\\fixtures\\storage.ts",
+      "unchanged": true,
+      "finalSha256": "5ADF4C82E6E49CAA62E2505BB7E2E92C1875593B7BAF14FFAC9BA300229A16EF"
+    },
+    {
+      "path": "android\\app\\src\\main\\AndroidManifest.xml",
+      "unchanged": true,
+      "finalSha256": "7237F32B80C94877BE5123C797B52C9AACAD73D720608743D4FEB454C0227FC9"
+    },
+    {
+      "path": "docs\\verification\\phase04-generated-desktop-1024.jpg",
+      "unchanged": true,
+      "finalSha256": "5562503F2E808DEA41259B337C5D2052BA3C53D76139B1A7708BE338F7B2679C"
+    },
+    {
+      "path": "android\\gradle.properties",
+      "unchanged": true,
+      "finalSha256": "3BAB15C5B8BC4C2F4B6CF525497D15AD4ABCA53A460E6DD2EB0F0135817D31E6"
+    },
+    {
+      "path": "android\\app\\src\\main\\res\\drawable\\splash.xml",
+      "unchanged": true,
+      "finalSha256": "11D833CB64935006C494AECA6A62A3FB0AC1AB3F9EA05A87196E49BE29C355D2"
+    },
+    {
+      "path": "android\\app\\src\\main\\res\\values\\launcher.xml",
+      "unchanged": true,
+      "finalSha256": "BBF8C75590C45D18E6DC620032571FAD3D792D5D929D262FEED3F33E107AF9E9"
+    },
+    {
+      "path": "src/tests\\fixtures\\generated-v1-seed0-easy.json",
+      "unchanged": true,
+      "finalSha256": "0097A7EAF59A09C62014260C73E46F5F14BB87F2A896C0A1427822DCD0C42864"
+    },
+    {
+      "path": "docs\\verification\\phase04-play-320.jpg",
+      "unchanged": true,
+      "finalSha256": "614CB6E180E58C178B1CFB4441EC065508E44B6D45A967098881CDE9745480E9"
+    },
+    {
+      "path": "docs\\verification\\phase02-ui-regression.jpg",
+      "unchanged": true,
+      "finalSha256": "2A014757120373358F9AA6A6B486F7ACCCD8D01C3FF41CAFCE771833212AFB91"
+    },
+    {
+      "path": "src/game\\levels.ts",
+      "unchanged": true,
+      "finalSha256": "97D41811D1A066A35566E78780F6C1F31395ACFF636FE4F1B36FE2F73C518DD7"
+    },
+    {
+      "path": "src/tests\\difficulty.test.ts",
+      "unchanged": true,
+      "finalSha256": "83FA2E5930DB6A4C51EF72408097DAF608C90C37B375F33A06998007249C073F"
+    },
+    {
+      "path": "docs\\verification\\PHASE_04_PRESERVATION.json",
+      "unchanged": true,
+      "finalSha256": "A4507A9E5678DE524661F939938E6AB9245D4EA2AE3B05767C1CE602B494EBFA"
+    },
+    {
+      "path": "public\\favicon.svg",
+      "unchanged": true,
+      "finalSha256": "48B67376E97C6C0F44D505413B9A25BE563E22B919BDFCB968E1D3589B554C2A"
+    },
+    {
+      "path": "android\\app\\proguard-rules.pro",
+      "unchanged": true,
+      "finalSha256": "1CF8C57E8F79C250B0AF9C1A5A4EDAD71A5C348A79AB70243B6BAE086C150AD2"
+    },
+    {
+      "path": "src/tests\\session.test.ts",
+      "unchanged": true,
+      "finalSha256": "7A233B0E606C5447E59573A1DF31FCDBF1A7491A19BFC576B2482462F392400B"
+    },
+    {
+      "path": "src/tests\\progress.test.ts",
+      "unchanged": true,
+      "finalSha256": "285C76A893B6C85FD2473DADD8AEF0A319526A8F6D263591D96F716202AEA194"
+    },
+    {
+      "path": "docs\\PHASE_04_HANDOFF.md",
+      "unchanged": true,
+      "finalSha256": "7053886DA0FA433C1723230BDC686CA51874CDA1EB6F790C18B781E43828B980"
+    },
+    {
+      "path": "android\\app\\src\\main\\res\\layout\\activity_main.xml",
+      "unchanged": true,
+      "finalSha256": "5D770FEB791313B947020CBFC57E5C733C556DAC5E9E49261A1190E527073253"
+    },
+    {
+      "path": "android\\app\\src\\test\\java\\com\\getcapacitor\\myapp\\ExampleUnitTest.java",
+      "unchanged": true,
+      "finalSha256": "D4045AE8FAC1F0807E6B24EB34E68409A9A235DF9D1A3F896FB8C9A49424363D"
+    },
+    {
+      "path": "android\\app\\src\\main\\java\\com\\example\\flowline\\MainActivity.java",
+      "unchanged": true,
+      "finalSha256": "DFD5ECE29D7AF41E82A33BE1AADB7F6980BA8138BE4E5561D7AD5884D8E0445D"
+    },
+    {
+      "path": "android\\app\\build.gradle",
+      "unchanged": true,
+      "finalSha256": "96B083387D27C6CF3692AB11F81E329EDFFB73D11F72C5B19FCB371144145353"
+    },
+    {
+      "path": "src/storage\\progress.ts",
+      "unchanged": true,
+      "finalSha256": "6B4F25C2073198386741535E04DF34F5B2D8E8BE05D2662F6E9B38BF375E9D86"
+    },
+    {
+      "path": "docs\\verification\\phase04-generated-victory.jpg",
+      "unchanged": true,
+      "finalSha256": "BAF7172C18E450BB4BFB885F874F6242EB4EAD833A47A16BF321804CF903321F"
+    },
+    {
+      "path": "android\\gradlew",
+      "unchanged": true,
+      "finalSha256": "B187B4C52E749F5760AFDD6FADC31B2A98AD35FB249BF0DFF03B72650F320409"
+    },
+    {
+      "path": "android\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
+      "unchanged": true,
+      "finalSha256": "722F3D05B42A3743CE2C0A41D9C67C9ED62E8786637CFDF2A5F33C61743CC1AD"
+    },
+    {
+      "path": "src/tests\\extraction.test.ts",
+      "unchanged": true,
+      "finalSha256": "1F774A97E9E9166C9413EAE4B7EB0BEE5DC88254E6DF972A9CFB0F6BCE60C771"
+    },
+    {
+      "path": "src/tests\\state.test.ts",
+      "unchanged": true,
+      "finalSha256": "36B089882D6ACD046DC9AEF959954ECF9FA6582CF0D8BAE9E92BB1C842248928"
+    },
+    {
+      "path": "src/game\\rules.ts",
+      "unchanged": true,
+      "finalSha256": "097516ABBB29B914A0EACFAA78EA8E42C14471E7904F9248B6B354176C9A235A"
+    },
+    {
+      "path": "src/tests\\rules.test.ts",
+      "unchanged": true,
+      "finalSha256": "D25B64DAC1626E98D546DA0F4ED04E46683640C1970FB11638A2C4EEF99C911E"
+    },
+    {
+      "path": "docs\\PHASE_03_HANDOFF.md",
+      "unchanged": true,
+      "finalSha256": "EF9F2687C58A7666C50DCA4AC455C3CCD71C6C7C70BFE8AFB5165941D8471A33"
+    },
+    {
+      "path": "docs\\verification\\PHASE_04_SEED_REGRESSION.json",
+      "unchanged": true,
+      "finalSha256": "F8D84176FB76D891F23943F52440313B625421F564166B6AC9C22FAD95DE1C28"
+    },
+    {
+      "path": "src/storage\\settings.ts",
+      "unchanged": true,
+      "finalSha256": "C4147C27E239830E0B3733033128C85CCBDB46C8FF6833D70FCF56F1168C100B"
+    },
+    {
+      "path": "src/tests\\geometry.test.ts",
+      "unchanged": true,
+      "finalSha256": "C280C8DB6B0C3477FDABD910121B2194A7D10EDBC1A30789017EDB1C35ACB872"
+    },
+    {
+      "path": "src/tests\\solver.test.ts",
+      "unchanged": true,
+      "finalSha256": "17AE93E5E5B2CCC1EDC123D9F3210CF2A79C152A6FDBF17F8542E8E6B924206E"
+    },
+    {
+      "path": "android\\variables.gradle",
+      "unchanged": true,
+      "finalSha256": "83D502C9ED8FCF1DD4791482067ABEEDBEBAE49FAFE9CD14A8A1F5891DEB0D88"
+    },
+    {
+      "path": "android\\gradlew.bat",
+      "unchanged": true,
+      "finalSha256": "1D297E00BD21DE3ACE22B4D7F2DE1F9DFA858883D66BBF7C1CCBECCCEC8F4F3B"
+    },
+    {
+      "path": "android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml",
+      "unchanged": true,
+      "finalSha256": "AD0FE4B55DF9981991BE8E9332DDF7D8799E8894AE1B45DA5BDE69C664B67A93"
+    },
+    {
+      "path": "docs\\PHASE_03_SEED_SAMPLE.md",
+      "unchanged": false,
+      "finalSha256": "277DECA09B9B59447832820BF1BAFFA3EC73BA163AAC050B8D216EC24E670815"
+    },
+    {
+      "path": "docs\\verification\\phase04-bent-cleared.jpg",
+      "unchanged": true,
+      "finalSha256": "AE4FFCDE9A4297BADFA75F6631A2AD3132E574059C6307B0A4E94FC4358E3160"
+    },
+    {
+      "path": "android\\app\\src\\main\\res\\drawable\\flowline_launcher.xml",
+      "unchanged": true,
+      "finalSha256": "81B63664F5C97DB139064AB8F5EF4AF1467A3AAE55172FB4EB2EC9B59B86A77D"
+    },
+    {
+      "path": "src/tests\\settings.test.ts",
+      "unchanged": true,
+      "finalSha256": "20683D5C581CCE42B2769F748D6740BCECD08EBE98C839A7812390EDE45CA1C4"
+    },
+    {
+      "path": "android\\app\\src\\main\\res\\drawable\\flowline_symbol.xml",
+      "unchanged": true,
+      "finalSha256": "72B7398E5D611670CEB834C0E4199453B6C8F8E9A4D898FF45C8783DA8159C6A"
+    },
+    {
+      "path": "android\\app\\src\\androidTest\\java\\com\\getcapacitor\\myapp\\ExampleInstrumentedTest.java",
+      "unchanged": true,
+      "finalSha256": "FF50B4C110A7434312F9AF54171F9E8523B015836F707C9B387B76D4C38A97F8"
+    },
+    {
+      "path": "src/tests\\levels.test.ts",
+      "unchanged": true,
+      "finalSha256": "2269D6993DECA36C801F6B6A563213F4073840D6ECF7A089DA698F21164F88D3"
+    },
+    {
+      "path": "docs\\PHASE_02_HANDOFF.md",
+      "unchanged": true,
+      "finalSha256": "E08C5579663B5C69BD945389230F4B6F7BFEF2BB155AF553C7FDFAE8D0C27589"
+    },
+    {
+      "path": "docs\\PHASE_01_HANDOFF.md",
+      "unchanged": true,
+      "finalSha256": "827E39679F5E87C852DFA8EDF2AC93FFE237CA362668CB52579D0DEFA66F0A36"
+    },
+    {
+      "path": "src/game\\rng.ts",
+      "unchanged": true,
+      "finalSha256": "01596519D595C0F89F139484E95B07665CF0EEB7BC94D93D7F9F8F1217A6EB3A"
+    },
+    {
+      "path": "android\\settings.gradle",
+      "unchanged": true,
+      "finalSha256": "6CE098D15EBD69B44C4ECD786BCA1BDC366340D2459B2AF4D7BB0AB317AA9669"
+    },
+    {
+      "path": "docs\\verification\\phase04-generated-challenge-390.jpg",
+      "unchanged": true,
+      "finalSha256": "F052938662ECC3CB4E75C1F2CCDE88ADA35F4C374484114C96FA0B7951816BAD"
+    },
+    {
+      "path": "src/tests\\generation-sample.test.ts",
+      "unchanged": true,
+      "finalSha256": "6457A63752DA682ADBBDFCA7C6EF3A009C3F6376DA2F9CA4E9400CDE8CC2653C"
+    },
+    {
+      "path": "capacitor.config.ts",
+      "unchanged": true,
+      "finalSha256": "C076EB18D0101DECB71B21B2D30D4E75430F4FB7E666E37EF089175B824C71ED"
+    },
+    {
+      "path": "docs\\verification\\phase04-bent-430.jpg",
+      "unchanged": true,
+      "finalSha256": "94697B4B02C22D4D7FB6EE69625CCF86CB7A95182479072FB98AFB112355D3AA"
+    },
+    {
+      "path": "src/tests\\game-board.test.ts",
+      "unchanged": true,
+      "finalSha256": "417B7ED6F0778734BADE001A68D5C470BFDE905887F5B6EC232F45DB58AB321A"
+    },
+    {
+      "path": "src/game\\solver.ts",
+      "unchanged": true,
+      "finalSha256": "227E85EDCC08AD39DE2CD64094F48294D6ABC85D97015F7706E75D43686F9760"
+    },
+    {
+      "path": "docs\\verification\\phase04-level10-430.jpg",
+      "unchanged": true,
+      "finalSha256": "F5EE25008E19AB03B4923717BE1BB8EBFA572373FAF37D6680EDE61277F78551"
+    },
+    {
+      "path": "src/tests\\generator.test.ts",
+      "unchanged": true,
+      "finalSha256": "0418EE73EB171114F77E799D6D87E8DD840457DACB9364DF4C055A650DD5B470"
+    },
+    {
+      "path": "docs\\verification\\phase04-landscape-844.jpg",
+      "unchanged": true,
+      "finalSha256": "9CCF158696BC8F0B8AF9273424148522FBEF27CD7678852AF99137CFC3F69256"
+    },
+    {
+      "path": "android\\gradle\\wrapper\\gradle-wrapper.jar",
+      "unchanged": true,
+      "finalSha256": "7D3A4AC4DE1C32B59BC6A4EB8ECB8E612CCD0CF1AE1E99F66902DA64DF296172"
+    },
+    {
+      "path": "docs\\verification\\phase04-victory-320.jpg",
+      "unchanged": true,
+      "finalSha256": "24D6124599296AF35E246B93002CFCCF1DE270DEFC4447FB3F1E2671A0A3B13E"
+    },
+    {
+      "path": "android\\app\\capacitor.build.gradle",
+      "unchanged": true,
+      "finalSha256": "7051CADFDBC532197D2CFD4F8A11684D81367F23CF7952E5A208F7B6AA0833E0"
+    },
+    {
+      "path": "src/game\\types.ts",
+      "unchanged": true,
+      "finalSha256": "08F5D045D38C12B89322D020172479CB681AB0DF7D202436ED2E3AB06015E725"
+    },
+    {
+      "path": "docs\\verification\\phase04-play-390.jpg",
+      "unchanged": true,
+      "finalSha256": "0F3D96B0A9E027E8AF13AACEE1289B7E77DD46FEBFC11EE9867C620ACD0E475E"
+    },
+    {
+      "path": "docs\\verification\\PHASE_03_SEED_SAMPLE.json",
+      "unchanged": false,
+      "finalSha256": "AA159FF105C83312B722064CADA1615291D1A37FC07119ABA0441BB34E18FBD0"
+    },
+    {
+      "path": "docs\\verification\\board-430.jpg",
+      "unchanged": true,
+      "finalSha256": "E3FFA8C2ED7F7310514491D674C4CEFEB5A3D104BDB46F7D96463ADC311D8347"
+    },
+    {
+      "path": "docs\\verification\\home-430.jpg",
+      "unchanged": true,
+      "finalSha256": "DC1C8957FBDDD4C644B7AD74C3B8F220490B009FFE85BD5D15635AD5817595F4"
+    },
+    {
+      "path": "src/game\\state.ts",
+      "unchanged": true,
+      "finalSha256": "2BBF01A7BC91082608AE3EAD2B46771738E708AB4A3C4F450D25CA25F3C3A8D9"
+    },
+    {
+      "path": "android\\app\\src\\main\\res\\values\\colors.xml",
+      "unchanged": true,
+      "finalSha256": "FA7F2A3C7448B7DAD66725FDD8A0FC9753C8DC6C88038B49807EA22EF5113252"
+    },
+    {
+      "path": "android\\capacitor.settings.gradle",
+      "unchanged": true,
+      "finalSha256": "B488E162F552D6EFB8286793C7871BBC1061C9BF5CA3A6A495FDEB8988A541C7"
+    },
+    {
+      "path": "package-lock.json",
+      "unchanged": true,
+      "finalSha256": "1B0A74F2C850E08D3BC89FA20EC181CF7D4835C300A4C010055B3E6C971053FF"
+    },
+    {
+      "path": "android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml",
+      "unchanged": true,
+      "finalSha256": "AD0FE4B55DF9981991BE8E9332DDF7D8799E8894AE1B45DA5BDE69C664B67A93"
+    },
+    {
+      "path": "android\\gradle\\wrapper\\gradle-wrapper.properties",
+      "unchanged": true,
+      "finalSha256": "9A479A85AA879BB55284FC16D0DE5B81A745C3854F4E2D88C42E7DEBAF007435"
+    },
+    {
+      "path": "src/tests\\fixtures\\puzzles.ts",
+      "unchanged": true,
+      "finalSha256": "50F88A28C99D6C61110695E64A2982A26953E30844B3A9915E807C61E20EC6D2"
+    },
+    {
+      "path": "docs\\verification\\phase03-ui-regression.jpg",
+      "unchanged": true,
+      "finalSha256": "C3B2109A5C3F69D8317B9B8B34A937D43519E3441E4D2E81FCC0CD85E89ACDF1"
+    },
+    {
+      "path": "android\\app\\src\\main\\res\\values\\styles.xml",
+      "unchanged": true,
+      "finalSha256": "D95545EBA0573ADB2BA72336588A984B4E401F11E1959793F9314B405DB631FD"
+    },
+    {
+      "path": "docs\\verification\\phase04-defeat-320.jpg",
+      "unchanged": true,
+      "finalSha256": "1D5E536FF40E1600494A3B3E2CE19E009964BD5905AEA4BD16FE68B582EEDDDE"
+    },
+    {
+      "path": "docs\\verification\\PHASE_04_BROWSER_CHECKS.json",
+      "unchanged": true,
+      "finalSha256": "F5B3417114E5C9401F4C0F18A5A00C5AAC96B5050AE72C8B2CB2468A3CAE918E"
+    },
+    {
+      "path": "src/tests\\interaction.test.ts",
+      "unchanged": true,
+      "finalSha256": "867D2FE5D4845F6C228BC754D8712ACA2C91CE99CD2C3660A00289D9D10BEC43"
+    }
+  ],
+  "note": "The 84-file checkpoint passed before the final accessibility cleanup. The final full test rerun automatically refreshed the two historical Phase 3 seed timing reports. They now contain the latest measured sample; deterministic geometry and non-timing metrics are preserved. All other protected files remained unchanged."
+}

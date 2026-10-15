@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-15",
+  "url": "http://127.0.0.1:4173/",
+  "build": "index-BY2uuTg0.js",
+  "checks": [
+    "Mouse click Level 1 victory",
+    "Three blocked mouse attempts in Challenge Level 2 produced loss",
+    "Try in Zen restarts the same level without heart penalties",
+    "Partial Level 2 progress restored by reload",
+    "Keyboard won onboarding levels 1 through 10",
+    "Generated Level 11 won in 15 actual UI attempts",
+    "Zoom controls, mouse pan and reset",
+    "Settings saved, Escape restores focus, original preferences restored",
+    "Artwork-only preview and Back route preserved"
+  ],
+  "viewports": [
+    [
+      320,
+      568
+    ],
+    [
+      390,
+      844
+    ],
+    [
+      430,
+      932
+    ],
+    [
+      844,
+      390
+    ],
+    [
+      1024,
+      768
+    ]
+  ],
+  "console": [],
+  "limitations": [
+    "OS reduced motion remains effective when the game toggle is off; normal-motion frames verified by automated clock/Canvas tests, not observed live here",
+    "Physical touch/pinch, physical Android and device FPS not measured",
+    "Expert level 81 covered by rendering, transforms and state integration tests; not browser-played"
+  ],
+  "idleStart": {
+    "at": 1792032652562,
+    "diagnostics": {
+      "lastPaintMs": "0.200",
+      "maxPaintMs": "0.300",
+      "paintCount": "8"
+    }
+  },
+  "idleEnd": {
+    "at": 1792032789580,
+    "diagnostics": {
+      "lastPaintMs": "0.200",
+      "maxPaintMs": "0.300",
+      "paintCount": "8"
+    }
+  },
+  "idleUnchanged": true,
+  "idleElapsedMs": 137018,
+  "finalBuild": "index-DWpJU3ew.js",
+  "finalConsole": [],
+  "finalPreviewFallbackVerified": true
+}

@@ -1,0 +1,202 @@
+{
+  "frames": [
+    {
+      "file": "A-landscape-working-fast-00.jpg",
+      "beginMs": 46,
+      "endMs": 99
+    },
+    {
+      "file": "A-landscape-working-fast-01.jpg",
+      "beginMs": 121,
+      "endMs": 182
+    },
+    {
+      "file": "A-landscape-working-fast-02.jpg",
+      "beginMs": 188,
+      "endMs": 241
+    },
+    {
+      "file": "A-landscape-working-fast-03.jpg",
+      "beginMs": 249,
+      "endMs": 348
+    },
+    {
+      "file": "A-landscape-working-fast-04.jpg",
+      "beginMs": 363,
+      "endMs": 417
+    },
+    {
+      "file": "A-landscape-working-fast-05.jpg",
+      "beginMs": 433,
+      "endMs": 495
+    },
+    {
+      "file": "A-landscape-working-fast-06.jpg",
+      "beginMs": 499,
+      "endMs": 600
+    },
+    {
+      "file": "A-landscape-working-fast-07.jpg",
+      "beginMs": 627,
+      "endMs": 680
+    },
+    {
+      "file": "A-landscape-working-fast-08.jpg",
+      "beginMs": 684,
+      "endMs": 758
+    },
+    {
+      "file": "A-landscape-working-fast-09.jpg",
+      "beginMs": 792,
+      "endMs": 865
+    },
+    {
+      "file": "A-landscape-working-fast-10.jpg",
+      "beginMs": 879,
+      "endMs": 978
+    },
+    {
+      "file": "A-landscape-working-fast-11.jpg",
+      "beginMs": 980,
+      "endMs": 1027
+    },
+    {
+      "file": "A-landscape-working-fast-12.jpg",
+      "beginMs": 1029,
+      "endMs": 1060
+    },
+    {
+      "file": "A-landscape-working-fast-13.jpg",
+      "beginMs": 1062,
+      "endMs": 1099
+    },
+    {
+      "file": "A-landscape-working-fast-14.jpg",
+      "beginMs": 1101,
+      "endMs": 1216
+    },
+    {
+      "file": "A-landscape-working-fast-15.jpg",
+      "beginMs": 1247,
+      "endMs": 1276
+    },
+    {
+      "file": "A-landscape-working-fast-16.jpg",
+      "beginMs": 1284,
+      "endMs": 1318
+    },
+    {
+      "file": "A-landscape-working-fast-17.jpg",
+      "beginMs": 1330,
+      "endMs": 1357
+    },
+    {
+      "file": "A-landscape-working-fast-18.jpg",
+      "beginMs": 1365,
+      "endMs": 1401
+    },
+    {
+      "file": "A-landscape-working-fast-19.jpg",
+      "beginMs": 1402,
+      "endMs": 1430
+    },
+    {
+      "file": "A-landscape-working-fast-20.jpg",
+      "beginMs": 1432,
+      "endMs": 1461
+    },
+    {
+      "file": "A-landscape-working-fast-21.jpg",
+      "beginMs": 1464,
+      "endMs": 1493
+    },
+    {
+      "file": "A-landscape-working-fast-22.jpg",
+      "beginMs": 1494,
+      "endMs": 1526
+    },
+    {
+      "file": "A-landscape-working-fast-23.jpg",
+      "beginMs": 1528,
+      "endMs": 1549
+    },
+    {
+      "file": "A-landscape-working-fast-24.jpg",
+      "beginMs": 1551,
+      "endMs": 1582
+    },
+    {
+      "file": "A-landscape-working-fast-25.jpg",
+      "beginMs": 1586,
+      "endMs": 1615
+    },
+    {
+      "file": "A-landscape-working-fast-26.jpg",
+      "beginMs": 1617,
+      "endMs": 1645
+    },
+    {
+      "file": "A-landscape-working-fast-27.jpg",
+      "beginMs": 1646,
+      "endMs": 1679
+    },
+    {
+      "file": "A-landscape-working-fast-28.jpg",
+      "beginMs": 1680,
+      "endMs": 1710
+    },
+    {
+      "file": "A-landscape-working-fast-29.jpg",
+      "beginMs": 1746,
+      "endMs": 1779
+    },
+    {
+      "file": "A-landscape-working-fast-30.jpg",
+      "beginMs": 1780,
+      "endMs": 1801
+    },
+    {
+      "file": "A-landscape-working-fast-31.jpg",
+      "beginMs": 1802,
+      "endMs": 1829
+    }
+  ],
+  "final": {
+    "arrows": "44",
+    "attempts": "1",
+    "audioEvent": "complete",
+    "audioState": "suspended",
+    "audioVoices": "0",
+    "cellSize": "27.161",
+    "extractionDurationMs": "556.719",
+    "extractionElapsedMs": "562.900",
+    "extractionFraction": "1.00000",
+    "extractionFrames": "35",
+    "extractionMaxGapMs": "17.200",
+    "extractionTravelPx": "409.852",
+    "family": "A",
+    "generationMs": "91.90000000037253",
+    "lastPaintMs": "0.200",
+    "levelId": "procedural-v2-feasibility-r2-00000000-17-29-40-55-auto-3-18-6-0.56-0.8-4-96-26000-0-A",
+    "maxPaintMs": "0.600",
+    "motionMode": "full",
+    "movingHead": "{\"x\":1061.1374999999998,\"y\":51.910714285714285}",
+    "movingTail": "{\"x\":871.0125,\"y\":51.910714285714285}",
+    "paintCount": "89",
+    "phase": "ready",
+    "preview": "",
+    "previewBlocker": "",
+    "previewContact": "",
+    "remaining": "43",
+    "requestedArrows": "auto",
+    "safeRect": "{\"x\":112,\"y\":16,\"width\":644,\"height\":358}",
+    "sampledPaintCount": "85",
+    "sampledPaintMeanMs": "0.28352941176470586",
+    "sampledPaintP95Ms": "0.4",
+    "seed": "0",
+    "sourceLengthPx": "190.125",
+    "tailDistance": "15.08988",
+    "trailDots": "0",
+    "zoom": "2.250"
+  }
+}

@@ -1,0 +1,502 @@
+[
+  {
+    "phase": "before",
+    "level": 11,
+    "image": "phase045-before-320.jpg",
+    "viewport": [
+      320,
+      568
+    ],
+    "imageDimensions": [
+      305,
+      541
+    ],
+    "captureScale": [
+      0.953125,
+      0.9524647887323944
+    ],
+    "cssNormalizedEstimate": true,
+    "measuredRegion": {
+      "bottom": 423.828125,
+      "height": 248,
+      "left": 19,
+      "right": 286,
+      "top": 175.828125,
+      "width": 267,
+      "x": 19,
+      "y": 175.828125
+    },
+    "strokeBounds": {
+      "x": 53,
+      "y": 196,
+      "width": 185,
+      "height": 179
+    },
+    "strokeBoundsCSS": {
+      "x": 55.60655737704918,
+      "y": 205.7818853974122,
+      "width": 194.0983606557377,
+      "height": 187.93345656192236
+    },
+    "strokeBoundsWidthOfRegion": 0.7269601522686806,
+    "strokeBoundsAreaOfViewport": 0.2006908881549044,
+    "darkPixelCount": 1862,
+    "darkPixelsOfRegion": 0.030975472799805358
+  },
+  {
+    "phase": "before",
+    "level": 11,
+    "image": "phase045-before-360.jpg",
+    "viewport": [
+      360,
+      800
+    ],
+    "imageDimensions": [
+      345,
+      767
+    ],
+    "captureScale": [
+      0.9583333333333334,
+      0.95875
+    ],
+    "cssNormalizedEstimate": true,
+    "measuredRegion": {
+      "bottom": 655.828125,
+      "height": 480,
+      "left": 19,
+      "right": 326,
+      "top": 175.828125,
+      "width": 307,
+      "x": 19,
+      "y": 175.828125
+    },
+    "strokeBounds": {
+      "x": 50,
+      "y": 287,
+      "width": 230,
+      "height": 224
+    },
+    "strokeBoundsCSS": {
+      "x": 52.17391304347826,
+      "y": 299.3481095176011,
+      "width": 240.0,
+      "height": 233.6375488917862
+    },
+    "strokeBoundsWidthOfRegion": 0.7817589576547231,
+    "strokeBoundsAreaOfViewport": 0.19469795740982182,
+    "darkPixelCount": 2920,
+    "darkPixelsOfRegion": 0.021566579335561015
+  },
+  {
+    "phase": "before",
+    "level": 11,
+    "image": "phase045-before-390.jpg",
+    "viewport": [
+      390,
+      844
+    ],
+    "imageDimensions": [
+      390,
+      844
+    ],
+    "captureScale": [
+      1.0,
+      1.0
+    ],
+    "cssNormalizedEstimate": false,
+    "measuredRegion": {
+      "bottom": 690.828125,
+      "height": 524,
+      "left": 25,
+      "right": 365,
+      "top": 166.828125,
+      "width": 340,
+      "x": 25,
+      "y": 166.828125
+    },
+    "strokeBounds": {
+      "x": 61,
+      "y": 300,
+      "width": 268,
+      "height": 258
+    },
+    "strokeBoundsCSS": {
+      "x": 61.0,
+      "y": 300.0,
+      "width": 268.0,
+      "height": 258.0
+    },
+    "strokeBoundsWidthOfRegion": 0.788235294117647,
+    "strokeBoundsAreaOfViewport": 0.2100619759387532,
+    "darkPixelCount": 4424,
+    "darkPixelsOfRegion": 0.024831612034126628
+  },
+  {
+    "phase": "before",
+    "level": 11,
+    "image": "phase045-before-430.jpg",
+    "viewport": [
+      430,
+      932
+    ],
+    "imageDimensions": [
+      430,
+      932
+    ],
+    "captureScale": [
+      1.0,
+      1.0
+    ],
+    "cssNormalizedEstimate": false,
+    "measuredRegion": {
+      "bottom": 726.828125,
+      "height": 560,
+      "left": 25,
+      "right": 405,
+      "top": 166.828125,
+      "width": 380,
+      "x": 25,
+      "y": 166.828125
+    },
+    "strokeBounds": {
+      "x": 66,
+      "y": 303,
+      "width": 298,
+      "height": 288
+    },
+    "strokeBoundsCSS": {
+      "x": 66.0,
+      "y": 303.0,
+      "width": 298.0,
+      "height": 288.0
+    },
+    "strokeBoundsWidthOfRegion": 0.7842105263157895,
+    "strokeBoundsAreaOfViewport": 0.21415310909272384,
+    "darkPixelCount": 5372,
+    "darkPixelsOfRegion": 0.02524436090225564
+  },
+  {
+    "phase": "before",
+    "level": 11,
+    "image": "phase045-before-844.jpg",
+    "viewport": [
+      844,
+      390
+    ],
+    "imageDimensions": [
+      844,
+      390
+    ],
+    "captureScale": [
+      1.0,
+      1.0
+    ],
+    "cssNormalizedEstimate": false,
+    "measuredRegion": {
+      "bottom": 366,
+      "height": 342,
+      "left": 359,
+      "right": 759,
+      "top": 24,
+      "width": 400,
+      "x": 359,
+      "y": 24
+    },
+    "strokeBounds": {
+      "x": 425,
+      "y": 65,
+      "width": 268,
+      "height": 260
+    },
+    "strokeBoundsCSS": {
+      "x": 425.0,
+      "y": 65.0,
+      "width": 268.0,
+      "height": 260.0
+    },
+    "strokeBoundsWidthOfRegion": 0.67,
+    "strokeBoundsAreaOfViewport": 0.21169036334913113,
+    "darkPixelCount": 4384,
+    "darkPixelsOfRegion": 0.032046783625731
+  },
+  {
+    "phase": "after",
+    "level": 11,
+    "image": "phase045-after-level11-320.jpg",
+    "viewport": [
+      320,
+      568
+    ],
+    "imageDimensions": [
+      320,
+      568
+    ],
+    "captureScale": [
+      1.0,
+      1.0
+    ],
+    "cssNormalizedEstimate": false,
+    "measuredRegion": {
+      "x": 16,
+      "y": 72,
+      "width": 288,
+      "height": 400
+    },
+    "strokeBounds": {
+      "x": 22,
+      "y": 136,
+      "width": 276,
+      "height": 271
+    },
+    "strokeBoundsCSS": {
+      "x": 22.0,
+      "y": 136.0,
+      "width": 276.0,
+      "height": 271.0
+    },
+    "strokeBoundsWidthOfRegion": 0.9583333333333334,
+    "strokeBoundsAreaOfViewport": 0.41150968309859154,
+    "darkPixelCount": 2666,
+    "darkPixelsOfRegion": 0.02314236111111111
+  },
+  {
+    "phase": "after",
+    "level": 11,
+    "image": "phase045-after-level11-360.jpg",
+    "viewport": [
+      360,
+      800
+    ],
+    "imageDimensions": [
+      360,
+      800
+    ],
+    "captureScale": [
+      1.0,
+      1.0
+    ],
+    "cssNormalizedEstimate": false,
+    "measuredRegion": {
+      "x": 16,
+      "y": 72,
+      "width": 328,
+      "height": 632
+    },
+    "strokeBounds": {
+      "x": 22,
+      "y": 232,
+      "width": 316,
+      "height": 311
+    },
+    "strokeBoundsCSS": {
+      "x": 22.0,
+      "y": 232.0,
+      "width": 316.0,
+      "height": 311.0
+    },
+    "strokeBoundsWidthOfRegion": 0.9634146341463414,
+    "strokeBoundsAreaOfViewport": 0.34123611111111113,
+    "darkPixelCount": 3033,
+    "darkPixelsOfRegion": 0.014631251929607904
+  },
+  {
+    "phase": "after",
+    "level": 11,
+    "image": "phase045-after-level11-390.jpg",
+    "viewport": [
+      390,
+      844
+    ],
+    "imageDimensions": [
+      390,
+      844
+    ],
+    "captureScale": [
+      1.0,
+      1.0
+    ],
+    "cssNormalizedEstimate": false,
+    "measuredRegion": {
+      "x": 16,
+      "y": 72,
+      "width": 358,
+      "height": 676
+    },
+    "strokeBounds": {
+      "x": 22,
+      "y": 240,
+      "width": 346,
+      "height": 340
+    },
+    "strokeBoundsCSS": {
+      "x": 22.0,
+      "y": 240.0,
+      "width": 346.0,
+      "height": 340.0
+    },
+    "strokeBoundsWidthOfRegion": 0.9664804469273743,
+    "strokeBoundsAreaOfViewport": 0.3573945801433953,
+    "darkPixelCount": 3313,
+    "darkPixelsOfRegion": 0.013689630094872897
+  },
+  {
+    "phase": "after",
+    "level": 11,
+    "image": "phase045-after-level11-430.jpg",
+    "viewport": [
+      430,
+      932
+    ],
+    "imageDimensions": [
+      430,
+      932
+    ],
+    "captureScale": [
+      1.0,
+      1.0
+    ],
+    "cssNormalizedEstimate": false,
+    "measuredRegion": {
+      "x": 16,
+      "y": 72,
+      "width": 398,
+      "height": 764
+    },
+    "strokeBounds": {
+      "x": 22,
+      "y": 264,
+      "width": 386,
+      "height": 380
+    },
+    "strokeBoundsCSS": {
+      "x": 22.0,
+      "y": 264.0,
+      "width": 386.0,
+      "height": 380.0
+    },
+    "strokeBoundsWidthOfRegion": 0.9698492462311558,
+    "strokeBoundsAreaOfViewport": 0.36600459127657453,
+    "darkPixelCount": 2856,
+    "darkPixelsOfRegion": 0.009392512299718488
+  },
+  {
+    "phase": "after",
+    "level": 11,
+    "image": "phase045-after-level11-844.jpg",
+    "viewport": [
+      844,
+      390
+    ],
+    "imageDimensions": [
+      844,
+      390
+    ],
+    "captureScale": [
+      1.0,
+      1.0
+    ],
+    "cssNormalizedEstimate": false,
+    "measuredRegion": {
+      "x": 112,
+      "y": 16,
+      "width": 644,
+      "height": 358
+    },
+    "strokeBounds": {
+      "x": 261,
+      "y": 24,
+      "width": 346,
+      "height": 341
+    },
+    "strokeBoundsCSS": {
+      "x": 261.0,
+      "y": 24.0,
+      "width": 346.0,
+      "height": 341.0
+    },
+    "strokeBoundsWidthOfRegion": 0.5372670807453416,
+    "strokeBoundsAreaOfViewport": 0.3584457406732288,
+    "darkPixelCount": 3317,
+    "darkPixelsOfRegion": 0.014387209826850341
+  },
+  {
+    "phase": "after",
+    "level": 41,
+    "image": "phase045-after-level41-390.jpg",
+    "viewport": [
+      390,
+      844
+    ],
+    "imageDimensions": [
+      390,
+      844
+    ],
+    "captureScale": [
+      1.0,
+      1.0
+    ],
+    "cssNormalizedEstimate": false,
+    "measuredRegion": {
+      "x": 16,
+      "y": 72,
+      "width": 358,
+      "height": 676
+    },
+    "strokeBounds": {
+      "x": 23,
+      "y": 240,
+      "width": 345,
+      "height": 340
+    },
+    "strokeBoundsCSS": {
+      "x": 23.0,
+      "y": 240.0,
+      "width": 345.0,
+      "height": 340.0
+    },
+    "strokeBoundsWidthOfRegion": 0.9636871508379888,
+    "strokeBoundsAreaOfViewport": 0.3563616478308421,
+    "darkPixelCount": 5087,
+    "darkPixelsOfRegion": 0.021019966282106377
+  },
+  {
+    "phase": "after",
+    "level": 81,
+    "image": "phase045-after-level81-390.jpg",
+    "viewport": [
+      390,
+      844
+    ],
+    "imageDimensions": [
+      390,
+      844
+    ],
+    "captureScale": [
+      1.0,
+      1.0
+    ],
+    "cssNormalizedEstimate": false,
+    "measuredRegion": {
+      "x": 16,
+      "y": 72,
+      "width": 358,
+      "height": 676
+    },
+    "strokeBounds": {
+      "x": 25,
+      "y": 238,
+      "width": 342,
+      "height": 344
+    },
+    "strokeBoundsCSS": {
+      "x": 25.0,
+      "y": 238.0,
+      "width": 342.0,
+      "height": 344.0
+    },
+    "strokeBoundsWidthOfRegion": 0.9553072625698324,
+    "strokeBoundsAreaOfViewport": 0.35741888443310244,
+    "darkPixelCount": 4363,
+    "darkPixelsOfRegion": 0.018028329641995307
+  }
+]

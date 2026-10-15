@@ -1,0 +1,205 @@
+{
+  "bundle": "/assets/index-DxlKE-ft.js",
+  "held": {
+    "arrowCount": "7",
+    "attempts": "0",
+    "audioEvent": "",
+    "audioState": "uninitialized",
+    "audioVoices": "0",
+    "boardSize": "7x7",
+    "cellSize": "88.667",
+    "density": "0.5714285714285714",
+    "hearts": "3",
+    "lastPaintMs": "0.100",
+    "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+    "maxPaintMs": "0.100",
+    "paintCount": "5",
+    "phase": "ready",
+    "preview": "arrow-003",
+    "previewBlocker": "arrow-004",
+    "previewContact": "{\"x\":5,\"y\":4}",
+    "remaining": "7",
+    "safeRect": "{\"x\":16,\"y\":72,\"width\":1248,\"height\":552}",
+    "trailDots": "0",
+    "zoom": "1.000"
+  },
+  "released": {
+    "arrowCount": "7",
+    "attempts": "0",
+    "audioEvent": "",
+    "audioState": "uninitialized",
+    "audioVoices": "0",
+    "boardSize": "7x7",
+    "cellSize": "88.667",
+    "density": "0.5714285714285714",
+    "hearts": "3",
+    "lastPaintMs": "0.000",
+    "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+    "maxPaintMs": "0.200",
+    "paintCount": "7",
+    "phase": "ready",
+    "preview": "",
+    "previewBlocker": "",
+    "previewContact": "",
+    "remaining": "7",
+    "safeRect": "{\"x\":16,\"y\":72,\"width\":1248,\"height\":552}",
+    "trailDots": "0",
+    "zoom": "1.000"
+  },
+  "blocked": {
+    "arrowCount": "7",
+    "attempts": "1",
+    "audioEvent": "blocked",
+    "audioState": "running",
+    "audioVoices": "0",
+    "boardSize": "7x7",
+    "cellSize": "88.667",
+    "density": "0.5714285714285714",
+    "hearts": "2",
+    "lastPaintMs": "0.200",
+    "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+    "maxPaintMs": "0.200",
+    "paintCount": "12",
+    "phase": "ready",
+    "preview": "",
+    "previewBlocker": "",
+    "previewContact": "",
+    "remaining": "7",
+    "safeRect": "{\"x\":16,\"y\":72,\"width\":1248,\"height\":552}",
+    "trailDots": "0",
+    "zoom": "1.000"
+  },
+  "readyProduction": {
+    "canvas": {
+      "height": 720,
+      "width": 1280,
+      "x": 0,
+      "y": 0
+    },
+    "controls": [
+      {
+        "height": 56,
+        "label": "Magnify puzzle",
+        "width": 56,
+        "x": 574,
+        "y": 648
+      },
+      {
+        "height": 56,
+        "label": "Reset view",
+        "width": 56,
+        "x": 650,
+        "y": 648
+      }
+    ],
+    "data": {
+      "arrowCount": "7",
+      "attempts": "0",
+      "audioEvent": "blocked",
+      "audioState": "suspended",
+      "audioVoices": "0",
+      "boardSize": "7x7",
+      "cellSize": "88.667",
+      "density": "0.5714285714285714",
+      "hearts": "3",
+      "lastPaintMs": "0.100",
+      "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+      "maxPaintMs": "0.100",
+      "paintCount": "3",
+      "phase": "ready",
+      "preview": "",
+      "previewBlocker": "",
+      "previewContact": "",
+      "remaining": "7",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":1248,\"height\":552}",
+      "trailDots": "0",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 720,
+      "scrollHeight": 720,
+      "scrollWidth": 1280,
+      "width": 1280
+    },
+    "hud": {
+      "height": 56,
+      "width": 1256,
+      "x": 12,
+      "y": 8
+    },
+    "preferences": {
+      "reducedMotion": "true",
+      "storedReducedMotion": "true",
+      "systemReducedMotion": "true"
+    }
+  },
+  "readyLab": {
+    "canvas": {
+      "height": 720,
+      "width": 1280,
+      "x": 0,
+      "y": 0
+    },
+    "controls": [
+      {
+        "height": 56,
+        "label": "Magnify puzzle",
+        "width": 56,
+        "x": 574,
+        "y": 648
+      },
+      {
+        "height": 56,
+        "label": "Reset view",
+        "width": 56,
+        "x": 650,
+        "y": 648
+      }
+    ],
+    "data": {
+      "arrows": "44",
+      "attempts": "0",
+      "audioEvent": "",
+      "audioState": "uninitialized",
+      "audioVoices": "0",
+      "cellSize": "19.000",
+      "family": "A",
+      "generationMs": "107.79999999888241",
+      "lastPaintMs": "0.600",
+      "levelId": "procedural-v2-feasibility-r2-00000000-17-29-40-55-auto-3-18-6-0.56-0.8-4-96-26000-0-A",
+      "maxPaintMs": "0.800",
+      "paintCount": "4",
+      "phase": "ready",
+      "remaining": "44",
+      "requestedArrows": "auto",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":1248,\"height\":552}",
+      "sampledPaintCount": "3",
+      "sampledPaintMeanMs": "0.6000000000000001",
+      "sampledPaintP95Ms": "0.8",
+      "seed": "0",
+      "trailDots": "0",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 720,
+      "scrollHeight": 720,
+      "scrollWidth": 1280,
+      "width": 1280
+    },
+    "hud": {
+      "height": 56,
+      "width": 1256,
+      "x": 12,
+      "y": 8
+    },
+    "preferences": {
+      "reducedMotion": "false",
+      "storedReducedMotion": "true",
+      "systemReducedMotion": "true"
+    }
+  },
+  "errors": {
+    "production": [],
+    "lab": []
+  }
+}

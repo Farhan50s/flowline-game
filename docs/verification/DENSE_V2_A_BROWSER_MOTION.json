@@ -1,0 +1,100 @@
+[
+  {
+    "canvas": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 56,
+      "width": 132,
+      "x": 129,
+      "y": 772
+    },
+    "data": {
+      "arrows": "44",
+      "attempts": "1",
+      "cellSize": "21.125",
+      "extractionFrames": "14",
+      "extractionMaxGapMs": "18.000",
+      "family": "A",
+      "generationMs": "57.799999999813735",
+      "lastPaintMs": "0.300",
+      "levelId": "procedural-v2-feasibility-r2-00000000-17-29-40-55-auto-3-18-6-0.56-0.8-4-96-26000-0-A",
+      "maxPaintMs": "0.800",
+      "paintCount": "20",
+      "phase": "animating",
+      "remaining": "44",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":358,\"height\":676}",
+      "sampledPaintCount": "50",
+      "sampledPaintMeanMs": "0.26599999999999985",
+      "sampledPaintP95Ms": "0.4",
+      "seed": "0",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 844,
+      "width": 390
+    },
+    "hud": {
+      "height": 56,
+      "width": 366,
+      "x": 12,
+      "y": 8
+    },
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  },
+  {
+    "canvas": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 56,
+      "width": 132,
+      "x": 129,
+      "y": 772
+    },
+    "data": {
+      "arrows": "44",
+      "attempts": "1",
+      "cellSize": "21.125",
+      "extractionFrames": "24",
+      "extractionMaxGapMs": "18.100",
+      "family": "A",
+      "generationMs": "57.799999999813735",
+      "lastPaintMs": "0.200",
+      "levelId": "procedural-v2-feasibility-r2-00000000-17-29-40-55-auto-3-18-6-0.56-0.8-4-96-26000-0-A",
+      "maxPaintMs": "0.800",
+      "paintCount": "31",
+      "phase": "ready",
+      "remaining": "43",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":358,\"height\":676}",
+      "sampledPaintCount": "60",
+      "sampledPaintMeanMs": "0.26666666666666655",
+      "sampledPaintP95Ms": "0.4",
+      "seed": "0",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 844,
+      "width": 390
+    },
+    "hud": {
+      "height": 56,
+      "width": 366,
+      "x": 12,
+      "y": 8
+    },
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  }
+]

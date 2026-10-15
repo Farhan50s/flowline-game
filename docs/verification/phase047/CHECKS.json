@@ -1,0 +1,15 @@
+{
+  "phase": "4.7",
+  "baseline": { "tests": 1474, "files": 18, "durationSeconds": 25.81, "exitCode": 0 },
+  "typecheck": { "passed": true, "exitCode": 0 },
+  "tests": { "passed": 1574, "files": 21, "newCases": 100, "durationSeconds": 25.64, "exitCode": 0 },
+  "v1SeedRegression": { "cases": 1000, "generated": 1000, "verified": 1000 },
+  "build": { "modules": 29, "viteMs": 293, "exitCode": 0, "javascript": "index-DxlKE-ft.js", "css": "index-CJogRmSs.css" },
+  "capacitorSync": { "rebuildMs": 119, "syncSeconds": 0.101, "exitCode": 0, "matchingWebAssets": 4 },
+  "preservation": { "checkpointedFiles": 234, "byteIdentical": 225, "intentionalEdits": 9, "oldTestsAndFixturesUnchanged": true, "historicalSeedReportsRestored": true },
+  "browser": { "viewports": [[320,568],[390,844],[844,390]], "productionAndSharedLabTested": true, "normalMotionViaExplicitLabOverride": true, "systemReducedMotion": true, "storedReducedMotion": true, "audioContextResumed": true, "physicalAudioQualityVerified": false, "physicalHapticsVerified": false, "capturedWarningsOrErrors": 0, "sampledMotionPlaybacks": 8, "auditedJpegs": 507, "sizeLabelMismatches": 0 },
+  "native": { "java": "1.8.0_51", "java21Configured": false, "androidSdkConfigured": false, "apkBuilt": false },
+  "committed": false,
+  "pushed": false,
+  "deployed": false
+}

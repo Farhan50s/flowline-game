@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>FLOWLINE Phase 4.5 — actual browser comparison</title>
+<style>body{margin:32px;background:#f2f0ea;color:#24333a;font:16px system-ui}main{max-width:1040px;margin:auto}h1{font-size:26px}p{line-height:1.6}section{display:flex;gap:24px;flex-wrap:wrap;align-items:flex-start}figure{margin:0;max-width:390px}img{display:block;width:100%;height:auto}figcaption{padding:12px 0;line-height:1.6}small{display:block}a{color:#087878}</style>
+<main><h1>Full-screen gameplay — same Level 11, 390×844</h1>
+<p>Original browser captures, not mockups. Identical procedural-v1 seed and seven paths. The Canvas fills the viewport; square puzzle geometry keeps its aspect ratio.</p>
+<section>
+<figure><img src="phase045-before-390.jpg" alt="Phase 4 gameplay with framed board, header, instructions and button row"><figcaption><b>Before</b><small>Canvas 340×524; visible stroke bounds 268×258px.</small></figcaption></figure>
+<figure><img src="phase045-after-level11-390.jpg" alt="Phase 4.5 full-screen gameplay with minimal HUD and two floating controls"><figcaption><b>After</b><small>Canvas 390×844; safe play region 358×676; visible stroke bounds 346×340px. HUD 56px; floating buttons 56px.</small></figcaption></figure>
+</section>
+<h1>Actual unchanged hard and expert levels</h1>
+<section>
+<figure><img src="phase045-after-level41-390.jpg" alt="Actual twenty-arrow Level 41"><figcaption><b>Level 41</b><small>11×11, 20 interactive paths, 67.77% grid occupancy.</small></figcaption></figure>
+<figure><img src="phase045-after-level81-390.jpg" alt="Actual twenty-five-arrow Level 81"><figcaption><b>Level 81</b><small>13×13, 25 interactive paths, 62.13% grid occupancy.</small></figcaption></figure>
+</section>
+<p>UI scaling is delivered. Taller, longer, more densely nested compositions require a separate procedural-v2 recipe. <a href="../DENSE_LEVEL_V2_PLAN.md">Read the proposal</a>; it is not implemented here.</p>
+<p>Measurements and capture limitations: <a href="PHASE_04_5_IMAGE_METRICS.json">pixel analysis</a>, <a href="PHASE_04_5_AFTER_LAYOUTS.json">DOM bounds</a>, <a href="../PHASE_04_5_HANDOFF.md">complete handoff</a>.</p>
+</main></html>

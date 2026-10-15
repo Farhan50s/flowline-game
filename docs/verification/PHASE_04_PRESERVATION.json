@@ -1,0 +1,272 @@
+{
+  "protectedFiles": [
+    {
+      "path": "android\\app\\src\\main\\AndroidManifest.xml",
+      "matched": true
+    },
+    {
+      "path": "android\\variables.gradle",
+      "matched": true
+    },
+    {
+      "path": "docs\\verification\\phase02-ui-regression.jpg",
+      "matched": true
+    },
+    {
+      "path": "android\\app\\build.gradle",
+      "matched": true
+    },
+    {
+      "path": "android\\app\\src\\main\\res\\values\\styles.xml",
+      "matched": true
+    },
+    {
+      "path": "src/storage/settings.ts",
+      "matched": true
+    },
+    {
+      "path": "docs\\PHASE_03_HANDOFF.md",
+      "matched": true
+    },
+    {
+      "path": "android\\app\\src\\main\\res\\drawable\\splash.xml",
+      "matched": true
+    },
+    {
+      "path": "android\\capacitor.settings.gradle",
+      "matched": true
+    },
+    {
+      "path": "android\\app\\src\\test\\java\\com\\getcapacitor\\myapp\\ExampleUnitTest.java",
+      "matched": true
+    },
+    {
+      "path": "docs\\verification\\board-430.jpg",
+      "matched": true
+    },
+    {
+      "path": "src/game\\solver.ts",
+      "matched": true
+    },
+    {
+      "path": "package.json",
+      "matched": true
+    },
+    {
+      "path": "android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml",
+      "matched": true
+    },
+    {
+      "path": "public\\favicon.svg",
+      "matched": true
+    },
+    {
+      "path": "android\\app\\src\\androidTest\\java\\com\\getcapacitor\\myapp\\ExampleInstrumentedTest.java",
+      "matched": true
+    },
+    {
+      "path": "package-lock.json",
+      "matched": true
+    },
+    {
+      "path": "src/game\\levels.ts",
+      "matched": true
+    },
+    {
+      "path": "src/tests\\settings.test.ts",
+      "matched": true
+    },
+    {
+      "path": "src/tests\\rng.test.ts",
+      "matched": true
+    },
+    {
+      "path": "docs\\PHASE_01_HANDOFF.md",
+      "matched": true
+    },
+    {
+      "path": "docs\\verification\\phase03-ui-regression.jpg",
+      "matched": true
+    },
+    {
+      "path": "src/game\\difficulty.ts",
+      "matched": true
+    },
+    {
+      "path": "docs\\PHASE_02_HANDOFF.md",
+      "matched": true
+    },
+    {
+      "path": "src/tests\\solver.test.ts",
+      "matched": true
+    },
+    {
+      "path": "android\\app\\src\\main\\res\\values\\launcher.xml",
+      "matched": true
+    },
+    {
+      "path": "android\\app\\src\\main\\res\\values\\strings.xml",
+      "matched": true
+    },
+    {
+      "path": "src/game\\state.ts",
+      "matched": true
+    },
+    {
+      "path": "src/tests\\generator.test.ts",
+      "matched": true
+    },
+    {
+      "path": "src/tests\\generation-sample.test.ts",
+      "matched": true
+    },
+    {
+      "path": "android\\gradle.properties",
+      "matched": true
+    },
+    {
+      "path": "android\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
+      "matched": true
+    },
+    {
+      "path": "src/tests\\state.test.ts",
+      "matched": true
+    },
+    {
+      "path": "docs\\verification\\home-430.jpg",
+      "matched": true
+    },
+    {
+      "path": "src/game\\rng.ts",
+      "matched": true
+    },
+    {
+      "path": "src/graphics/preview.ts",
+      "matched": true
+    },
+    {
+      "path": "src/game\\generator.ts",
+      "matched": true
+    },
+    {
+      "path": "docs\\PHASE_03_SEED_SAMPLE.md",
+      "matched": true
+    },
+    {
+      "path": "src/tests\\fixtures\\generated-v1-seed0-easy.json",
+      "matched": true
+    },
+    {
+      "path": "android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml",
+      "matched": true
+    },
+    {
+      "path": "src/tests\\fixtures\\puzzles.ts",
+      "matched": true
+    },
+    {
+      "path": "android\\gradle\\wrapper\\gradle-wrapper.properties",
+      "matched": true
+    },
+    {
+      "path": "android\\app\\src\\main\\java\\com\\example\\flowline\\MainActivity.java",
+      "matched": true
+    },
+    {
+      "path": "src/game\\rules.ts",
+      "matched": true
+    },
+    {
+      "path": "src/tests\\levels.test.ts",
+      "matched": true
+    },
+    {
+      "path": "android\\app\\src\\main\\res\\values\\colors.xml",
+      "matched": true
+    },
+    {
+      "path": "android\\gradlew",
+      "matched": true
+    },
+    {
+      "path": "android\\build.gradle",
+      "matched": true
+    },
+    {
+      "path": "android\\app\\src\\main\\res\\layout\\activity_main.xml",
+      "matched": true
+    },
+    {
+      "path": "capacitor.config.ts",
+      "matched": true
+    },
+    {
+      "path": "src/tests\\rules.test.ts",
+      "matched": true
+    },
+    {
+      "path": "android\\app\\src\\main\\res\\drawable\\flowline_launcher.xml",
+      "matched": true
+    },
+    {
+      "path": "src/tests\\geometry.test.ts",
+      "matched": true
+    },
+    {
+      "path": "src/game\\types.ts",
+      "matched": true
+    },
+    {
+      "path": "android\\settings.gradle",
+      "matched": true
+    },
+    {
+      "path": "android\\gradle\\wrapper\\gradle-wrapper.jar",
+      "matched": true
+    },
+    {
+      "path": "android\\app\\proguard-rules.pro",
+      "matched": true
+    },
+    {
+      "path": "android\\app\\capacitor.build.gradle",
+      "matched": true
+    },
+    {
+      "path": "android\\app\\src\\main\\res\\drawable\\flowline_symbol.xml",
+      "matched": true
+    },
+    {
+      "path": "src/tests\\difficulty.test.ts",
+      "matched": true
+    },
+    {
+      "path": "android\\gradlew.bat",
+      "matched": true
+    },
+    {
+      "path": "docs\\verification\\PHASE_03_SEED_SAMPLE.json",
+      "matched": true
+    }
+  ],
+  "protectedCount": 62,
+  "changed": [],
+  "androidAssets": [
+    {
+      "path": "favicon.svg",
+      "matched": true
+    },
+    {
+      "path": "index.html",
+      "matched": true
+    },
+    {
+      "path": "assets\\index-DPacMlwU.css",
+      "matched": true
+    },
+    {
+      "path": "assets\\index-DWpJU3ew.js",
+      "matched": true
+    }
+  ]
+}

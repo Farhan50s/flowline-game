@@ -1,0 +1,199 @@
+{
+  "frames": [
+    {
+      "file": "v1-320-fast-00.jpg",
+      "beginMs": 55,
+      "endMs": 96
+    },
+    {
+      "file": "v1-320-fast-01.jpg",
+      "beginMs": 109,
+      "endMs": 145
+    },
+    {
+      "file": "v1-320-fast-02.jpg",
+      "beginMs": 152,
+      "endMs": 185
+    },
+    {
+      "file": "v1-320-fast-03.jpg",
+      "beginMs": 187,
+      "endMs": 233
+    },
+    {
+      "file": "v1-320-fast-04.jpg",
+      "beginMs": 246,
+      "endMs": 283
+    },
+    {
+      "file": "v1-320-fast-05.jpg",
+      "beginMs": 296,
+      "endMs": 354
+    },
+    {
+      "file": "v1-320-fast-06.jpg",
+      "beginMs": 369,
+      "endMs": 583
+    },
+    {
+      "file": "v1-320-fast-07.jpg",
+      "beginMs": 620,
+      "endMs": 674
+    },
+    {
+      "file": "v1-320-fast-08.jpg",
+      "beginMs": 685,
+      "endMs": 767
+    },
+    {
+      "file": "v1-320-fast-09.jpg",
+      "beginMs": 778,
+      "endMs": 829
+    },
+    {
+      "file": "v1-320-fast-10.jpg",
+      "beginMs": 831,
+      "endMs": 874
+    },
+    {
+      "file": "v1-320-fast-11.jpg",
+      "beginMs": 882,
+      "endMs": 925
+    },
+    {
+      "file": "v1-320-fast-12.jpg",
+      "beginMs": 930,
+      "endMs": 967
+    },
+    {
+      "file": "v1-320-fast-13.jpg",
+      "beginMs": 968,
+      "endMs": 1016
+    },
+    {
+      "file": "v1-320-fast-14.jpg",
+      "beginMs": 1030,
+      "endMs": 1078
+    },
+    {
+      "file": "v1-320-fast-15.jpg",
+      "beginMs": 1094,
+      "endMs": 1134
+    },
+    {
+      "file": "v1-320-fast-16.jpg",
+      "beginMs": 1139,
+      "endMs": 1185
+    },
+    {
+      "file": "v1-320-fast-17.jpg",
+      "beginMs": 1188,
+      "endMs": 1216
+    },
+    {
+      "file": "v1-320-fast-18.jpg",
+      "beginMs": 1219,
+      "endMs": 1247
+    },
+    {
+      "file": "v1-320-fast-19.jpg",
+      "beginMs": 1248,
+      "endMs": 1280
+    },
+    {
+      "file": "v1-320-fast-20.jpg",
+      "beginMs": 1281,
+      "endMs": 1312
+    },
+    {
+      "file": "v1-320-fast-21.jpg",
+      "beginMs": 1314,
+      "endMs": 1331
+    },
+    {
+      "file": "v1-320-fast-22.jpg",
+      "beginMs": 1332,
+      "endMs": 1375
+    },
+    {
+      "file": "v1-320-fast-23.jpg",
+      "beginMs": 1385,
+      "endMs": 1414
+    },
+    {
+      "file": "v1-320-fast-24.jpg",
+      "beginMs": 1421,
+      "endMs": 1464
+    },
+    {
+      "file": "v1-320-fast-25.jpg",
+      "beginMs": 1471,
+      "endMs": 1520
+    },
+    {
+      "file": "v1-320-fast-26.jpg",
+      "beginMs": 1528,
+      "endMs": 1561
+    },
+    {
+      "file": "v1-320-fast-27.jpg",
+      "beginMs": 1572,
+      "endMs": 1608
+    },
+    {
+      "file": "v1-320-fast-28.jpg",
+      "beginMs": 1615,
+      "endMs": 1638
+    },
+    {
+      "file": "v1-320-fast-29.jpg",
+      "beginMs": 1639,
+      "endMs": 1664
+    },
+    {
+      "file": "v1-320-fast-30.jpg",
+      "beginMs": 1666,
+      "endMs": 1698
+    },
+    {
+      "file": "v1-320-fast-31.jpg",
+      "beginMs": 1699,
+      "endMs": 1731
+    }
+  ],
+  "final": {
+    "arrows": "7",
+    "attempts": "1",
+    "audioEvent": "complete",
+    "audioState": "suspended",
+    "audioVoices": "0",
+    "cellSize": "44.667",
+    "extractionDurationMs": "468.048",
+    "extractionElapsedMs": "473.400",
+    "extractionFraction": "1.00000",
+    "extractionFrames": "30",
+    "extractionMaxGapMs": "17.300",
+    "extractionTravelPx": "424.600",
+    "family": "v1-11",
+    "generationMs": "58.19999999925494",
+    "lastPaintMs": "0.000",
+    "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+    "maxPaintMs": "0.300",
+    "motionMode": "full",
+    "movingHead": "{\"x\":70.66666666666666,\"y\":830.6}",
+    "movingTail": "{\"x\":70.66666666666666,\"y\":607.2666666666667}",
+    "paintCount": "68",
+    "phase": "ready",
+    "remaining": "6",
+    "requestedArrows": "auto",
+    "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+    "sampledPaintCount": "65",
+    "sampledPaintMeanMs": "0.15999999999999998",
+    "sampledPaintP95Ms": "0.3",
+    "seed": "0",
+    "sourceLengthPx": "223.333",
+    "tailDistance": "9.50597",
+    "trailDots": "0",
+    "zoom": "1.000"
+  }
+}

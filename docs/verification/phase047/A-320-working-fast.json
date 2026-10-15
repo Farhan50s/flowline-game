@@ -1,0 +1,212 @@
+{
+  "frames": [
+    {
+      "file": "A-320-working-fast-00.jpg",
+      "beginMs": 97,
+      "endMs": 206
+    },
+    {
+      "file": "A-320-working-fast-01.jpg",
+      "beginMs": 244,
+      "endMs": 300
+    },
+    {
+      "file": "A-320-working-fast-02.jpg",
+      "beginMs": 311,
+      "endMs": 367
+    },
+    {
+      "file": "A-320-working-fast-03.jpg",
+      "beginMs": 372,
+      "endMs": 446
+    },
+    {
+      "file": "A-320-working-fast-04.jpg",
+      "beginMs": 490,
+      "endMs": 616
+    },
+    {
+      "file": "A-320-working-fast-05.jpg",
+      "beginMs": 659,
+      "endMs": 796
+    },
+    {
+      "file": "A-320-working-fast-06.jpg",
+      "beginMs": 807,
+      "endMs": 873
+    },
+    {
+      "file": "A-320-working-fast-07.jpg",
+      "beginMs": 877,
+      "endMs": 916
+    },
+    {
+      "file": "A-320-working-fast-08.jpg",
+      "beginMs": 946,
+      "endMs": 1015
+    },
+    {
+      "file": "A-320-working-fast-09.jpg",
+      "beginMs": 1058,
+      "endMs": 1166
+    },
+    {
+      "file": "A-320-working-fast-10.jpg",
+      "beginMs": 1183,
+      "endMs": 1225
+    },
+    {
+      "file": "A-320-working-fast-11.jpg",
+      "beginMs": 1253,
+      "endMs": 1345
+    },
+    {
+      "file": "A-320-working-fast-12.jpg",
+      "beginMs": 1357,
+      "endMs": 1407
+    },
+    {
+      "file": "A-320-working-fast-13.jpg",
+      "beginMs": 1421,
+      "endMs": 1448
+    },
+    {
+      "file": "A-320-working-fast-14.jpg",
+      "beginMs": 1458,
+      "endMs": 1493
+    },
+    {
+      "file": "A-320-working-fast-15.jpg",
+      "beginMs": 1505,
+      "endMs": 1529
+    },
+    {
+      "file": "A-320-working-fast-16.jpg",
+      "beginMs": 1531,
+      "endMs": 1750
+    },
+    {
+      "file": "A-320-working-fast-17.jpg",
+      "beginMs": 1761,
+      "endMs": 1829
+    },
+    {
+      "file": "A-320-working-fast-18.jpg",
+      "beginMs": 1833,
+      "endMs": 1872
+    },
+    {
+      "file": "A-320-working-fast-19.jpg",
+      "beginMs": 1884,
+      "endMs": 1925
+    },
+    {
+      "file": "A-320-working-fast-20.jpg",
+      "beginMs": 1938,
+      "endMs": 1967
+    },
+    {
+      "file": "A-320-working-fast-21.jpg",
+      "beginMs": 1981,
+      "endMs": 2013
+    },
+    {
+      "file": "A-320-working-fast-22.jpg",
+      "beginMs": 2020,
+      "endMs": 2040
+    },
+    {
+      "file": "A-320-working-fast-23.jpg",
+      "beginMs": 2041,
+      "endMs": 2074
+    },
+    {
+      "file": "A-320-working-fast-24.jpg",
+      "beginMs": 2075,
+      "endMs": 2107
+    },
+    {
+      "file": "A-320-working-fast-25.jpg",
+      "beginMs": 2108,
+      "endMs": 2150
+    },
+    {
+      "file": "A-320-working-fast-26.jpg",
+      "beginMs": 2157,
+      "endMs": 2211
+    },
+    {
+      "file": "A-320-working-fast-27.jpg",
+      "beginMs": 2221,
+      "endMs": 2280
+    },
+    {
+      "file": "A-320-working-fast-28.jpg",
+      "beginMs": 2291,
+      "endMs": 2341
+    },
+    {
+      "file": "A-320-working-fast-29.jpg",
+      "beginMs": 2358,
+      "endMs": 2474
+    },
+    {
+      "file": "A-320-working-fast-30.jpg",
+      "beginMs": 2498,
+      "endMs": 2560
+    },
+    {
+      "file": "A-320-working-fast-31.jpg",
+      "beginMs": 2565,
+      "endMs": 2611
+    },
+    {
+      "file": "A-320-working-fast-32.jpg",
+      "beginMs": 2614,
+      "endMs": 2642
+    },
+    {
+      "file": "A-320-working-fast-33.jpg",
+      "beginMs": 2644,
+      "endMs": 2675
+    }
+  ],
+  "final": {
+    "arrows": "44",
+    "attempts": "1",
+    "audioEvent": "complete",
+    "audioState": "suspended",
+    "audioVoices": "0",
+    "cellSize": "30.536",
+    "extractionDurationMs": "524.772",
+    "extractionElapsedMs": "530.400",
+    "extractionFraction": "1.00000",
+    "extractionFrames": "33",
+    "extractionMaxGapMs": "17.300",
+    "extractionTravelPx": "338.839",
+    "family": "A",
+    "generationMs": "77.90000000037253",
+    "lastPaintMs": "0.100",
+    "levelId": "procedural-v2-feasibility-r2-00000000-17-29-40-55-auto-3-18-6-0.56-0.8-4-96-26000-0-A",
+    "maxPaintMs": "2.800",
+    "motionMode": "full",
+    "movingHead": "{\"x\":563.125,\"y\":125.03571428571428}",
+    "movingTail": "{\"x\":349.37499999999994,\"y\":125.03571428571428}",
+    "paintCount": "88",
+    "phase": "ready",
+    "preview": "",
+    "previewBlocker": "",
+    "previewContact": "",
+    "remaining": "43",
+    "requestedArrows": "auto",
+    "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+    "sampledPaintCount": "84",
+    "sampledPaintMeanMs": "0.3011904761904763",
+    "sampledPaintP95Ms": "0.4",
+    "seed": "0",
+    "sourceLengthPx": "213.750",
+    "tailDistance": "11.09649",
+    "trailDots": "0",
+    "zoom": "2.250"
+  }
+}

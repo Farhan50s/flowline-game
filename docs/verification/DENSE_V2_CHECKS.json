@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-15",
+  "timezone": "Asia/Karachi",
+  "baseline": { "tests": 1360, "files": 17, "durationSeconds": 19.01, "exitCode": 0 },
+  "typecheck": { "exitCode": 0 },
+  "tests": { "tests": 1474, "files": 18, "newTests": 114, "durationSeconds": 18.72, "exitCode": 0, "v1GeneratedAndVerified": 1000 },
+  "denseCases": { "recipe": "procedural-v2-feasibility-r2", "seedConfigurationCases": 164, "successes": 146, "uniqueLayouts": 146, "budgetFailures": 18, "repeatedForDeterminism": true, "invalidSuccesses": 0, "A": { "cases": 128, "successes": 119 }, "BDefault": { "cases": 24, "successes": 18 }, "BExplicit85": { "cases": 12, "successes": 9 } },
+  "build": { "exitCode": 0, "modules": 27, "viteMilliseconds": 820, "htmlKB": 0.67, "cssKB": 18.92, "jsKB": 62.87, "shippingReferencesToResearch": 0, "assetsIdenticalToPhase45": 4 },
+  "androidSync": { "exitCode": 0, "rebuildMilliseconds": 87, "syncSeconds": 0.126, "matchingAssets": 4 },
+  "preservation": { "checked": 166, "unchanged": 166, "historicalSeedReportsRestored": true },
+  "browser": { "viewports": [[320,568],[390,844],[844,390]], "pageScrollInCapturedGameplay": false, "actualZenVictoryPaths": 44, "scriptedZenAttempts": 281, "actualChallengeDefeat": true, "normalCanvasMotionObserved": true, "hostReducedMotion": true, "labOnlyOverrideUsed": true, "physicalAndroidTested": false, "physicalMultitouchTested": false, "appConsoleErrorsOrWarningsObserved": 0 },
+  "native": { "java": "1.8.0_51", "java21Configured": false, "sdkConfigured": false, "defaultSdkPresent": false, "adbAvailable": false, "debugApkPresent": false, "compiled": false },
+  "running": { "production": "http://127.0.0.1:4173/", "productionPid": 14884, "productionHttpStatusBeforeBrowserDenial": 200, "productionBrowserOpened": false, "productionBrowserAutoReviewBlocked": true, "productionBrowserBlockReason": "Old internal error-page protocol blocked; fresh HTTP tab then denied as a workaround. No further attempt.", "research": "http://127.0.0.1:5173/research/dense-v2/", "researchPid": 14704, "researchBrowserOpened": true, "freshResearchPaths": 44 },
+  "decisions": { "A": "REVISE", "B": "REVISE", "C": "NO-GO for implementation now; deferred" },
+  "scope": { "campaignChanged": false, "savedDataMigrated": false, "newSaveStore": false, "settingsChanged": false, "phase5Started": false, "committed": false, "pushed": false, "deployed": false }
+}

@@ -1,0 +1,16 @@
+
+> flowline@0.1.0 test
+> vitest run
+
+
+ RUN  v5.0.4 D:/PROJECTS/flowline-game
+
+
+ Test Files  21 passed (21)
+      Tests  1574 passed (1574)
+   Start at  21:15:05
+   Duration  25.64s (tests 94%, transform 4%, import 2%)
+
+    Isolate  21 workers spawned · ~366ms startup each (spawn + environment, per file)
+             at least ~2.19s faster with isolate: false — reuses workers across files instead of one per file
+

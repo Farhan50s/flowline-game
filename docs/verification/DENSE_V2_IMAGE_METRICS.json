@@ -1,0 +1,405 @@
+{
+  "note": "Actual native-size JPEG pixels, RGB r<100/g<170/b<170 in the shared safe rectangle. This is screen ink coverage, not logical cell occupancy. Zoomed bounds are clipped; selected teal is included.",
+  "records": [
+    {
+      "image": "dense-v2-A-s0-overview-390.jpg",
+      "family": "A",
+      "arrowCount": 44,
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "zoom": 1.0,
+      "safe": {
+        "x": 16,
+        "y": 72,
+        "width": 358,
+        "height": 676
+      },
+      "strokeBounds": {
+        "x": 24,
+        "y": 113,
+        "width": 341,
+        "height": 594
+      },
+      "inkPixels": 9960,
+      "inkFractionOfSafeRect": 0.04115566427556114,
+      "inkFractionOfViewport": 0.03025884068538097
+    },
+    {
+      "image": "dense-v2-A-s0-overview-320.jpg",
+      "family": "A",
+      "arrowCount": 44,
+      "viewport": {
+        "height": 568,
+        "width": 320
+      },
+      "zoom": 1.0,
+      "safe": {
+        "x": 16,
+        "y": 72,
+        "width": 288,
+        "height": 400
+      },
+      "strokeBounds": {
+        "x": 49,
+        "y": 81,
+        "width": 220,
+        "height": 382
+      },
+      "inkPixels": 5693,
+      "inkFractionOfSafeRect": 0.04941840277777778,
+      "inkFractionOfViewport": 0.03132152288732394
+    },
+    {
+      "image": "dense-v2-A-s0-working-320.jpg",
+      "family": "A",
+      "arrowCount": 44,
+      "viewport": {
+        "height": 568,
+        "width": 320
+      },
+      "zoom": 2.25,
+      "safe": {
+        "x": 16,
+        "y": 72,
+        "width": 288,
+        "height": 400
+      },
+      "strokeBounds": {
+        "x": 16,
+        "y": 72,
+        "width": 288,
+        "height": 400
+      },
+      "inkPixels": 4581,
+      "inkFractionOfSafeRect": 0.039765625,
+      "inkFractionOfViewport": 0.02520356514084507
+    },
+    {
+      "image": "dense-v2-A-s0-overview-landscape.jpg",
+      "family": "A",
+      "arrowCount": 44,
+      "viewport": {
+        "height": 390,
+        "width": 844
+      },
+      "zoom": 1.0,
+      "safe": {
+        "x": 112,
+        "y": 16,
+        "width": 644,
+        "height": 358
+      },
+      "strokeBounds": {
+        "x": 335,
+        "y": 25,
+        "width": 197,
+        "height": 340
+      },
+      "inkPixels": 5301,
+      "inkFractionOfSafeRect": 0.02299264374197578,
+      "inkFractionOfViewport": 0.01610462996718921
+    },
+    {
+      "image": "dense-v2-A-s0-working-390.jpg",
+      "family": "A",
+      "arrowCount": 44,
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "zoom": 2.25,
+      "safe": {
+        "x": 16,
+        "y": 72,
+        "width": 358,
+        "height": 676
+      },
+      "strokeBounds": {
+        "x": 51,
+        "y": 72,
+        "width": 323,
+        "height": 676
+      },
+      "inkPixels": 7215,
+      "inkFractionOfSafeRect": 0.029813064030941125,
+      "inkFractionOfViewport": 0.021919431279620854
+    },
+    {
+      "image": "dense-v2-A-s0-working-landscape.jpg",
+      "family": "A",
+      "arrowCount": 44,
+      "viewport": {
+        "height": 390,
+        "width": 844
+      },
+      "zoom": 2.25,
+      "safe": {
+        "x": 112,
+        "y": 16,
+        "width": 644,
+        "height": 358
+      },
+      "strokeBounds": {
+        "x": 216,
+        "y": 16,
+        "width": 436,
+        "height": 358
+      },
+      "inkPixels": 6924,
+      "inkFractionOfSafeRect": 0.03003227037718172,
+      "inkFractionOfViewport": 0.02103536274152388
+    },
+    {
+      "image": "dense-v2-B-s0-overview-390.jpg",
+      "family": "B",
+      "arrowCount": 66,
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "zoom": 1.0,
+      "safe": {
+        "x": 16,
+        "y": 72,
+        "width": 358,
+        "height": 676
+      },
+      "strokeBounds": {
+        "x": 23,
+        "y": 131,
+        "width": 343,
+        "height": 557
+      },
+      "inkPixels": 11430,
+      "inkFractionOfSafeRect": 0.04722984364153251,
+      "inkFractionOfViewport": 0.034724753919066716
+    },
+    {
+      "image": "dense-v2-B-s0-working-390.jpg",
+      "family": "B",
+      "arrowCount": 66,
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "zoom": 2.25,
+      "safe": {
+        "x": 16,
+        "y": 72,
+        "width": 358,
+        "height": 676
+      },
+      "strokeBounds": {
+        "x": 16,
+        "y": 72,
+        "width": 358,
+        "height": 676
+      },
+      "inkPixels": 7820,
+      "inkFractionOfSafeRect": 0.03231298138904499,
+      "inkFractionOfViewport": 0.02375744318872281
+    },
+    {
+      "image": "dense-v2-B-s0-overview-320.jpg",
+      "family": "B",
+      "arrowCount": 66,
+      "viewport": {
+        "height": 568,
+        "width": 320
+      },
+      "zoom": 1.0,
+      "safe": {
+        "x": 16,
+        "y": 72,
+        "width": 288,
+        "height": 400
+      },
+      "strokeBounds": {
+        "x": 41,
+        "y": 80,
+        "width": 238,
+        "height": 383
+      },
+      "inkPixels": 7436,
+      "inkFractionOfSafeRect": 0.06454861111111111,
+      "inkFractionOfViewport": 0.04091109154929577
+    },
+    {
+      "image": "dense-v2-B-s0-working-320.jpg",
+      "family": "B",
+      "arrowCount": 66,
+      "viewport": {
+        "height": 568,
+        "width": 320
+      },
+      "zoom": 3.375,
+      "safe": {
+        "x": 16,
+        "y": 72,
+        "width": 288,
+        "height": 400
+      },
+      "strokeBounds": {
+        "x": 16,
+        "y": 72,
+        "width": 288,
+        "height": 400
+      },
+      "inkPixels": 4538,
+      "inkFractionOfSafeRect": 0.039392361111111114,
+      "inkFractionOfViewport": 0.024966989436619718
+    },
+    {
+      "image": "dense-v2-B-s0-overview-landscape.jpg",
+      "family": "B",
+      "arrowCount": 66,
+      "viewport": {
+        "height": 390,
+        "width": 844
+      },
+      "zoom": 1.0,
+      "safe": {
+        "x": 112,
+        "y": 16,
+        "width": 644,
+        "height": 358
+      },
+      "strokeBounds": {
+        "x": 328,
+        "y": 24,
+        "width": 212,
+        "height": 341
+      },
+      "inkPixels": 6322,
+      "inkFractionOfSafeRect": 0.027421145771886604,
+      "inkFractionOfViewport": 0.019206464941062096
+    },
+    {
+      "image": "dense-v2-B-s0-working-landscape.jpg",
+      "family": "B",
+      "arrowCount": 66,
+      "viewport": {
+        "height": 390,
+        "width": 844
+      },
+      "zoom": 3.375,
+      "safe": {
+        "x": 112,
+        "y": 16,
+        "width": 644,
+        "height": 358
+      },
+      "strokeBounds": {
+        "x": 112,
+        "y": 16,
+        "width": 644,
+        "height": 358
+      },
+      "inkPixels": 7760,
+      "inkFractionOfSafeRect": 0.0336583503938374,
+      "inkFractionOfViewport": 0.02357516101591931
+    },
+    {
+      "image": "dense-v2-v1-level81-comparison-landscape.jpg",
+      "family": "v1",
+      "arrowCount": 25,
+      "viewport": {
+        "height": 390,
+        "width": 844
+      },
+      "zoom": 1.0,
+      "safe": {
+        "x": 112,
+        "y": 16,
+        "width": 644,
+        "height": 358
+      },
+      "strokeBounds": {
+        "x": 264,
+        "y": 23,
+        "width": 342,
+        "height": 344
+      },
+      "inkPixels": 4368,
+      "inkFractionOfSafeRect": 0.018945834345397133,
+      "inkFractionOfViewport": 0.013270142180094787
+    },
+    {
+      "image": "dense-v2-v1-level81-comparison-320.jpg",
+      "family": "v1",
+      "arrowCount": 25,
+      "viewport": {
+        "height": 568,
+        "width": 320
+      },
+      "zoom": 1.0,
+      "safe": {
+        "x": 16,
+        "y": 72,
+        "width": 288,
+        "height": 400
+      },
+      "strokeBounds": {
+        "x": 25,
+        "y": 136,
+        "width": 271,
+        "height": 272
+      },
+      "inkPixels": 2589,
+      "inkFractionOfSafeRect": 0.022473958333333332,
+      "inkFractionOfViewport": 0.014244058098591549
+    },
+    {
+      "image": "dense-v2-v1-level81-comparison-390.jpg",
+      "family": "v1",
+      "arrowCount": 25,
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "zoom": 1.0,
+      "safe": {
+        "x": 16,
+        "y": 72,
+        "width": 358,
+        "height": 676
+      },
+      "strokeBounds": {
+        "x": 25,
+        "y": 238,
+        "width": 342,
+        "height": 344
+      },
+      "inkPixels": 4363,
+      "inkFractionOfSafeRect": 0.018028329641995307,
+      "inkFractionOfViewport": 0.013254951999027828
+    },
+    {
+      "image": "dense-v2-B85-s0-overview-390.jpg",
+      "family": "B",
+      "arrowCount": 85,
+      "viewport": {
+        "height": 844,
+        "width": 390
+      },
+      "zoom": 1.0,
+      "safe": {
+        "x": 16,
+        "y": 72,
+        "width": 358,
+        "height": 676
+      },
+      "strokeBounds": {
+        "x": 24,
+        "y": 131,
+        "width": 341,
+        "height": 558
+      },
+      "inkPixels": 11034,
+      "inkFractionOfSafeRect": 0.04559353409804635,
+      "inkFractionOfViewport": 0.03352169157856362
+    }
+  ]
+}

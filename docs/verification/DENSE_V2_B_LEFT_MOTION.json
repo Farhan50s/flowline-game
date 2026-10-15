@@ -1,0 +1,394 @@
+[
+  {
+    "canvas": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 56,
+      "width": 132,
+      "x": 129,
+      "y": 772
+    },
+    "data": {
+      "arrows": "66",
+      "attempts": "1",
+      "cellSize": "15.364",
+      "extractionFrames": "3",
+      "extractionMaxGapMs": "18.000",
+      "family": "B",
+      "generationMs": "107.10000000009313",
+      "lastPaintMs": "0.300",
+      "levelId": "procedural-v2-feasibility-r2-00000000-23-37-60-85-auto-3-18-6-0.56-0.8-4-96-26000-0-B",
+      "maxPaintMs": "0.700",
+      "paintCount": "8",
+      "phase": "animating",
+      "remaining": "66",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":358,\"height\":676}",
+      "sampledPaintCount": "37",
+      "sampledPaintMeanMs": "0.3702702702702705",
+      "sampledPaintP95Ms": "0.6",
+      "seed": "0",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 844,
+      "width": 390
+    },
+    "hud": {
+      "height": 56,
+      "width": 366,
+      "x": 12,
+      "y": 8
+    },
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  },
+  {
+    "canvas": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 56,
+      "width": 132,
+      "x": 129,
+      "y": 772
+    },
+    "data": {
+      "arrows": "66",
+      "attempts": "1",
+      "cellSize": "15.364",
+      "extractionFrames": "5",
+      "extractionMaxGapMs": "18.000",
+      "family": "B",
+      "generationMs": "107.10000000009313",
+      "lastPaintMs": "0.400",
+      "levelId": "procedural-v2-feasibility-r2-00000000-23-37-60-85-auto-3-18-6-0.56-0.8-4-96-26000-0-B",
+      "maxPaintMs": "0.700",
+      "paintCount": "10",
+      "phase": "animating",
+      "remaining": "66",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":358,\"height\":676}",
+      "sampledPaintCount": "39",
+      "sampledPaintMeanMs": "0.3692307692307695",
+      "sampledPaintP95Ms": "0.6",
+      "seed": "0",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 844,
+      "width": 390
+    },
+    "hud": {
+      "height": 56,
+      "width": 366,
+      "x": 12,
+      "y": 8
+    },
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  },
+  {
+    "canvas": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 56,
+      "width": 132,
+      "x": 129,
+      "y": 772
+    },
+    "data": {
+      "arrows": "66",
+      "attempts": "1",
+      "cellSize": "15.364",
+      "extractionFrames": "8",
+      "extractionMaxGapMs": "19.000",
+      "family": "B",
+      "generationMs": "107.10000000009313",
+      "lastPaintMs": "0.400",
+      "levelId": "procedural-v2-feasibility-r2-00000000-23-37-60-85-auto-3-18-6-0.56-0.8-4-96-26000-0-B",
+      "maxPaintMs": "0.700",
+      "paintCount": "13",
+      "phase": "animating",
+      "remaining": "66",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":358,\"height\":676}",
+      "sampledPaintCount": "42",
+      "sampledPaintMeanMs": "0.3690476190476193",
+      "sampledPaintP95Ms": "0.5",
+      "seed": "0",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 844,
+      "width": 390
+    },
+    "hud": {
+      "height": 56,
+      "width": 366,
+      "x": 12,
+      "y": 8
+    },
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  },
+  {
+    "canvas": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 56,
+      "width": 132,
+      "x": 129,
+      "y": 772
+    },
+    "data": {
+      "arrows": "66",
+      "attempts": "1",
+      "cellSize": "15.364",
+      "extractionFrames": "11",
+      "extractionMaxGapMs": "19.000",
+      "family": "B",
+      "generationMs": "107.10000000009313",
+      "lastPaintMs": "0.300",
+      "levelId": "procedural-v2-feasibility-r2-00000000-23-37-60-85-auto-3-18-6-0.56-0.8-4-96-26000-0-B",
+      "maxPaintMs": "0.700",
+      "paintCount": "16",
+      "phase": "animating",
+      "remaining": "66",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":358,\"height\":676}",
+      "sampledPaintCount": "45",
+      "sampledPaintMeanMs": "0.3666666666666669",
+      "sampledPaintP95Ms": "0.5",
+      "seed": "0",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 844,
+      "width": 390
+    },
+    "hud": {
+      "height": 56,
+      "width": 366,
+      "x": 12,
+      "y": 8
+    },
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  },
+  {
+    "canvas": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 56,
+      "width": 132,
+      "x": 129,
+      "y": 772
+    },
+    "data": {
+      "arrows": "66",
+      "attempts": "1",
+      "cellSize": "15.364",
+      "extractionFrames": "15",
+      "extractionMaxGapMs": "19.000",
+      "family": "B",
+      "generationMs": "107.10000000009313",
+      "lastPaintMs": "0.300",
+      "levelId": "procedural-v2-feasibility-r2-00000000-23-37-60-85-auto-3-18-6-0.56-0.8-4-96-26000-0-B",
+      "maxPaintMs": "0.700",
+      "paintCount": "20",
+      "phase": "animating",
+      "remaining": "66",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":358,\"height\":676}",
+      "sampledPaintCount": "49",
+      "sampledPaintMeanMs": "0.36530612244897975",
+      "sampledPaintP95Ms": "0.5",
+      "seed": "0",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 844,
+      "width": 390
+    },
+    "hud": {
+      "height": 56,
+      "width": 366,
+      "x": 12,
+      "y": 8
+    },
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  },
+  {
+    "canvas": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 56,
+      "width": 132,
+      "x": 129,
+      "y": 772
+    },
+    "data": {
+      "arrows": "66",
+      "attempts": "1",
+      "cellSize": "15.364",
+      "extractionFrames": "18",
+      "extractionMaxGapMs": "19.000",
+      "family": "B",
+      "generationMs": "107.10000000009313",
+      "lastPaintMs": "0.300",
+      "levelId": "procedural-v2-feasibility-r2-00000000-23-37-60-85-auto-3-18-6-0.56-0.8-4-96-26000-0-B",
+      "maxPaintMs": "0.700",
+      "paintCount": "23",
+      "phase": "animating",
+      "remaining": "66",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":358,\"height\":676}",
+      "sampledPaintCount": "52",
+      "sampledPaintMeanMs": "0.36153846153846175",
+      "sampledPaintP95Ms": "0.5",
+      "seed": "0",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 844,
+      "width": 390
+    },
+    "hud": {
+      "height": 56,
+      "width": 366,
+      "x": 12,
+      "y": 8
+    },
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  },
+  {
+    "canvas": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 56,
+      "width": 132,
+      "x": 129,
+      "y": 772
+    },
+    "data": {
+      "arrows": "66",
+      "attempts": "1",
+      "cellSize": "15.364",
+      "extractionFrames": "21",
+      "extractionMaxGapMs": "19.000",
+      "family": "B",
+      "generationMs": "107.10000000009313",
+      "lastPaintMs": "0.200",
+      "levelId": "procedural-v2-feasibility-r2-00000000-23-37-60-85-auto-3-18-6-0.56-0.8-4-96-26000-0-B",
+      "maxPaintMs": "0.700",
+      "paintCount": "26",
+      "phase": "animating",
+      "remaining": "66",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":358,\"height\":676}",
+      "sampledPaintCount": "55",
+      "sampledPaintMeanMs": "0.3545454545454547",
+      "sampledPaintP95Ms": "0.5",
+      "seed": "0",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 844,
+      "width": 390
+    },
+    "hud": {
+      "height": 56,
+      "width": 366,
+      "x": 12,
+      "y": 8
+    },
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  },
+  {
+    "canvas": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 56,
+      "width": 132,
+      "x": 129,
+      "y": 772
+    },
+    "data": {
+      "arrows": "66",
+      "attempts": "1",
+      "cellSize": "15.364",
+      "extractionFrames": "23",
+      "extractionMaxGapMs": "19.000",
+      "family": "B",
+      "generationMs": "107.10000000009313",
+      "lastPaintMs": "0.200",
+      "levelId": "procedural-v2-feasibility-r2-00000000-23-37-60-85-auto-3-18-6-0.56-0.8-4-96-26000-0-B",
+      "maxPaintMs": "0.700",
+      "paintCount": "29",
+      "phase": "ready",
+      "remaining": "65",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":358,\"height\":676}",
+      "sampledPaintCount": "57",
+      "sampledPaintMeanMs": "0.349122807017544",
+      "sampledPaintP95Ms": "0.5",
+      "seed": "0",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 844,
+      "width": 390
+    },
+    "hud": {
+      "height": 56,
+      "width": 366,
+      "x": 12,
+      "y": 8
+    },
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  }
+]

@@ -1,0 +1,242 @@
+{
+  "frames": [
+    {
+      "file": "A-390-working-fast-00.jpg",
+      "beginMs": 0,
+      "endMs": 34
+    },
+    {
+      "file": "A-390-working-fast-01.jpg",
+      "beginMs": 38,
+      "endMs": 63
+    },
+    {
+      "file": "A-390-working-fast-02.jpg",
+      "beginMs": 64,
+      "endMs": 145
+    },
+    {
+      "file": "A-390-working-fast-03.jpg",
+      "beginMs": 155,
+      "endMs": 195
+    },
+    {
+      "file": "A-390-working-fast-04.jpg",
+      "beginMs": 198,
+      "endMs": 244
+    },
+    {
+      "file": "A-390-working-fast-05.jpg",
+      "beginMs": 253,
+      "endMs": 347
+    },
+    {
+      "file": "A-390-working-fast-06.jpg",
+      "beginMs": 360,
+      "endMs": 431
+    },
+    {
+      "file": "A-390-working-fast-07.jpg",
+      "beginMs": 456,
+      "endMs": 513
+    },
+    {
+      "file": "A-390-working-fast-08.jpg",
+      "beginMs": 515,
+      "endMs": 557
+    },
+    {
+      "file": "A-390-working-fast-09.jpg",
+      "beginMs": 559,
+      "endMs": 598
+    },
+    {
+      "file": "A-390-working-fast-10.jpg",
+      "beginMs": 600,
+      "endMs": 648
+    },
+    {
+      "file": "A-390-working-fast-11.jpg",
+      "beginMs": 648,
+      "endMs": 697
+    },
+    {
+      "file": "A-390-working-fast-12.jpg",
+      "beginMs": 699,
+      "endMs": 745
+    },
+    {
+      "file": "A-390-working-fast-13.jpg",
+      "beginMs": 747,
+      "endMs": 795
+    },
+    {
+      "file": "A-390-working-fast-14.jpg",
+      "beginMs": 797,
+      "endMs": 844
+    },
+    {
+      "file": "A-390-working-fast-15.jpg",
+      "beginMs": 846,
+      "endMs": 901
+    },
+    {
+      "file": "A-390-working-fast-16.jpg",
+      "beginMs": 908,
+      "endMs": 960
+    },
+    {
+      "file": "A-390-working-fast-17.jpg",
+      "beginMs": 963,
+      "endMs": 1015
+    },
+    {
+      "file": "A-390-working-fast-18.jpg",
+      "beginMs": 1026,
+      "endMs": 1064
+    },
+    {
+      "file": "A-390-working-fast-19.jpg",
+      "beginMs": 1065,
+      "endMs": 1114
+    },
+    {
+      "file": "A-390-working-fast-20.jpg",
+      "beginMs": 1116,
+      "endMs": 1164
+    },
+    {
+      "file": "A-390-working-fast-21.jpg",
+      "beginMs": 1166,
+      "endMs": 1209
+    },
+    {
+      "file": "A-390-working-fast-22.jpg",
+      "beginMs": 1211,
+      "endMs": 1253
+    },
+    {
+      "file": "A-390-working-fast-23.jpg",
+      "beginMs": 1260,
+      "endMs": 1283
+    },
+    {
+      "file": "A-390-working-fast-24.jpg",
+      "beginMs": 1286,
+      "endMs": 1316
+    },
+    {
+      "file": "A-390-working-fast-25.jpg",
+      "beginMs": 1317,
+      "endMs": 1348
+    },
+    {
+      "file": "A-390-working-fast-26.jpg",
+      "beginMs": 1357,
+      "endMs": 1379
+    },
+    {
+      "file": "A-390-working-fast-27.jpg",
+      "beginMs": 1380,
+      "endMs": 1413
+    },
+    {
+      "file": "A-390-working-fast-28.jpg",
+      "beginMs": 1415,
+      "endMs": 1446
+    },
+    {
+      "file": "A-390-working-fast-29.jpg",
+      "beginMs": 1447,
+      "endMs": 1489
+    },
+    {
+      "file": "A-390-working-fast-30.jpg",
+      "beginMs": 1495,
+      "endMs": 1526
+    },
+    {
+      "file": "A-390-working-fast-31.jpg",
+      "beginMs": 1531,
+      "endMs": 1563
+    },
+    {
+      "file": "A-390-working-fast-32.jpg",
+      "beginMs": 1564,
+      "endMs": 1599
+    },
+    {
+      "file": "A-390-working-fast-33.jpg",
+      "beginMs": 1601,
+      "endMs": 1629
+    },
+    {
+      "file": "A-390-working-fast-34.jpg",
+      "beginMs": 1631,
+      "endMs": 1662
+    },
+    {
+      "file": "A-390-working-fast-35.jpg",
+      "beginMs": 1668,
+      "endMs": 1703
+    },
+    {
+      "file": "A-390-working-fast-36.jpg",
+      "beginMs": 1713,
+      "endMs": 1744
+    },
+    {
+      "file": "A-390-working-fast-37.jpg",
+      "beginMs": 1752,
+      "endMs": 1780
+    },
+    {
+      "file": "A-390-working-fast-38.jpg",
+      "beginMs": 1782,
+      "endMs": 1808
+    },
+    {
+      "file": "A-390-working-fast-39.jpg",
+      "beginMs": 1816,
+      "endMs": 1846
+    }
+  ],
+  "final": {
+    "arrows": "44",
+    "attempts": "1",
+    "audioEvent": "complete",
+    "audioState": "suspended",
+    "audioVoices": "0",
+    "cellSize": "47.531",
+    "extractionDurationMs": "504.795",
+    "extractionElapsedMs": "501.200",
+    "extractionFraction": "1.00000",
+    "extractionFrames": "25",
+    "extractionMaxGapMs": "67.400",
+    "extractionTravelPx": "408.741",
+    "family": "A",
+    "generationMs": "124.59999999962747",
+    "lastPaintMs": "0.200",
+    "levelId": "procedural-v2-feasibility-r2-00000000-17-29-40-55-auto-3-18-6-0.56-0.8-4-96-26000-0-A",
+    "maxPaintMs": "3.000",
+    "motionMode": "full",
+    "movingHead": "{\"x\":763.990625,\"y\":172.09375}",
+    "movingTail": "{\"x\":431.271875,\"y\":172.09375}",
+    "paintCount": "77",
+    "phase": "ready",
+    "preview": "",
+    "previewBlocker": "",
+    "previewContact": "",
+    "remaining": "43",
+    "requestedArrows": "auto",
+    "safeRect": "{\"x\":16,\"y\":72,\"width\":358,\"height\":676}",
+    "sampledPaintCount": "79",
+    "sampledPaintMeanMs": "0.5582278481012656",
+    "sampledPaintP95Ms": "2.6",
+    "seed": "0",
+    "sourceLengthPx": "332.719",
+    "tailDistance": "8.59941",
+    "trailDots": "0",
+    "zoom": "2.250"
+  }
+}

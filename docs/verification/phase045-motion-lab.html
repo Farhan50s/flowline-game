@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>FLOWLINE — isolated motion verification</title>
+<style>:root{--color-ink:#24333A;--color-accent-dark:#138B83;--color-error-text:#9F443A;--color-grid:#C7D2D1}body{margin:0;background:#FCFBF7;color:#24333A;font:12px system-ui}canvas{position:fixed;inset:0;width:100%;height:100%;touch-action:none}header{position:fixed;z-index:1;top:12px;left:16px;right:16px;display:flex;justify-content:space-between;pointer-events:none}footer{position:fixed;z-index:1;bottom:16px;left:16px;right:16px;text-align:center}button{min-height:48px;padding:12px 20px;border:1px solid #DDE7DF;border-radius:24px;background:#FDFCF8;color:#138B83;font:600 12px system-ui}p{font-size:10px;line-height:1.5}</style></head>
+<body><canvas id="sample" aria-label="Real Level 4 motion sample"></canvas><header><span>FLOWLINE · MOTION LAB</span><span id="status" role="status">Idle</span></header><footer><button id="run">Run full-motion sample</button><p>Opt-in QA only. Real Level 4 and production renderer.<br>No saves, sound, OS-setting changes or production preference overrides.</p></footer>
+<script type="module">
+import {getLevel} from '/src/game/levels.ts';
+import {createGameState,attemptMove,completeEscape} from '/src/game/state.ts';
+import {mountGameBoard} from '/src/graphics/game-board.ts';
+import {gameplayLayout} from '/src/graphics/mobile-layout.ts';
+const prepared=getLevel(4);if(!prepared.ok)throw new Error(prepared.message);
+const status=document.querySelector('#status'),button=document.querySelector('#run'),canvas=document.querySelector('canvas');
+let state=createGameState(prepared.level,'zen'),token=0,delay;
+const board=mountGameBoard(canvas,()=>{},()=>cancel(),()=>false,()=>{}, {safeRect:(w,h)=>gameplayLayout(w,h).safe});
+board.setState(state);
+function cancel(){token++;clearTimeout(delay);board.cancel();button.disabled=false;status.textContent='Idle';}
+button.addEventListener('click',()=>{
+  cancel();const run=token;button.disabled=true;let repetition=0;
+  function cycle(){if(run!==token)return;state=createGameState(prepared.level,'zen');board.setState(state);step(0);}
+  function step(index){
+    if(run!==token)return;
+    if(index===prepared.witness.length){
+      if(state.phase!=='won')throw new Error('Motion sample failed to solve');
+      board.celebrate();repetition++;
+      if(repetition<4)delay=setTimeout(cycle,250);else{status.textContent='4 complete solutions';button.disabled=false;}return;
+    }
+    const result=attemptMove(state,prepared.witness[index]);if(result.type!=='exiting')throw new Error('Unexpected sample outcome');
+    state=result.state;board.setState(state);status.textContent=`Sample ${repetition+1} · path ${index+1}`;
+    canvas.dataset.pending=state.pendingArrowId;
+    board.escape(result.arrowId,()=>{if(run!==token)return;state=completeEscape(state);board.setState(state);delay=setTimeout(()=>step(index+1),45);});
+  }
+  cycle();
+});
+window.addEventListener('pagehide',()=>{cancel();board.dispose();},{once:true});
+</script></body></html>

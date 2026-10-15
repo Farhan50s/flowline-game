@@ -1,0 +1,422 @@
+[
+  {
+    "buttons": [
+      {
+        "height": 48,
+        "name": "Pause level 11",
+        "width": 89.875
+      },
+      {
+        "height": 56,
+        "name": "Magnify puzzle",
+        "width": 56
+      },
+      {
+        "height": 56,
+        "name": "Reset view",
+        "width": 56
+      }
+    ],
+    "canvas": {
+      "height": 568,
+      "width": 320,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 56,
+      "width": 132,
+      "x": 94,
+      "y": 496
+    },
+    "data": {
+      "arrowCount": "7",
+      "boardSize": "7x7",
+      "cellSize": "44.667",
+      "density": "0.5714285714285714",
+      "extractionFrames": "1",
+      "extractionMaxGapMs": "0.000",
+      "lastPaintMs": "0.000",
+      "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+      "maxPaintMs": "0.200",
+      "paintCount": "4",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 568,
+      "width": 320
+    },
+    "hud": {
+      "height": 56,
+      "width": 296,
+      "x": 12,
+      "y": 8
+    },
+    "level": "Level 11",
+    "viewport": {
+      "height": 568,
+      "width": 320
+    }
+  },
+  {
+    "buttons": [
+      {
+        "height": 48,
+        "name": "Pause level 11",
+        "width": 89.875
+      },
+      {
+        "height": 56,
+        "name": "Magnify puzzle",
+        "width": 56
+      },
+      {
+        "height": 56,
+        "name": "Reset view",
+        "width": 56
+      }
+    ],
+    "canvas": {
+      "height": 800,
+      "width": 360,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 56,
+      "width": 132,
+      "x": 114,
+      "y": 728
+    },
+    "data": {
+      "arrowCount": "7",
+      "boardSize": "7x7",
+      "cellSize": "51.333",
+      "density": "0.5714285714285714",
+      "extractionFrames": "1",
+      "extractionMaxGapMs": "0.000",
+      "lastPaintMs": "0.100",
+      "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+      "maxPaintMs": "0.200",
+      "paintCount": "7",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":328,\"height\":632}",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 800,
+      "width": 360
+    },
+    "hud": {
+      "height": 56,
+      "width": 336,
+      "x": 12,
+      "y": 8
+    },
+    "level": "Level 11",
+    "viewport": {
+      "height": 800,
+      "width": 360
+    }
+  },
+  {
+    "buttons": [
+      {
+        "height": 48,
+        "name": "Pause level 11",
+        "width": 89.875
+      },
+      {
+        "height": 56,
+        "name": "Magnify puzzle",
+        "width": 56
+      },
+      {
+        "height": 56,
+        "name": "Reset view",
+        "width": 56
+      }
+    ],
+    "canvas": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 56,
+      "width": 132,
+      "x": 129,
+      "y": 772
+    },
+    "data": {
+      "arrowCount": "7",
+      "boardSize": "7x7",
+      "cellSize": "56.333",
+      "density": "0.5714285714285714",
+      "extractionFrames": "1",
+      "extractionMaxGapMs": "0.000",
+      "lastPaintMs": "0.200",
+      "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+      "maxPaintMs": "0.200",
+      "paintCount": "9",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":358,\"height\":676}",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 844,
+      "width": 390
+    },
+    "hud": {
+      "height": 56,
+      "width": 366,
+      "x": 12,
+      "y": 8
+    },
+    "level": "Level 11",
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  },
+  {
+    "buttons": [
+      {
+        "height": 48,
+        "name": "Pause level 11",
+        "width": 89.875
+      },
+      {
+        "height": 56,
+        "name": "Magnify puzzle",
+        "width": 56
+      },
+      {
+        "height": 56,
+        "name": "Reset view",
+        "width": 56
+      }
+    ],
+    "canvas": {
+      "height": 932,
+      "width": 430,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 56,
+      "width": 132,
+      "x": 149,
+      "y": 860
+    },
+    "data": {
+      "arrowCount": "7",
+      "boardSize": "7x7",
+      "cellSize": "63.000",
+      "density": "0.5714285714285714",
+      "extractionFrames": "1",
+      "extractionMaxGapMs": "0.000",
+      "lastPaintMs": "0.100",
+      "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+      "maxPaintMs": "0.200",
+      "paintCount": "11",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":398,\"height\":764}",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 932,
+      "width": 430
+    },
+    "hud": {
+      "height": 56,
+      "width": 406,
+      "x": 12,
+      "y": 8
+    },
+    "level": "Level 11",
+    "viewport": {
+      "height": 932,
+      "width": 430
+    }
+  },
+  {
+    "buttons": [
+      {
+        "height": 48,
+        "name": "Pause level 11",
+        "width": 89.875
+      },
+      {
+        "height": 56,
+        "name": "Magnify puzzle",
+        "width": 56
+      },
+      {
+        "height": 56,
+        "name": "Reset view",
+        "width": 56
+      }
+    ],
+    "canvas": {
+      "height": 390,
+      "width": 844,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 132,
+      "width": 56,
+      "x": 772,
+      "y": 129
+    },
+    "data": {
+      "arrowCount": "7",
+      "boardSize": "7x7",
+      "cellSize": "56.333",
+      "density": "0.5714285714285714",
+      "extractionFrames": "1",
+      "extractionMaxGapMs": "0.000",
+      "lastPaintMs": "0.100",
+      "levelId": "procedural-v1-f7441575-easy-7-7-6-8-0.27-2-7-3-0.78-6-64-12000",
+      "maxPaintMs": "0.200",
+      "paintCount": "13",
+      "safeRect": "{\"x\":112,\"y\":16,\"width\":644,\"height\":358}",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 390,
+      "width": 844
+    },
+    "hud": {
+      "height": 192,
+      "width": 92,
+      "x": 12,
+      "y": 12
+    },
+    "level": "Level 11",
+    "viewport": {
+      "height": 390,
+      "width": 844
+    }
+  },
+  {
+    "buttons": [
+      {
+        "height": 48,
+        "name": "Pause level 41",
+        "width": 89.875
+      },
+      {
+        "height": 56,
+        "name": "Magnify puzzle",
+        "width": 56
+      },
+      {
+        "height": 56,
+        "name": "Reset view",
+        "width": 56
+      }
+    ],
+    "canvas": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 56,
+      "width": 132,
+      "x": 129,
+      "y": 772
+    },
+    "data": {
+      "arrowCount": "20",
+      "boardSize": "11x11",
+      "cellSize": "33.800",
+      "density": "0.6776859504132231",
+      "extractionFrames": "1",
+      "extractionMaxGapMs": "0.000",
+      "lastPaintMs": "0.200",
+      "levelId": "procedural-v1-7bc45467-hard-11-11-18-21-0.42-2-7-3-0.78-6-64-12000",
+      "maxPaintMs": "0.300",
+      "paintCount": "2",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":358,\"height\":676}",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 844,
+      "width": 390
+    },
+    "hud": {
+      "height": 56,
+      "width": 366,
+      "x": 12,
+      "y": 8
+    },
+    "level": "Level 41",
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  },
+  {
+    "buttons": [
+      {
+        "height": 48,
+        "name": "Pause level 81",
+        "width": 89.875
+      },
+      {
+        "height": 56,
+        "name": "Magnify puzzle",
+        "width": 56
+      },
+      {
+        "height": 56,
+        "name": "Reset view",
+        "width": 56
+      }
+    ],
+    "canvas": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 56,
+      "width": 132,
+      "x": 129,
+      "y": 772
+    },
+    "data": {
+      "arrowCount": "25",
+      "boardSize": "13x13",
+      "cellSize": "28.167",
+      "density": "0.621301775147929",
+      "extractionFrames": "1",
+      "extractionMaxGapMs": "0.000",
+      "lastPaintMs": "0.100",
+      "levelId": "procedural-v1-d7c9178e-expert-13-13-24-27-0.46-2-7-3-0.78-6-64-12000",
+      "maxPaintMs": "0.200",
+      "paintCount": "2",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":358,\"height\":676}",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 844,
+      "width": 390
+    },
+    "hud": {
+      "height": 56,
+      "width": 366,
+      "x": 12,
+      "y": 8
+    },
+    "level": "Level 81",
+    "viewport": {
+      "height": 844,
+      "width": 390
+    }
+  }
+]

@@ -1,0 +1,800 @@
+[
+  {
+    "canvas": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 56,
+      "width": 132,
+      "x": 129,
+      "y": 772
+    },
+    "data": {
+      "arrows": "44",
+      "attempts": "0",
+      "cellSize": "21.125",
+      "family": "A",
+      "generationMs": "57.799999999813735",
+      "lastPaintMs": "0.400",
+      "levelId": "procedural-v2-feasibility-r2-00000000-17-29-40-55-auto-3-18-6-0.56-0.8-4-96-26000-0-A",
+      "maxPaintMs": "0.600",
+      "paintCount": "3",
+      "phase": "ready",
+      "remaining": "44",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":358,\"height\":676}",
+      "sampledPaintCount": "2",
+      "sampledPaintMeanMs": "0.35",
+      "sampledPaintP95Ms": "0.4",
+      "seed": "0",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 844,
+      "width": 390
+    },
+    "hud": {
+      "height": 56,
+      "width": 366,
+      "x": 12,
+      "y": 8
+    },
+    "viewport": {
+      "height": 844,
+      "width": 390
+    },
+    "image": "dense-v2-A-s0-overview-390.jpg"
+  },
+  {
+    "canvas": {
+      "height": 568,
+      "width": 320,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 56,
+      "width": 132,
+      "x": 94,
+      "y": 496
+    },
+    "data": {
+      "arrows": "44",
+      "attempts": "0",
+      "cellSize": "13.571",
+      "extractionFrames": "1",
+      "extractionMaxGapMs": "0.000",
+      "family": "A",
+      "generationMs": "57.799999999813735",
+      "lastPaintMs": "0.200",
+      "levelId": "procedural-v2-feasibility-r2-00000000-17-29-40-55-auto-3-18-6-0.56-0.8-4-96-26000-0-A",
+      "maxPaintMs": "0.400",
+      "paintCount": "6",
+      "phase": "ready",
+      "remaining": "44",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+      "sampledPaintCount": "11",
+      "sampledPaintMeanMs": "0.3090909090909091",
+      "sampledPaintP95Ms": "0.4",
+      "seed": "0",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 568,
+      "width": 320
+    },
+    "hud": {
+      "height": 56,
+      "width": 296,
+      "x": 12,
+      "y": 8
+    },
+    "viewport": {
+      "height": 568,
+      "width": 320
+    },
+    "image": "dense-v2-A-s0-overview-320.jpg"
+  },
+  {
+    "canvas": {
+      "height": 568,
+      "width": 320,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 56,
+      "width": 132,
+      "x": 94,
+      "y": 496
+    },
+    "data": {
+      "arrows": "44",
+      "attempts": "1",
+      "cellSize": "30.536",
+      "extractionFrames": "1",
+      "extractionMaxGapMs": "0.000",
+      "family": "A",
+      "generationMs": "62.700000000186265",
+      "lastPaintMs": "0.300",
+      "levelId": "procedural-v2-feasibility-r2-00000000-17-29-40-55-auto-3-18-6-0.56-0.8-4-96-26000-0-A",
+      "maxPaintMs": "0.300",
+      "paintCount": "10",
+      "phase": "ready",
+      "remaining": "44",
+      "requestedArrows": "auto",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+      "sampledPaintCount": "8",
+      "sampledPaintMeanMs": "0.23750000000000002",
+      "sampledPaintP95Ms": "0.3",
+      "seed": "0",
+      "zoom": "2.250"
+    },
+    "document": {
+      "height": 568,
+      "width": 320
+    },
+    "hud": {
+      "height": 56,
+      "width": 296,
+      "x": 12,
+      "y": 8
+    },
+    "viewport": {
+      "height": 568,
+      "width": 320
+    },
+    "image": "dense-v2-A-s0-working-320.jpg"
+  },
+  {
+    "canvas": {
+      "height": 390,
+      "width": 844,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 132,
+      "width": 56,
+      "x": 772,
+      "y": 129
+    },
+    "data": {
+      "arrows": "44",
+      "attempts": "0",
+      "cellSize": "12.071",
+      "extractionFrames": "1",
+      "extractionMaxGapMs": "0.000",
+      "family": "A",
+      "generationMs": "57.799999999813735",
+      "lastPaintMs": "0.200",
+      "levelId": "procedural-v2-feasibility-r2-00000000-17-29-40-55-auto-3-18-6-0.56-0.8-4-96-26000-0-A",
+      "maxPaintMs": "0.300",
+      "paintCount": "6",
+      "phase": "ready",
+      "remaining": "44",
+      "safeRect": "{\"x\":112,\"y\":16,\"width\":644,\"height\":358}",
+      "sampledPaintCount": "30",
+      "sampledPaintMeanMs": "0.26666666666666666",
+      "sampledPaintP95Ms": "0.4",
+      "seed": "0",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 390,
+      "width": 844
+    },
+    "hud": {
+      "height": 192,
+      "width": 92,
+      "x": 12,
+      "y": 12
+    },
+    "viewport": {
+      "height": 390,
+      "width": 844
+    },
+    "image": "dense-v2-A-s0-overview-landscape.jpg"
+  },
+  {
+    "canvas": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 56,
+      "width": 132,
+      "x": 129,
+      "y": 772
+    },
+    "data": {
+      "arrows": "44",
+      "attempts": "1",
+      "cellSize": "47.531",
+      "extractionFrames": "24",
+      "extractionMaxGapMs": "18.100",
+      "family": "A",
+      "generationMs": "57.799999999813735",
+      "lastPaintMs": "0.200",
+      "levelId": "procedural-v2-feasibility-r2-00000000-17-29-40-55-auto-3-18-6-0.56-0.8-4-96-26000-0-A",
+      "maxPaintMs": "0.400",
+      "paintCount": "21",
+      "phase": "ready",
+      "remaining": "44",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":358,\"height\":676}",
+      "sampledPaintCount": "77",
+      "sampledPaintMeanMs": "0.2584415584415583",
+      "sampledPaintP95Ms": "0.4",
+      "seed": "0",
+      "zoom": "2.250"
+    },
+    "document": {
+      "height": 844,
+      "width": 390
+    },
+    "hud": {
+      "height": 56,
+      "width": 366,
+      "x": 12,
+      "y": 8
+    },
+    "viewport": {
+      "height": 844,
+      "width": 390
+    },
+    "image": "dense-v2-A-s0-working-390.jpg"
+  },
+  {
+    "canvas": {
+      "height": 390,
+      "width": 844,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 132,
+      "width": 56,
+      "x": 772,
+      "y": 129
+    },
+    "data": {
+      "arrows": "44",
+      "attempts": "1",
+      "cellSize": "27.161",
+      "extractionFrames": "24",
+      "extractionMaxGapMs": "18.100",
+      "family": "A",
+      "generationMs": "57.799999999813735",
+      "lastPaintMs": "0.200",
+      "levelId": "procedural-v2-feasibility-r2-00000000-17-29-40-55-auto-3-18-6-0.56-0.8-4-96-26000-0-A",
+      "maxPaintMs": "0.300",
+      "paintCount": "23",
+      "phase": "ready",
+      "remaining": "44",
+      "safeRect": "{\"x\":112,\"y\":16,\"width\":644,\"height\":358}",
+      "sampledPaintCount": "96",
+      "sampledPaintMeanMs": "0.25416666666666654",
+      "sampledPaintP95Ms": "0.4",
+      "seed": "0",
+      "zoom": "2.250"
+    },
+    "document": {
+      "height": 390,
+      "width": 844
+    },
+    "hud": {
+      "height": 192,
+      "width": 92,
+      "x": 12,
+      "y": 12
+    },
+    "viewport": {
+      "height": 390,
+      "width": 844
+    },
+    "image": "dense-v2-A-s0-working-landscape.jpg"
+  },
+  {
+    "canvas": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 56,
+      "width": 132,
+      "x": 129,
+      "y": 772
+    },
+    "data": {
+      "arrows": "66",
+      "attempts": "0",
+      "cellSize": "15.364",
+      "family": "B",
+      "generationMs": "107.10000000009313",
+      "lastPaintMs": "0.300",
+      "levelId": "procedural-v2-feasibility-r2-00000000-23-37-60-85-auto-3-18-6-0.56-0.8-4-96-26000-0-B",
+      "maxPaintMs": "0.600",
+      "paintCount": "3",
+      "phase": "ready",
+      "remaining": "66",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":358,\"height\":676}",
+      "sampledPaintCount": "2",
+      "sampledPaintMeanMs": "0.35",
+      "sampledPaintP95Ms": "0.4",
+      "seed": "0",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 844,
+      "width": 390
+    },
+    "hud": {
+      "height": 56,
+      "width": 366,
+      "x": 12,
+      "y": 8
+    },
+    "viewport": {
+      "height": 844,
+      "width": 390
+    },
+    "image": "dense-v2-B-s0-overview-390.jpg"
+  },
+  {
+    "canvas": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 56,
+      "width": 132,
+      "x": 129,
+      "y": 772
+    },
+    "data": {
+      "arrows": "66",
+      "attempts": "1",
+      "cellSize": "34.568",
+      "extractionFrames": "23",
+      "extractionMaxGapMs": "19.000",
+      "family": "B",
+      "generationMs": "107.10000000009313",
+      "lastPaintMs": "0.400",
+      "levelId": "procedural-v2-feasibility-r2-00000000-23-37-60-85-auto-3-18-6-0.56-0.8-4-96-26000-0-B",
+      "maxPaintMs": "0.900",
+      "paintCount": "21",
+      "phase": "ready",
+      "remaining": "66",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":358,\"height\":676}",
+      "sampledPaintCount": "74",
+      "sampledPaintMeanMs": "0.35270270270270265",
+      "sampledPaintP95Ms": "0.5",
+      "seed": "0",
+      "zoom": "2.250"
+    },
+    "document": {
+      "height": 844,
+      "width": 390
+    },
+    "hud": {
+      "height": 56,
+      "width": 366,
+      "x": 12,
+      "y": 8
+    },
+    "viewport": {
+      "height": 844,
+      "width": 390
+    },
+    "image": "dense-v2-B-s0-working-390.jpg"
+  },
+  {
+    "canvas": {
+      "height": 568,
+      "width": 320,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 56,
+      "width": 132,
+      "x": 94,
+      "y": 496
+    },
+    "data": {
+      "arrows": "66",
+      "attempts": "0",
+      "cellSize": "10.556",
+      "extractionFrames": "23",
+      "extractionMaxGapMs": "19.000",
+      "family": "B",
+      "generationMs": "107.10000000009313",
+      "lastPaintMs": "0.200",
+      "levelId": "procedural-v2-feasibility-r2-00000000-23-37-60-85-auto-3-18-6-0.56-0.8-4-96-26000-0-B",
+      "maxPaintMs": "0.400",
+      "paintCount": "6",
+      "phase": "ready",
+      "remaining": "66",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+      "sampledPaintCount": "78",
+      "sampledPaintMeanMs": "0.35",
+      "sampledPaintP95Ms": "0.5",
+      "seed": "0",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 568,
+      "width": 320
+    },
+    "hud": {
+      "height": 56,
+      "width": 296,
+      "x": 12,
+      "y": 8
+    },
+    "viewport": {
+      "height": 568,
+      "width": 320
+    },
+    "image": "dense-v2-B-s0-overview-320.jpg"
+  },
+  {
+    "canvas": {
+      "height": 568,
+      "width": 320,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 56,
+      "width": 132,
+      "x": 94,
+      "y": 496
+    },
+    "data": {
+      "arrows": "66",
+      "attempts": "1",
+      "cellSize": "35.625",
+      "extractionFrames": "23",
+      "extractionMaxGapMs": "19.000",
+      "family": "B",
+      "generationMs": "107.10000000009313",
+      "lastPaintMs": "0.300",
+      "levelId": "procedural-v2-feasibility-r2-00000000-23-37-60-85-auto-3-18-6-0.56-0.8-4-96-26000-0-B",
+      "maxPaintMs": "0.500",
+      "paintCount": "25",
+      "phase": "ready",
+      "remaining": "66",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+      "sampledPaintCount": "95",
+      "sampledPaintMeanMs": "0.3505263157894736",
+      "sampledPaintP95Ms": "0.5",
+      "seed": "0",
+      "zoom": "3.375"
+    },
+    "document": {
+      "height": 568,
+      "width": 320
+    },
+    "hud": {
+      "height": 56,
+      "width": 296,
+      "x": 12,
+      "y": 8
+    },
+    "viewport": {
+      "height": 568,
+      "width": 320
+    },
+    "image": "dense-v2-B-s0-working-320.jpg"
+  },
+  {
+    "canvas": {
+      "height": 390,
+      "width": 844,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 132,
+      "width": 56,
+      "x": 772,
+      "y": 129
+    },
+    "data": {
+      "arrows": "66",
+      "attempts": "0",
+      "cellSize": "9.389",
+      "extractionFrames": "23",
+      "extractionMaxGapMs": "19.000",
+      "family": "B",
+      "generationMs": "107.10000000009313",
+      "lastPaintMs": "0.300",
+      "levelId": "procedural-v2-feasibility-r2-00000000-23-37-60-85-auto-3-18-6-0.56-0.8-4-96-26000-0-B",
+      "maxPaintMs": "0.800",
+      "paintCount": "6",
+      "phase": "ready",
+      "remaining": "66",
+      "safeRect": "{\"x\":112,\"y\":16,\"width\":644,\"height\":358}",
+      "sampledPaintCount": "99",
+      "sampledPaintMeanMs": "0.34646464646464636",
+      "sampledPaintP95Ms": "0.5",
+      "seed": "0",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 390,
+      "width": 844
+    },
+    "hud": {
+      "height": 192,
+      "width": 92,
+      "x": 12,
+      "y": 12
+    },
+    "viewport": {
+      "height": 390,
+      "width": 844
+    },
+    "image": "dense-v2-B-s0-overview-landscape.jpg"
+  },
+  {
+    "canvas": {
+      "height": 390,
+      "width": 844,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 132,
+      "width": 56,
+      "x": 772,
+      "y": 129
+    },
+    "data": {
+      "arrows": "66",
+      "attempts": "1",
+      "cellSize": "31.688",
+      "extractionFrames": "23",
+      "extractionMaxGapMs": "19.000",
+      "family": "B",
+      "generationMs": "107.10000000009313",
+      "lastPaintMs": "0.300",
+      "levelId": "procedural-v2-feasibility-r2-00000000-23-37-60-85-auto-3-18-6-0.56-0.8-4-96-26000-0-B",
+      "maxPaintMs": "0.800",
+      "paintCount": "25",
+      "phase": "ready",
+      "remaining": "66",
+      "safeRect": "{\"x\":112,\"y\":16,\"width\":644,\"height\":358}",
+      "sampledPaintCount": "116",
+      "sampledPaintMeanMs": "0.34396551724137897",
+      "sampledPaintP95Ms": "0.5",
+      "seed": "0",
+      "zoom": "3.375"
+    },
+    "document": {
+      "height": 390,
+      "width": 844
+    },
+    "hud": {
+      "height": 192,
+      "width": 92,
+      "x": 12,
+      "y": 12
+    },
+    "viewport": {
+      "height": 390,
+      "width": 844
+    },
+    "image": "dense-v2-B-s0-working-landscape.jpg"
+  },
+  {
+    "canvas": {
+      "height": 390,
+      "width": 844,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 132,
+      "width": 56,
+      "x": 772,
+      "y": 129
+    },
+    "data": {
+      "arrows": "25",
+      "attempts": "0",
+      "cellSize": "28.167",
+      "extractionFrames": "23",
+      "extractionMaxGapMs": "19.000",
+      "family": "v1",
+      "generationMs": "41.700000000186265",
+      "lastPaintMs": "0.100",
+      "levelId": "procedural-v1-d7c9178e-expert-13-13-24-27-0.46-2-7-3-0.78-6-64-12000",
+      "maxPaintMs": "0.200",
+      "paintCount": "3",
+      "phase": "ready",
+      "remaining": "25",
+      "safeRect": "{\"x\":112,\"y\":16,\"width\":644,\"height\":358}",
+      "sampledPaintCount": "2",
+      "sampledPaintMeanMs": "0.1",
+      "sampledPaintP95Ms": "0.1",
+      "seed": "0",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 390,
+      "width": 844
+    },
+    "hud": {
+      "height": 192,
+      "width": 92,
+      "x": 12,
+      "y": 12
+    },
+    "viewport": {
+      "height": 390,
+      "width": 844
+    },
+    "image": "dense-v2-v1-level81-comparison-landscape.jpg"
+  },
+  {
+    "canvas": {
+      "height": 568,
+      "width": 320,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 56,
+      "width": 132,
+      "x": 94,
+      "y": 496
+    },
+    "data": {
+      "arrows": "25",
+      "attempts": "0",
+      "cellSize": "22.333",
+      "extractionFrames": "23",
+      "extractionMaxGapMs": "19.000",
+      "family": "v1",
+      "generationMs": "41.700000000186265",
+      "lastPaintMs": "0.000",
+      "levelId": "procedural-v1-d7c9178e-expert-13-13-24-27-0.46-2-7-3-0.78-6-64-12000",
+      "maxPaintMs": "0.200",
+      "paintCount": "5",
+      "phase": "ready",
+      "remaining": "25",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":288,\"height\":400}",
+      "sampledPaintCount": "4",
+      "sampledPaintMeanMs": "0.1",
+      "sampledPaintP95Ms": "0.2",
+      "seed": "0",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 568,
+      "width": 320
+    },
+    "hud": {
+      "height": 56,
+      "width": 296,
+      "x": 12,
+      "y": 8
+    },
+    "viewport": {
+      "height": 568,
+      "width": 320
+    },
+    "image": "dense-v2-v1-level81-comparison-320.jpg"
+  },
+  {
+    "canvas": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 56,
+      "width": 132,
+      "x": 129,
+      "y": 772
+    },
+    "data": {
+      "arrows": "25",
+      "attempts": "0",
+      "cellSize": "28.167",
+      "extractionFrames": "23",
+      "extractionMaxGapMs": "19.000",
+      "family": "v1",
+      "generationMs": "41.700000000186265",
+      "lastPaintMs": "0.200",
+      "levelId": "procedural-v1-d7c9178e-expert-13-13-24-27-0.46-2-7-3-0.78-6-64-12000",
+      "maxPaintMs": "0.200",
+      "paintCount": "7",
+      "phase": "ready",
+      "remaining": "25",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":358,\"height\":676}",
+      "sampledPaintCount": "6",
+      "sampledPaintMeanMs": "0.11666666666666665",
+      "sampledPaintP95Ms": "0.2",
+      "seed": "0",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 844,
+      "width": 390
+    },
+    "hud": {
+      "height": 56,
+      "width": 366,
+      "x": 12,
+      "y": 8
+    },
+    "viewport": {
+      "height": 844,
+      "width": 390
+    },
+    "image": "dense-v2-v1-level81-comparison-390.jpg"
+  },
+  {
+    "canvas": {
+      "height": 844,
+      "width": 390,
+      "x": 0,
+      "y": 0
+    },
+    "controls": {
+      "height": 56,
+      "width": 132,
+      "x": 129,
+      "y": 772
+    },
+    "data": {
+      "arrows": "85",
+      "attempts": "0",
+      "cellSize": "15.364",
+      "extractionFrames": "1",
+      "extractionMaxGapMs": "0.000",
+      "family": "B",
+      "generationMs": "186.20000000018626",
+      "lastPaintMs": "0.300",
+      "levelId": "procedural-v2-feasibility-r2-00000000-23-37-60-85-85-3-18-6-0.56-0.8-4-96-26000-0-B",
+      "maxPaintMs": "0.300",
+      "paintCount": "3",
+      "phase": "ready",
+      "remaining": "85",
+      "requestedArrows": "85",
+      "safeRect": "{\"x\":16,\"y\":72,\"width\":358,\"height\":676}",
+      "sampledPaintCount": "2",
+      "sampledPaintMeanMs": "0.2",
+      "sampledPaintP95Ms": "0.3",
+      "seed": "0",
+      "zoom": "1.000"
+    },
+    "document": {
+      "height": 844,
+      "width": 390
+    },
+    "hud": {
+      "height": 56,
+      "width": 366,
+      "x": 12,
+      "y": 8
+    },
+    "viewport": {
+      "height": 844,
+      "width": 390
+    },
+    "image": "dense-v2-B85-s0-overview-390.jpg"
+  }
+]

@@ -1,0 +1,10 @@
+#lab-controls h2{font-size:24px;letter-spacing:-.7px}
+#lab-controls>p,#lab-controls details p{font-size:12px;line-height:1.7;color:#60736c;margin-top:10px}
+#lab-controls label{display:flex;flex-direction:column;gap:6px;margin:14px 0;font-size:12px;color:#42625c}
+#lab-controls input,#lab-controls select{min-height:44px;border:1px solid #d2ddd5;border-radius:10px;background:#fffdf9;color:#24333a;padding:8px;font:inherit}
+#lab-controls .motion-option{flex-direction:row;align-items:center;gap:12px}
+#lab-controls .motion-option input{width:22px;min-height:22px}
+#lab-controls details{margin-top:20px}#lab-controls summary{cursor:pointer;min-height:44px;font-size:13px}
+#lab-controls pre{font:11px/1.6 monospace;white-space:pre-wrap;overflow-wrap:anywhere;padding-top:10px}
+#lab-controls a{color:#087c76;font-size:12px}
+#game-screen #difficulty{letter-spacing:1px;font-size:9px}
